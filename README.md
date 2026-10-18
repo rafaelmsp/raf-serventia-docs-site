@@ -1,30 +1,20 @@
-# RAF Serventia Docs — site público
+# RAF Serventia Docs — apresentação pública compacta
 
-Apresentação pública do projeto independente **RAF Serventia Docs**, de Rafael MS Passos.
+Site: https://rafaelmsp.github.io/raf-serventia-docs-site/
 
-**Acesse o site:** https://rafaelmsp.github.io/raf-serventia-docs-site/
+## Navegação
+A página inicial mostra apenas cinco áreas temáticas, com **uma página HTML própria por área** em `areas/`. O menu e os cartões usam links estáticos e funcionais, sem um longo mural de procedimentos.
 
-## O que o menu oferece
-
-- **Início:** apresentação.
-- **Áreas:** mapa de cinco áreas documentais e atalhos internos.
-- **Metodologia:** fluxo de organização, conferência, revisão e publicação.
-- **Acesso ao acervo:** declaração transparente do que está e não está disponível publicamente.
-- **Sobre:** autoria e natureza não oficial.
-- **GitHub:** repositório deste site de apresentação.
-
-No celular, o menu é expansível e pode ser fechado com Escape; links internos usam âncoras reais. Todos os alvos foram conferidos em navegadores com 360, 390, 430, 768, 1024 e 1366 px.
-
-## Restrição do conteúdo técnico
-
-A versão pública **não contém as 96 fichas operacionais, o PDF de 107 páginas, nem suas imagens**. O manual de referência está marcado como uso restrito; os originais e a documentação técnica completa ficam no repositório privado separado. Nenhum botão deste site simula liberar esse acervo.
+As 96 fichas completas e o PDF de 107 páginas permanecem no repositório **privado**, pois a fonte está classificada como material de uso restrito. Não integrar arquivos privados nesta branch pública sem revisão e liberação.
 
 ## Arquivos
+- `index.html`: menu inicial compacto.
+- `areas/*.html`: cinco páginas públicas de descrição geral.
+- `assets/css/documentacao.css`: visual responsivo.
+- `gerar_publico.py`: gerador estático dessas páginas.
+- `qa_compacto.cjs`: testes em navegador.
+- `docs/qa-compacto.md`: relatório de QA.
 
-- `index.html`: página sem dependências de framework.
-- `assets/navigation.css`: ajustes responsivos, links, foco e legibilidade.
-- `assets/navigation.js`: navegação mobile e botão de retorno.
-- `docs/qa-interface.md`: relatório de teste.
-- `qa/screenshots/`: capturas realizadas no Chromium.
+Nenhum formulário, login ou operação no PJe é executado.
 
-Este site não representa o TJRJ nem fornece instrução oficial.
+Autoria: Rafael MS Passos, 2026. Projeto independente, sem endosso do TJRJ.
