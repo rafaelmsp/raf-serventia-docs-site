@@ -175,5 +175,13 @@
     "Procure diligência pendente: Verifique se outra tentativa ainda aguarda retorno."
   ],
   "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
-  "authored_batch": "ocr_interpreted_guided"
+  "authored_batch": "ocr_interpreted_guided",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 69,
+    "checked_date": "2026-10-19",
+    "source_observation": "O fluxo bifurca diante de um retorno negativo: se houver outra diligência pendente, manter a pauta e aguardar; havendo retornos relevantes negativos, há fluxo observado na serventia sob orientação.",
+    "risk_note": "O prazo de cinco dias é exemplo de treinamento, não regra geral comprovada. Cancelar pauta, certificar e expedir PAC dependem de comando, servidor e perfil.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

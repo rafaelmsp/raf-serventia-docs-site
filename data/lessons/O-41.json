@@ -175,5 +175,13 @@
     "Compare protocolo e período: Não faça contagem automática sem feriados/suspensões aplicáveis."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 46,
+    "checked_date": "2026-10-19",
+    "source_observation": "A página orienta identificar a data da ciência, conferir prazo legal, protocolo do recurso, feriados e suspensões, e elaborar registro claro da conclusão.",
+    "risk_note": "Contagem de prazo não se deduz apenas da data da petição. Confirmar termo inicial, calendário aplicável e eventual suspensão; certidão exige agente competente.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

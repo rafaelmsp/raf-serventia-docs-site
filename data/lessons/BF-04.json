@@ -180,5 +180,13 @@
     "Salvar, se aplicável: Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal."
   ],
   "source_highlight_status": "camada_textual_pdf",
-  "authored_batch": "native_source_bf_bv"
+  "authored_batch": "native_source_bf_bv",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 82,
+    "checked_date": "2026-10-19",
+    "source_observation": "O fluxo descrito compreende revisar pedido, definir formato, salvar em local institucional, conferir assinatura legítima e confirmar encaminhamento/protocolo.",
+    "risk_note": "Arquivo salvo, papel assinado e juntada efetiva no PJe não são equivalentes. O próprio manual alerta que o botão/caminho de salvar requer validação local.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

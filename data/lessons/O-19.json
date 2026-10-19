@@ -175,5 +175,13 @@
     "Reconheça a competência: O gabinete e a conclusão dependem da matriz e rotina atual."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 24,
+    "checked_date": "2026-10-19",
+    "source_observation": "A página descreve quando o assunto exige apreciação judicial e apresenta o fluxo da tarefa Conclusão ao Juiz — Minuta e subsequente remessa para assinatura.",
+    "risk_note": "Nem toda petição exige conclusão; minuta e assinatura são atos com funções e perfis próprios. Verificar despacho anterior, competência e supervisão.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

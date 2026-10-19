@@ -180,5 +180,13 @@
     "Confirme identidade: Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado."
   ],
   "source_highlight_status": "camada_textual_pdf",
-  "authored_batch": "native_source_special"
+  "authored_batch": "native_source_special",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 98,
+    "checked_date": "2026-10-19",
+    "source_observation": "A página reproduz mensagem dirigida a advogados sobre apresentação de OAB/câmera e limites de 10 minutos e três processos por atendimento.",
+    "risk_note": "Ato 15/2026 teve publicação identificada no portal da CGJ; sua redação consolidada, aplicação e exceções ainda requerem verificação antes de torná-lo regra operacional.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

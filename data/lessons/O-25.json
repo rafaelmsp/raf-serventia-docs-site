@@ -175,5 +175,13 @@
     "Examine prazos e recursos: Confira contagem, manifestações e eventuais pendências."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 30,
+    "checked_date": "2026-10-19",
+    "source_observation": "O checklist exige sentença, comunicação às partes, prazo recursal encerrado, inexistência de recurso em processamento e ausência de outras pendências impeditivas.",
+    "risk_note": "Não certificar trânsito em julgado com recurso ou prazo aberto; a data de término precisa de conferência da ciência e do calendário aplicável.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

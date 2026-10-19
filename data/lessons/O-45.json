@@ -190,5 +190,13 @@
     "Gabinete 3 — Suspensos: Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos."
   ],
   "source_highlight_status": "camada_textual_pdf",
-  "authored_batch": "native_source_special"
+  "authored_batch": "native_source_special",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 50,
+    "checked_date": "2026-10-19",
+    "source_observation": "A folha contém os sete gabinetes e respectivas etiquetas; o próprio manual esclarece que a etiqueta não determina, isoladamente, abertura de conclusão.",
+    "risk_note": "A matriz foi reproduzida de material de treinamento e não demonstra vigência atual. Confirmar com a chefia e não automatizar conclusões.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

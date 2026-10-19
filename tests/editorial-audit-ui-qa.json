@@ -1,0 +1,47 @@
+{
+  "passed": 4,
+  "expected": 4,
+  "failures": [],
+  "results": [
+    {
+      "width": 360,
+      "audit_list": 96,
+      "visual_checked": 15,
+      "pending": 81,
+      "filters": true,
+      "source_links": true,
+      "lesson_banners": true,
+      "no_overflow": true
+    },
+    {
+      "width": 390,
+      "audit_list": 96,
+      "visual_checked": 15,
+      "pending": 81,
+      "filters": true,
+      "source_links": true,
+      "lesson_banners": true,
+      "no_overflow": true
+    },
+    {
+      "width": 768,
+      "audit_list": 96,
+      "visual_checked": 15,
+      "pending": 81,
+      "filters": true,
+      "source_links": true,
+      "lesson_banners": true,
+      "no_overflow": true
+    },
+    {
+      "width": 1366,
+      "audit_list": 96,
+      "visual_checked": 15,
+      "pending": 81,
+      "filters": true,
+      "source_links": true,
+      "lesson_banners": true,
+      "no_overflow": true
+    }
+  ]
+}

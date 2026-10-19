@@ -175,5 +175,13 @@
     "CONFERIR VÍNCULO: Se necessário, verificar legitimidade ou representação no processo com acesso autorizado."
   ],
   "source_highlight_status": "camada_textual_pdf",
-  "authored_batch": "native_source_bf_bv"
+  "authored_batch": "native_source_bf_bv",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 97,
+    "checked_date": "2026-10-19",
+    "source_observation": "O infográfico orienta reconhecer se a pessoa é advogado, parte ou terceiro, conferir identificação adequada, vínculo, representação e restrição de acesso.",
+    "risk_note": "Carteira OAB não deve ser exigida de cidadão que não é advogado. Não fotografar documento por iniciativa própria nem divulgar informação sigilosa sem legitimidade confirmada.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

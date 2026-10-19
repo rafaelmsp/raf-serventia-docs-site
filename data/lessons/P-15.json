@@ -175,5 +175,13 @@
     "Verifique tempo disponível: O manual cita modelo de certidão quando não há tempo hábil, sujeito à rotina atual."
   ],
   "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
-  "authored_batch": "ocr_interpreted_guided"
+  "authored_batch": "ocr_interpreted_guided",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 70,
+    "checked_date": "2026-10-19",
+    "source_observation": "A página diferencia diligência negativa (expedida e devolvida sem êxito) de ato não expedido; no segundo caso mostra conferência, modelo de certidão, assinatura e conclusão.",
+    "risk_note": "A audiência permanece na pauta até determinação diversa. Falta de expedição não autoriza cancelamento automático; conferência e encaminhamento dependem da serventia.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

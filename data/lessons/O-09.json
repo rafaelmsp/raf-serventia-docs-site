@@ -165,5 +165,13 @@
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-09/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-09/fluxo-premium.svg",
-  "authored_batch": "study_batch_02"
+  "authored_batch": "study_batch_02",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 14,
+    "checked_date": "2026-10-19",
+    "source_observation": "O infográfico distingue citação, intimação e AR; apresenta retornos positivo, negativo, destinatário ausente, endereço insuficiente, horário irregular e ausência de devolução.",
+    "risk_note": "Um AR positivo não deve ser tratado como ciência válida sem conferir documento, destinatário e contexto. Não presumir início de prazo.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

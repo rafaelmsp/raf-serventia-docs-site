@@ -175,5 +175,13 @@
     "Leia o comando: Observe prazo, destinatário e necessidade de comprovação de cumprimento."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 43,
+    "checked_date": "2026-10-19",
+    "source_observation": "O infográfico distingue pedido sem decisão, deferimento, indeferimento, comunicação urgente e prova de cumprimento; determina leitura integral da decisão.",
+    "risk_note": "Pedido de tutela não representa tutela deferida. Conferir comando, destinatário e prazos; atos urgentes e conclusão exigem perfil e determinação competente.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

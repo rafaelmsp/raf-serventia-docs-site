@@ -175,5 +175,13 @@
     "Examine preparo ou gratuidade: Procure os documentos e determinações relativos a custas ou benefício."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 37,
+    "checked_date": "2026-10-19",
+    "source_observation": "A página apresenta tarefa de análise de petição recursal, identificação de recursos múltiplos e conferência de custas ou gratuidade antes do encaminhamento.",
+    "risk_note": "Cada recurso pode gerar tarefa própria. Certificação de custas ou gratuidade não se confunde com julgamento do recurso. O fluxo documentado pode variar por perfil e versão.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

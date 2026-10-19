@@ -175,5 +175,13 @@
     "Identifique valores e alcance: Leia o documento e os montantes, sem presumir disponibilidade."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 44,
+    "checked_date": "2026-10-19",
+    "source_observation": "O documento distingue decisão, retorno positivo, retorno negativo, bloqueio parcial/integral, desbloqueio e transferência e indica controle do resultado na árvore.",
+    "risk_note": "Operação no SISBAJUD, assinatura, transferências e liberação são atos exclusivos do agente competente. Roteiro didático não concede acesso.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

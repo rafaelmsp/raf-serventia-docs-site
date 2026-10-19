@@ -175,5 +175,13 @@
     "Reconheça os destinatários relatados: O infográfico diferencia juiz togado e juiz leigo conforme antecedência informada."
   ],
   "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
-  "authored_batch": "ocr_interpreted_guided"
+  "authored_batch": "ocr_interpreted_guided",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 71,
+    "checked_date": "2026-10-19",
+    "source_observation": "A fonte separa mais de 72 horas (juiz togado) e até 72 horas (juiz leigo), expressamente como encaminhamento relatado em treinamento oral.",
+    "risk_note": "Não apresentar o marco de 72 horas como norma geral vigente. Confirmar horário exato, orientação atual e autoridade de destino antes de movimentar.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

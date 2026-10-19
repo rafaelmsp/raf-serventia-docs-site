@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Painel de confronto da documentação didática RAF Serventia Docs com as 107 páginas do manual de origem.">
+<title>Auditoria da Fonte | RAF Serventia Docs</title>
+<link rel="stylesheet" href="assets/css/documentacao.css">
+<link rel="stylesheet" href="assets/css/portal-v2.css">
+<link rel="stylesheet" href="assets/css/auditoria.css">
+<script src="assets/js/auditoria.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para a auditoria</a>
+<header class="head">
+  <a class="logo" href="index.html"><span aria-hidden="true">◆</span> <span>RAF <strong>Serventia Docs</strong></span></a>
+  <nav class="head-nav" aria-label="Navegação">
+    <a href="index.html">Catálogo</a>
+    <a href="aprender.html">Aprender</a>
+    <a href="andamento-pedagogico.html">Progresso</a>
+  </nav>
+</header>
+<main id="conteudo" class="audit-main">
+  <section class="audit-hero">
+    <div>
+      <p class="audit-eyebrow">RASTREABILIDADE DA FONTE · V2.5</p>
+      <h1>Auditoria dos roteiros</h1>
+      <p>Localize cada aula e compare-a ao infográfico original. O confronto visual é diferente de aprovação jurídica, validação da serventia ou teste pedagógico.</p>
+    </div>
+    <a class="audit-primary" href="docs/manual-fonte.pdf" target="_blank" rel="noopener noreferrer">Ver manual completo ↗</a>
+  </section>
+
+  <div class="audit-summary" aria-label="Indicadores de revisão">
+    <div><strong id="total">96</strong><span>roteiros em revisão</span></div>
+    <div><strong id="checked">—</strong><span>fontes confrontadas visualmente</span></div>
+    <div><strong id="pending">—</strong><span>fontes ainda não confrontadas</span></div>
+    <div><strong>0</strong><span>aulas homologadas</span></div>
+  </div>
+
+  <div class="audit-warning" role="note"><strong>Material didático não oficial.</strong> A comparação com uma página de 2026 não confirma vigência de normas, decisões, roteamento interno ou permissão para executar tarefas no PJe. Nunca inclua dados de processos reais em anotações abertas.</div>
+
+  <section class="audit-panel" aria-labelledby="filter-title">
+    <div class="audit-panel-head"><div><p class="audit-eyebrow">BUSCAR · FILTRAR · CONFERIR</p><h2 id="filter-title">Biblioteca de revisão</h2></div><span id="results" aria-live="polite">Carregando registros…</span></div>
+    <div class="audit-filters">
+      <label>Pesquisar assunto ou código
+        <input id="audit-search" type="search" placeholder="Ex.: SISBAJUD, O-39, audiência" autocomplete="off">
+      </label>
+      <label>Área documental
+        <select id="audit-section">
+          <option value="ALL">Todas as áreas</option><option value="O">Operações no PJe</option>
+          <option value="P">Pauta e audiências</option><option value="R">Relatórios</option>
+          <option value="BF">Balcão Físico</option><option value="BV">Balcão Virtual</option>
+        </select>
+      </label>
+      <label>Conferência da imagem original
+        <select id="audit-filter">
+          <option value="ALL">Todos os registros</option>
+          <option value="checked">Confrontados</option>
+          <option value="pending">Pendentes</option>
+        </select>
+      </label>
+    </div>
+    <div id="audit-list" class="audit-list" aria-live="polite"></div>
+    <div class="audit-pager">
+      <button id="audit-prev" type="button">← Anterior</button><span id="audit-page">Página 1</span><button id="audit-next" type="button">Próxima →</button>
+    </div>
+  </section>
+  <section class="audit-method">
+    <h2>O que significam os estados?</h2>
+    <div class="audit-method-grid">
+      <div><strong>Confronto visual da fonte</strong><p>A imagem da página do PDF foi examinada em relação à síntese de estudo. O registro aponta ressalvas e riscos. Não é homologação.</p></div>
+      <div><strong>Revisão pendente</strong><p>O roteiro foi escrito, mas a leitura detalhada da imagem original ainda precisa ser confrontada e corrigida quando necessário.</p></div>
+      <div><strong>Homologação técnica e pedagógica</strong><p>Requer verificar regras atuais, atribuições, passos, clareza e aprendizagem. Nenhuma das 96 aulas possui essa homologação.</p></div>
+    </div>
+    <p class="audit-method-bottom">Fonte: <a href="docs/manual-fonte.pdf">Manual Operacional do Estagiário na Serventia (15/10/2026)</a>. <a href="docs/RELATORIO_PRODUCAO_INTEGRAL_96.md">Relatório de produção</a>. <a href="docs/RELATORIO_AUDITORIA_FONTE_LOTE_01.md">Relatório do primeiro confronto visual</a>.</p>
+  </section>
+</main>
+<footer>RAF Serventia Docs · Confronto da fonte para estudo · Sem vínculo ou homologação institucional.</footer>
+</body>
+</html>

@@ -36,7 +36,22 @@ function welcome(){
  const b=box('O que você vai aprender?','Você não precisa conhecer previamente o PJe.');
  add(b,E('p','welcome-objective',data.objective),E('p','edu-readable',data.plain),
  E('div','edu-notice',data.state==='author_draft'?'Lição didática autoral em revisão. Os exemplos são fictícios.':'Prévia de estudo: ainda não há procedimento operacional revisado nesta ficha.'),
- E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));if(data.visual_coverage){ b.append(visualFigure('scene','Prévia ilustrada da lição'));const go=E('button','preview-action','Explorar imagem e elementos →');go.type='button';go.addEventListener('click',()=>move(2));b.append(go); }return b;
+ E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));
+ const audit=E('details','edu-review');
+ const checked=!!data.editorial_audit;
+ audit.append(E('summary','',checked?'Fonte original confrontada — ler ressalvas':'Conferência detalhada da fonte pendente'));
+ const auditBody=E('div','edu-review-body');
+ if(checked){
+  auditBody.append(E('p','',data.editorial_audit.source_observation));
+  auditBody.append(E('p','edu-review-risk','Atenção: '+data.editorial_audit.risk_note));
+  auditBody.append(E('p','edu-small','A imagem original foi examinada; a aplicação normativa e a autorização operacional ainda dependem de validação.'));
+ }else{
+  auditBody.append(E('p','', 'Esta página tem texto didático, mas ainda não passou pelo confronto editorial detalhado com o infográfico original.'));
+ }
+ const auditLink=E('a','source-link','Ver auditoria e estado da fonte ↗');
+ auditLink.href='../auditoria-fonte.html';auditBody.append(auditLink);
+ audit.append(auditBody);b.append(audit);
+ if(data.visual_coverage){ b.append(visualFigure('scene','Prévia ilustrada da lição'));const go=E('button','preview-action','Explorar imagem e elementos →');go.type='button';go.addEventListener('click',()=>move(2));b.append(go); }return b;
 }
 function understand(){
  const b=box('Entender sem complicação','Abra cada expressão para conhecer o significado e um exemplo.');

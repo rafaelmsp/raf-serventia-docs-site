@@ -175,5 +175,13 @@
     "Diferencie etapas: Requisição, digitação, assinatura, expedição e efetivação são fases distintas."
   ],
   "source_highlight_status": "ocr_interpretacao_a_revisar",
-  "authored_batch": "ocr_topic_review_draft"
+  "authored_batch": "ocr_topic_review_draft",
+  "editorial_audit": {
+    "status": "source_image_checked",
+    "source_page": 48,
+    "checked_date": "2026-10-19",
+    "source_observation": "O documento separa decisão, dados do beneficiário, valor, preenchimento, assinatura, expedição e registro do resultado.",
+    "risk_note": "Requisição, mandado digitado, mandado assinado, mandado expedido e pagamento efetivado não são situações equivalentes. Conferir beneficiário e decisão atual.",
+    "remaining": "Faltam norma vigente, validação do setor e teste de compreensão com aprendizes."
+  }
 }

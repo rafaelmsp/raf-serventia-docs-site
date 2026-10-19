@@ -110,3 +110,6 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
 .edu-visual-viewport{touch-action:pan-x pan-y;scroll-behavior:smooth}.edu-visual-viewport:focus-visible{outline:3px solid #70D2FC;outline-offset:-3px}.edu-visual-viewport img{user-select:none}.edu-visual-caption{line-height:1.5}
 
 .source-evidence{margin:18px 0 0;border:1px solid #C9DFEC;border-radius:11px;background:#F7FBFE;padding:12px 15px}.source-evidence summary{min-height:35px;color:#225D7E;font-size:13px;font-weight:800;cursor:pointer}.source-evidence-body{padding-top:10px}.source-highlight-list{padding-left:21px;color:#2D526C;font-size:13px;line-height:1.65}.source-highlight-list li{margin-bottom:10px}.source-evidence-body .source-link{margin-top:8px}
+
+/* Auditoria editorial visível na abertura das 96 aulas */
+.edu-review{margin:14px 0;padding:10px 15px;border:1px solid #BDD5E3;border-radius:11px;background:#F0F7FC;color:#285D7D}.edu-review summary{cursor:pointer;min-height:32px;font-size:12px;font-weight:900;line-height:1.5}.edu-review-body{font-size:12px;line-height:1.6;color:#42627A;padding:8px 0 4px}.edu-review-body p{margin:7px 0 11px}.edu-review-risk{background:#FFF3DE;border:1px solid #E8D2A9;color:#6C5029;padding:10px 12px;border-radius:8px}.edu-review-body a{display:inline-flex;min-height:40px;align-items:center}

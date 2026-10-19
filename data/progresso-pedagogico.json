@@ -21,7 +21,7 @@
       "name": "Ilustrações explicativas",
       "weight": 12,
       "credited": 11,
-      "evidence": "96 ilustrações e 96 mapas premium com testes de carregamento; revisão artística e pedagógica individual pendente."
+      "evidence": "192 SVGs premium publicados; iniciado confronto visual de 7 páginas da fonte."
     },
     {
       "id": "M03",
@@ -77,7 +77,7 @@
       "name": "Deploy V2",
       "weight": 5,
       "credited": 2,
-      "evidence": "V2 anterior publicada, atualização visual completa aguardando novo deploy."
+      "evidence": "Produção V2.4 publicada e verificada no Pages; falta homologação final da documentação."
     }
   ],
   "percent": 68,
@@ -108,5 +108,7 @@
   "authored_lessons": 96,
   "images_with_premium_coverage": 96,
   "diagrams_with_premium_coverage": 96,
-  "editorial_review_pending": 96
+  "editorial_review_pending": 96,
+  "source_image_checked": 15,
+  "source_image_pending": 81
 }
