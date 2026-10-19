@@ -1,7 +1,7 @@
 /* RAF Serventia Docs — Premium illustrated reading interface.
    Designed for 360px+ with independent article routes, no infinite scroll. */
 .premium-body{--ux-blue:#1b78b3;--ux-ink:#173047;--ux-mute:#647e91;--ux-paper:#ffffff;--ux-panel:#f2f7fb;--ux-rule:#d7e5ee;background:#f3f7fa;color:var(--ux-ink);font-family:"Segoe UI",Inter,Arial,sans-serif}
-.premium-body.dark{--ux-ink:#f0f5fc;--ux-mute:#a7bad1;--ux-paper:#192b3e;--ux-panel:#102033;--ux-rule:#344e63;background:#0d1a29}
+.dark .premium-body{--ux-ink:#f0f5fc;--ux-mute:#a7bad1;--ux-paper:#192b3e;--ux-panel:#102033;--ux-rule:#344e63;background:#0d1a29}
 .premium-body a,.premium-body button{transition:background .15s,color .15s,border-color .15s}
 .premium-header{position:sticky;top:0;z-index:30;min-height:69px;padding:9px max(20px,calc((100vw - 1250px)/2));background:var(--ux-paper);border-bottom:1px solid var(--ux-rule);display:flex;align-items:center;justify-content:space-between;gap:20px}
 .premium-brand{display:flex;align-items:center;gap:10px;min-width:0;text-decoration:none;color:var(--ux-ink)}
