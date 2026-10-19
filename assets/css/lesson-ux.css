@@ -87,3 +87,24 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
 @media print{.lesson-header,.lesson-controls{display:none}.edu-card{break-inside:avoid}.lesson-hero{background:white;color:black;border:1px solid #ccc}.lesson-hero *{color:black!important}}
 
 .original-compare{margin:15px 0;border:1px solid #CFE0EC;background:#F5FAFD;border-radius:12px;padding:11px 15px}.original-compare summary{font-size:13px;font-weight:850;color:#206A97;cursor:pointer;min-height:35px;display:flex;align-items:center}.original-compare img{display:block;width:min(100%,640px);height:auto;margin:10px auto;border-radius:8px;border:1px solid #D0E0EB}
+
+/* Elementos premium desenhados individualmente para as seis lições piloto */
+.edu-visual{margin:19px 0 22px;background:#0F2B44;border-radius:17px;overflow:hidden;border:1px solid #B9D3E4;box-shadow:0 14px 30px #16364D17}
+.edu-visual-bar{min-height:55px;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 17px;background:linear-gradient(100deg,#163A58,#19567C);color:#EFF9FF}
+.edu-visual-bar strong{font-size:13px;font-weight:850;letter-spacing:.1px}
+.edu-zoom-link{display:inline-flex;align-items:center;justify-content:center;min-height:37px;border-radius:8px;padding:7px 11px;background:#DFF1FB;color:#215B7C;font-size:11px;font-weight:900;white-space:nowrap}
+.edu-visual-viewport{background:#102F49;overflow-x:auto;overflow-y:hidden;overscroll-behavior-x:contain;scrollbar-color:#70ACCE #183F5D;scrollbar-width:thin}
+.edu-visual-viewport img{display:block;width:100%;height:auto;max-height:none;object-fit:contain}
+.edu-visual-caption{background:#E9F3FA;color:#47697F;font-size:10px;letter-spacing:.25px;font-weight:800;padding:10px 16px}
+.preview-action{min-height:45px;padding:10px 17px;border-radius:10px;color:#fff;background:#177FB6;border:1px solid #177FB6;font-weight:850;font-size:12px}
+.premium-diagram{margin-bottom:17px}
+@media(max-width:700px){
+.edu-visual{margin:17px -8px 19px;border-radius:11px}
+.edu-visual-viewport img{width:820px;max-width:none;height:auto}
+.edu-visual-bar{padding:10px 11px}
+.edu-visual-bar strong{font-size:11px}
+.edu-zoom-link{font-size:10px}
+.edu-visual-caption{font-size:9px;padding:9px 11px}
+}
+
+.edu-visual-viewport{touch-action:pan-x pan-y;scroll-behavior:smooth}.edu-visual-viewport:focus-visible{outline:3px solid #70D2FC;outline-offset:-3px}.edu-visual-viewport img{user-select:none}.edu-visual-caption{line-height:1.5}

@@ -1,0 +1,55 @@
+{
+  "passed": 24,
+  "expected": 24,
+  "problems": [],
+  "examples": [
+    {
+      "width": 390,
+      "code": "O-03",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    },
+    {
+      "width": 390,
+      "code": "O-08",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    },
+    {
+      "width": 390,
+      "code": "P-01",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    },
+    {
+      "width": 390,
+      "code": "R-01",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    },
+    {
+      "width": 390,
+      "code": "BF-01",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    },
+    {
+      "width": 390,
+      "code": "BV-01",
+      "illustration": true,
+      "flow": true,
+      "touch": true,
+      "scrollable": true
+    }
+  ]
+}

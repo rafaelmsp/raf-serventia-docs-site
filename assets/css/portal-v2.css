@@ -22,3 +22,22 @@
 .source-footer h2{font-size:20px}.source-footer p{font-size:13px;color:#6A7E8C}
 .source-footer a{display:inline-flex;align-items:center;min-height:44px;margin-right:20px;color:#1776A5;font-size:12px;font-weight:900}
 @media(max-width:700px){.v2-hero{grid-template-columns:1fr;padding:25px 21px}.hero-stat{display:flex;align-items:center;gap:15px;text-align:left;border-top:1px solid #ffffff35;border-left:0;padding:12px 0 0}.hero-stat strong{font-size:44px}.hero-stat span{margin-top:0}.hero-stat small{margin-top:0}.v2-paths{grid-template-columns:1fr}.v2-path p{min-height:0}.hero-actions a{width:100%}}
+
+.v2-gallery{margin:24px 0 32px}
+.v2-gallery-head{display:flex;justify-content:space-between;align-items:flex-end;gap:18px;margin-bottom:15px}
+.v2-gallery-head .v2-kicker{color:#1577A8}
+.v2-gallery-head h2{font-size:25px;letter-spacing:-.5px;color:#1E465F;margin:5px 0}
+.v2-gallery-head p:not(.v2-kicker){font-size:12px;color:#657F90;margin:0}
+.v2-gallery-head>a{font-size:12px;font-weight:900;color:#187AAD;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center}
+.v2-gallery-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px}
+.v2-art-card{display:block;min-width:0;overflow:hidden;border-radius:14px;border:1px solid #D5E4EE;background:#FFF;box-shadow:0 6px 20px #153C5210}
+.v2-art-card img{width:100%;height:auto;display:block;aspect-ratio:12/7.6;object-fit:cover;background:#143855}
+.v2-art-details{padding:13px 15px 16px;display:grid;gap:3px}
+.v2-art-details span{font-size:9px;color:#2679A6;font-weight:900;letter-spacing:.5px}
+.v2-art-details strong{font-size:14px;color:#1D435B;line-height:1.35}
+.v2-art-details small{font-size:10px;color:#647E8F}
+.v2-art-card:hover,.v2-art-card:focus-visible{border-color:#2C91C7;box-shadow:0 8px 20px #184C681D;transform:translateY(-1px)}
+.lesson-card-visual{aspect-ratio:12/7.6;overflow:hidden;border-radius:10px;margin-bottom:16px;background:#143852}
+.lesson-card-visual img{display:block;width:100%;height:100%;object-fit:cover}
+@media(max-width:790px){.v2-gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:440px){.v2-gallery-grid{grid-template-columns:1fr}.v2-art-card img{aspect-ratio:12/6.6}.v2-gallery-head{align-items:flex-start}.v2-gallery-head h2{font-size:21px}.v2-gallery-head>a{font-size:10px}}

@@ -1,0 +1,47 @@
+{
+  "passed": 6,
+  "checks": [
+    {
+      "uri": "/index.html",
+      "width": 390,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    },
+    {
+      "uri": "/aprender.html",
+      "width": 390,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    },
+    {
+      "uri": "/index.html",
+      "width": 768,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    },
+    {
+      "uri": "/aprender.html",
+      "width": 768,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    },
+    {
+      "uri": "/index.html",
+      "width": 1366,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    },
+    {
+      "uri": "/aprender.html",
+      "width": 1366,
+      "count": 6,
+      "imagesOk": true,
+      "overflow": 0
+    }
+  ]
+}

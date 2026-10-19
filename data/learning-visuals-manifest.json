@@ -1,0 +1,68 @@
+[
+  {
+    "code": "O-03",
+    "reference_page": 8,
+    "illustration": "assets/learning/O-03/ilustracao-premium.svg",
+    "flow": "assets/learning/O-03/fluxo-premium.svg",
+    "sha_illustration": "c913396621d30811c3e98e2540789527f09f6b27593102914865c6a510dd1107",
+    "sha_flow": "180ea9d2953959b2194c0f08bbde4e27886e5b472a8204f1c233332eabe9d530",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de Anatomia da Árvore do Processo, com interface e dados fictícios."
+  },
+  {
+    "code": "O-08",
+    "reference_page": 13,
+    "illustration": "assets/learning/O-08/ilustracao-premium.svg",
+    "flow": "assets/learning/O-08/fluxo-premium.svg",
+    "sha_illustration": "bea45e2f2ade38ba8ef800a48e00e29bd4fa9569a3326134affd40742fa24baa",
+    "sha_flow": "0d040253eb3fa4160951ccfca12499a256c3bce2893bae8945b4b36d6b007504",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de PAC na prática, com interface e dados fictícios."
+  },
+  {
+    "code": "P-01",
+    "reference_page": 56,
+    "illustration": "assets/learning/P-01/ilustracao-premium.svg",
+    "flow": "assets/learning/P-01/fluxo-premium.svg",
+    "sha_illustration": "febb48be6d5975cdc174b1ec5b0016235c6114a02696fad05c75ddbb1f5cb4e3",
+    "sha_flow": "609b0d9c76755f268a9a492dcbc5c1a90393e935ccd67c80c44ad31b06c51153",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de Árvore e pauta de audiência, com interface e dados fictícios."
+  },
+  {
+    "code": "BF-01",
+    "reference_page": 79,
+    "illustration": "assets/learning/BF-01/ilustracao-premium.svg",
+    "flow": "assets/learning/BF-01/fluxo-premium.svg",
+    "sha_illustration": "fab91bac40380cce0bf220b4a7ac5f095f324ec1b02a8a3706aca696e6ee74ed",
+    "sha_flow": "08db3dc539ada994f17a7af0f652b03f1e5af4a3dc4f58e3c8217da52d64653d",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de RECEPÇÃO E IDENTIFICAÇÃO, com interface e dados fictícios."
+  },
+  {
+    "code": "BV-01",
+    "reference_page": 92,
+    "illustration": "assets/learning/BV-01/ilustracao-premium.svg",
+    "flow": "assets/learning/BV-01/fluxo-premium.svg",
+    "sha_illustration": "e20b3c5e24bb10bcc9a2bad838ab009c144c3355d4a96e325ac728043c1b0c5a",
+    "sha_flow": "97b0be80c71b0fb64e0be906356c914ae87ebc7a39885ce41c8c961ec8fe9028",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de Base legal e regras, com interface e dados fictícios."
+  },
+  {
+    "code": "R-01",
+    "reference_page": 73,
+    "illustration": "assets/learning/R-01/ilustracao-premium.svg",
+    "flow": "assets/learning/R-01/fluxo-premium.svg",
+    "sha_illustration": "e7758d0a31a38b31b9973ce8655d99c1d3bd0f0a7f6345d6062ce3e2173f9dba",
+    "sha_flow": "d37b8566773d3d3834ff2f68f60d11798a8419b703ffa5ec9dac1cc78d1b98af",
+    "review": "didactic visual; editorial check pending",
+    "fictitious": true,
+    "alt": "Ilustração pedagógica original de Indicadores da Árvore Processual, com interface e dados fictícios."
+  }
+]

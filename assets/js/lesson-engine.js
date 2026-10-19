@@ -10,11 +10,33 @@ const add=(parent,...children)=>{children.forEach(x=>parent.append(x));return pa
 const persist=()=>{try{localStorage.setItem(key,JSON.stringify({step,answers,checks}))}catch{}};
 const box=(title,subtitle)=>{const b=E('section','edu-card');add(b,E('h2','edu-title',title),E('p','edu-muted',subtitle));return b};
 const sequence=(values,fn)=>{const list=E('div','edu-stack');values.forEach((v,i)=>list.append(fn(v,i)));return list};
+function visualFigure(kind,title) {
+ const codePart=data.code;
+ const asset=kind==='scene'?'ilustracao-premium.svg':'fluxo-premium.svg';
+ const src='../assets/learning/'+codePart+'/'+asset;
+ const outer=E('figure',kind==='scene'?'edu-visual premium-scene':'edu-visual premium-diagram');
+ const top=E('div','edu-visual-bar');
+ top.append(E('strong','',title));
+ const link=E('a','edu-zoom-link','Ampliar imagem ↗');link.href=src;link.target='_blank';link.rel='noopener noreferrer';
+ top.append(link);
+ const viewport=E('div','edu-visual-viewport');
+ viewport.tabIndex=0;
+ viewport.setAttribute('role','region');
+ viewport.setAttribute('aria-label','Ilustração de estudo, com rolagem horizontal no celular');
+ const picture=E('img');
+ picture.src=src;
+ picture.alt=(kind==='scene'?'Cena ilustrada: ':'Diagrama: ')+data.title+'. Material simulado, não é interface oficial.';
+ picture.loading='lazy';picture.decoding='async';
+ viewport.append(picture);
+ outer.append(top,viewport);
+ outer.append(E('figcaption','edu-visual-caption','↔ No celular, deslize o desenho para os lados ou toque em Ampliar imagem. SIMULAÇÃO · dados fictícios.'));
+ return outer;
+}
 function welcome(){
  const b=box('O que você vai aprender?','Você não precisa conhecer previamente o PJe.');
  add(b,E('p','welcome-objective',data.objective),E('p','edu-readable',data.plain),
  E('div','edu-notice',data.is_pilot?'Aula piloto em revisão. Os exemplos são fictícios.':'Prévia de estudo: ainda não há procedimento operacional revisado nesta ficha.'),
- E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));return b;
+ E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));if(data.is_pilot){ b.append(visualFigure('scene','Prévia ilustrada da lição'));const go=E('button','preview-action','Explorar imagem e elementos →');go.type='button';go.addEventListener('click',()=>move(2));b.append(go); }return b;
 }
 function understand(){
  const b=box('Entender sem complicação','Abra cada expressão para conhecer o significado e um exemplo.');
@@ -26,7 +48,7 @@ function recognize(){
  const b=box('Reconhecer na prática','Uma ilustração conceitual. Não é captura do PJe nem interface oficial.');
  const fig=E('figure','visual-figure'),img=E('img');img.src='../assets/learning/'+code+'/simulacao.svg';
  img.alt=data.scene.alt;img.loading='lazy';
- add(fig,img,E('figcaption','',data.scene.title+' · simulação didática'));b.append(fig);
+ if(data.is_pilot){b.append(visualFigure('scene','Explore os elementos da cena'));}else{add(fig,img,E('figcaption','',data.scene.title+' · simulação didática'));b.append(fig);}
  const original=E('details','original-compare');
  const picture=E('img');picture.src=data.source_image;picture.loading='lazy';
  picture.alt='Infográfico original da página '+data.page;
@@ -56,7 +78,7 @@ function doWithHelp(){
    b.append(E('p','edu-warning','A sequência operacional ainda não foi validada. Não é seguro transformar OCR em comandos do sistema.'));
    const a=E('a','source-link','Conferir página original ↗');a.href=data.pdf;a.target='_blank';a.rel='noopener noreferrer';b.append(a);return b;
  }
- b.append(sequence(data.steps,(s,i)=>{const x=E('article','coach-item'),body=E('div');
+ if(data.is_pilot)b.append(visualFigure('diagram','Mapa visual da sequência de conferência'));b.append(sequence(data.steps,(s,i)=>{const x=E('article','coach-item'),body=E('div');
  add(body,E('h3','',s.title),E('p','',s.instruction));
  const d=E('details','why-detail');add(d,E('summary','','Por que isso importa?'),E('p','',s.why));body.append(d);
  return add(x,E('span','coach-number',i+1),body)}));

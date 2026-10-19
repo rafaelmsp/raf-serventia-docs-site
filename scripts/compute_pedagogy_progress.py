@@ -15,15 +15,21 @@ published=False
 if deploy.exists():
  info=json.loads(deploy.read_text(encoding='utf8'))
  published=info.get('status')=='success' and info.get('online_html')==200 and info.get('online_data')==200
+visual_manifest=root/'data/learning-visuals-manifest.json'
+visual_qa_file=root/'tests/premium-visual-qa.json'
+visual_pack=json.loads(visual_manifest.read_text(encoding='utf8')) if visual_manifest.exists() else []
+visual_qa=json.loads(visual_qa_file.read_text(encoding='utf8')) if visual_qa_file.exists() else {}
+visuals_ok=len(visual_pack)==6 and all((root/entry['illustration']).exists() and (root/entry['flow']).exists() for entry in visual_pack)
+visual_tests_ok=visuals_ok and visual_qa.get('passed')==24 and not visual_qa.get('problems')
 credits={'M00':7 if static else 3,'M01':12 if passed else 10,
-         'M02':6 if static else 0,'M03':6 if passed else 5,
+         'M02':(9 if visuals_ok else 6) if static else 0,'M03':(7 if visual_tests_ok else 6) if passed else 5,
          'M04':0,'M05':0,'M06':0,'M07':0,'M08':0,
-         'M09':2 if passed else 0,'M10':2 if published else 0}
+         'M09':(3 if visual_tests_ok else 2) if passed else 0,'M10':2 if published else 0}
 for phase in state['phases']:phase['credited']=credits[phase['id']]
 state['percent']=sum(credits.values())
 state['published']=published
 state['qa']={'pilot_cases':qa.get('pilot_cases',0),'expected':36,'routes':96 if passed else 0,
-              'defects':len(qa.get('failures',[])),'static':static}
+              'defects':len(qa.get('failures',[])),'static':static,'premium_visual_cases':visual_qa.get('passed',0)}
 state['approved_lessons']=0
 state['modified_at']=datetime.datetime.now(datetime.timezone.utc).isoformat()
 path.write_text(json.dumps(state,ensure_ascii=False,indent=2),encoding='utf8')
@@ -52,6 +58,8 @@ lines+=['','## Evidências','',
 '- 6 roteiros pilotos com objetivos, termos, cenas, decisões, exercícios e feedback.',
 '- Testes navegador: '+str(state['qa']['pilot_cases'])+'/36 casos com seis pilotos em seis larguras.',
 '- Rotas HTML: '+str(state['qa']['routes'])+'/96 verificadas em Android virtual de 390px.',
+'- Imagens premium próprias: '+str(len(visual_pack))+' cenas e '+str(len(visual_pack))+' diagramas com fonte vinculada.',
+'- Cenários responsivos dos visuais: '+str(visual_qa.get('passed',0))+'/24.',
 '- Publicação V2 confirmada: '+('sim' if published else 'não')+'.',
 '','## Bloqueios','',
 '- Revisão técnica, normativa e pedagógica das seis aulas piloto.',
