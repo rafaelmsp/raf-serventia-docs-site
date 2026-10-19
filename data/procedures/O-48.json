@@ -1,0 +1,129 @@
+{
+  "code": "O-48",
+  "title": "Contestação e pedidos incidentais",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 53,
+  "source_method": "camada_textual_pdf",
+  "summary": "Identificar a manifestação e a próxima providência sem automatismos",
+  "kind": "documentary",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-48-n1",
+      "number": 1,
+      "label": "1 CONTESTAÇÃO NO JEC",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-48-n2",
+      "number": 2,
+      "label": "2 CLASSIFICAR A MANIFESTAÇÃO ANTES DE ENCAMINHAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-48-n3",
+      "number": 3,
+      "label": "REAGENDAMENTO OU AUDIÊNCIA VIRTUAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-48-n4",
+      "number": 4,
+      "label": "ACORDO OU DESISTÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-48-n5",
+      "number": 5,
+      "label": "TUTELA INCIDENTAL / RECONSIDERAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-48-n1",
+      "to": "O-48-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-48-n2",
+      "to": "O-48-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-48-n3",
+      "to": "O-48-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-48-n4",
+      "to": "O-48-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "1 CONTESTAÇÃO NO JEC",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53
+    },
+    {
+      "title": "2 CLASSIFICAR A MANIFESTAÇÃO ANTES DE ENCAMINHAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53
+    },
+    {
+      "title": "REAGENDAMENTO OU AUDIÊNCIA VIRTUAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53
+    },
+    {
+      "title": "ACORDO OU DESISTÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53
+    },
+    {
+      "title": "TUTELA INCIDENTAL / RECONSIDERAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 53
+    }
+  ],
+  "warnings": [
+    "Pág. 53 — roteiro de leitura didático, não sequência autorizada de atos processuais."
+  ],
+  "source_evidence": "Pág. 53 do manual de 15/10/2026. Texto nativo do PDF.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-48.svg",
+    "alt": "Ilustração vetorial original sobre Contestação e pedidos incidentais; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: 1 CONTESTAÇÃO NO JEC",
+    "Identifiquei na fonte: 2 CLASSIFICAR A MANIFESTAÇÃO ANTES DE ENCAMINHAR",
+    "Identifiquei na fonte: REAGENDAMENTO OU AUDIÊNCIA VIRTUAL",
+    "Identifiquei na fonte: ACORDO OU DESISTÊNCIA",
+    "Comparei a síntese com a página 53 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

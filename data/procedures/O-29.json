@@ -1,0 +1,130 @@
+{
+  "code": "O-29",
+  "title": "Redistribuição de processo",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 34,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Redistribuição de processo”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-29-n1",
+      "number": 1,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-29-n2",
+      "number": 2,
+      "label": "DA IDENTIFICAÇÃO DO ERRO À JURISDIÇÃO DE DESTINO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-29-n3",
+      "number": 3,
+      "label": "SITUAÇÔES QUE INDICAM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-29-n4",
+      "number": 4,
+      "label": "NECESSIDADE DE REDISTRIBUIR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-29-n5",
+      "number": 5,
+      "label": "ERRO ENCONTRADO PROVIDÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-29-n1",
+      "to": "O-29-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-29-n2",
+      "to": "O-29-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-29-n3",
+      "to": "O-29-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-29-n4",
+      "to": "O-29-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34
+    },
+    {
+      "title": "DA IDENTIFICAÇÃO DO ERRO À JURISDIÇÃO DE DESTINO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34
+    },
+    {
+      "title": "SITUAÇÔES QUE INDICAM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34
+    },
+    {
+      "title": "NECESSIDADE DE REDISTRIBUIR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34
+    },
+    {
+      "title": "ERRO ENCONTRADO PROVIDÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 34
+    }
+  ],
+  "warnings": [
+    "Pág. 34 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 34 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-29.svg",
+    "alt": "Ilustração vetorial original sobre Redistribuição de processo; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: DA IDENTIFICAÇÃO DO ERRO À JURISDIÇÃO DE DESTINO",
+    "Identifiquei na fonte: SITUAÇÔES QUE INDICAM",
+    "Identifiquei na fonte: NECESSIDADE DE REDISTRIBUIR",
+    "Comparei a síntese com a página 34 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

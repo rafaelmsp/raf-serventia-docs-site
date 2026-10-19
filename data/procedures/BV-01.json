@@ -1,0 +1,112 @@
+{
+  "code": "BV-01",
+  "title": "Base legal e regras",
+  "section": "BV",
+  "section_name": "Balcão virtual",
+  "source_page": 92,
+  "source_method": "camada_textual_pdf",
+  "summary": "O manual distingue as normas públicas do Balcão Virtual das rotinas locais. O atendimento é informativo, humano e supervisionado.",
+  "kind": "normative",
+  "mode": "mapa normativo",
+  "nodes": [
+    {
+      "id": "BV-01-n1",
+      "number": 1,
+      "label": "Base nacional",
+      "detail": "A fonte cita a Resolução CNJ nº 372/2021 e orienta consultar seu texto compilado.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n2",
+      "number": 2,
+      "label": "Regulação do TJRJ",
+      "detail": "A fonte menciona os Atos TJ/CGJ nº 05/2021 e nº 15/2026.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n3",
+      "number": 3,
+      "label": "Atendimento humano",
+      "detail": "Estagiário atua sob supervisão de servidor, conforme norma indicada no manual.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n4",
+      "number": 4,
+      "label": "Aplicação cautelosa",
+      "detail": "Os parâmetros de tempo, processos e câmera mencionados em fontes secundárias devem ser conferidos na redação oficial.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BV-01-n1",
+      "to": "BV-01-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-01-n2",
+      "to": "BV-01-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-01-n3",
+      "to": "BV-01-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Base nacional",
+      "detail": "A fonte cita a Resolução CNJ nº 372/2021 e orienta consultar seu texto compilado.",
+      "source_page": 92
+    },
+    {
+      "title": "Regulação do TJRJ",
+      "detail": "A fonte menciona os Atos TJ/CGJ nº 05/2021 e nº 15/2026.",
+      "source_page": 92
+    },
+    {
+      "title": "Atendimento humano",
+      "detail": "Estagiário atua sob supervisão de servidor, conforme norma indicada no manual.",
+      "source_page": 92
+    },
+    {
+      "title": "Aplicação cautelosa",
+      "detail": "Os parâmetros de tempo, processos e câmera mencionados em fontes secundárias devem ser conferidos na redação oficial.",
+      "source_page": 92
+    }
+  ],
+  "warnings": [
+    "O manual registra que não obteve o texto integral consolidado do Ato 15/2026; não considerar a referência como validação normativa atual.",
+    "Balcão Virtual é atendimento informativo, não protocolo processual."
+  ],
+  "source_evidence": "Página 92 — seção Bases legais e regras, com ressalvas explícitas.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": true,
+  "visual": {
+    "src": "../assets/illustrations/BV-01.svg",
+    "alt": "Ilustração vetorial original sobre Base legal e regras; contém 4 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: Base nacional",
+    "Identifiquei na fonte: Regulação do TJRJ",
+    "Identifiquei na fonte: Atendimento humano",
+    "Identifiquei na fonte: Aplicação cautelosa",
+    "Comparei a síntese com a página 92 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

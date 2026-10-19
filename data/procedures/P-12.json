@@ -1,0 +1,130 @@
+{
+  "code": "P-12",
+  "title": "Pós-audiência: ata e providência",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 67,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Pós-audiência: ata e providência”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-12-n1",
+      "number": 1,
+      "label": "A AUDIÊNCIA TERMINOU; O CONTROLE PROCESSUAL AINDA NÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-12-n2",
+      "number": 2,
+      "label": "CHECKLIST PÓS-AUDIÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-12-n3",
+      "number": 3,
+      "label": "SE A ATA NÃO APARECER",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-12-n4",
+      "number": 4,
+      "label": "CASO DE RISCO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-12-n5",
+      "number": 5,
+      "label": "Conferência do resultado do ato antes de movimentar o processo",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-12-n1",
+      "to": "P-12-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-12-n2",
+      "to": "P-12-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-12-n3",
+      "to": "P-12-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-12-n4",
+      "to": "P-12-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "A AUDIÊNCIA TERMINOU; O CONTROLE PROCESSUAL AINDA NÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67
+    },
+    {
+      "title": "CHECKLIST PÓS-AUDIÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67
+    },
+    {
+      "title": "SE A ATA NÃO APARECER",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67
+    },
+    {
+      "title": "CASO DE RISCO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67
+    },
+    {
+      "title": "Conferência do resultado do ato antes de movimentar o processo",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 67
+    }
+  ],
+  "warnings": [
+    "Pág. 67 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 67 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-12.svg",
+    "alt": "Ilustração vetorial original sobre Pós-audiência: ata e providência; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: A AUDIÊNCIA TERMINOU; O CONTROLE PROCESSUAL AINDA NÃO",
+    "Identifiquei na fonte: CHECKLIST PÓS-AUDIÊNCIA",
+    "Identifiquei na fonte: SE A ATA NÃO APARECER",
+    "Identifiquei na fonte: CASO DE RISCO",
+    "Comparei a síntese com a página 67 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

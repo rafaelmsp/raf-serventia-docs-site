@@ -1,0 +1,108 @@
+{
+  "updated_at_utc": "2026-10-19T03:12:44.711227+00:00",
+  "version": "v0.2.0-draft",
+  "global_percent": 48.0,
+  "global_raw": 48.04642219387755,
+  "bar": "█████████░░░░░░░░░░░",
+  "phases": {
+    "F00": {
+      "done": 5,
+      "total": 7,
+      "weight": 8,
+      "phase_percent": 71.4,
+      "notes": "Auditoria de fonte, rotas e versões; privacidade editorial complementar pendente"
+    },
+    "F01": {
+      "done": 6,
+      "total": 7,
+      "weight": 10,
+      "phase_percent": 85.7,
+      "notes": "Design system, layout, abas, tema, impressão, mobile; homologação em aparelho físico pendente"
+    },
+    "F02": {
+      "done": 2,
+      "total": 9,
+      "weight": 9,
+      "phase_percent": 22.2,
+      "notes": "Mapeamento de páginas e status; correção integral do OCR pendente"
+    },
+    "F03": {
+      "done": 5,
+      "total": 6,
+      "weight": 8,
+      "phase_percent": 83.3,
+      "notes": "96 SVG ilustrados, 96 mapas, temas por seção, manifesto e fallback; revisão humana pendente"
+    },
+    "F09": {
+      "done": 5,
+      "total": 6,
+      "weight": 6,
+      "phase_percent": 83.3,
+      "notes": "Integração com busca, histórico, links, PDF e checklist; performance pendente"
+    },
+    "F10": {
+      "done": 3,
+      "total": 8,
+      "weight": 7,
+      "phase_percent": 37.5,
+      "notes": "Testes em 7 larguras e seis itens; ainda falta inspeção individual"
+    },
+    "F11": {
+      "done": 0,
+      "total": 3,
+      "weight": 3,
+      "phase_percent": 0.0,
+      "notes": "Publicação da versão premium ainda não concluída"
+    },
+    "F04": {
+      "done": 17.345,
+      "total": 49,
+      "weight": 20,
+      "phase_percent": 35.4,
+      "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
+    },
+    "F05": {
+      "done": 5.635,
+      "total": 16,
+      "weight": 9,
+      "phase_percent": 35.2,
+      "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
+    },
+    "F06": {
+      "done": 1.785,
+      "total": 5,
+      "weight": 5,
+      "phase_percent": 35.7,
+      "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
+    },
+    "F07": {
+      "done": 4.36,
+      "total": 12,
+      "weight": 7,
+      "phase_percent": 36.3,
+      "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
+    },
+    "F08": {
+      "done": 5.06,
+      "total": 14,
+      "weight": 8,
+      "phase_percent": 36.1,
+      "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
+    }
+  },
+  "metrics": {
+    "fichas_html": 96,
+    "novas_ilustracoes_svg": 96,
+    "novos_mapas_svg": 96,
+    "paginas_fonte_html": 107,
+    "fichas_editorialmente_aprovadas": 0,
+    "pilotos_parcialmente_conferidos": 3,
+    "testes_navegador_aprovados": 42
+  },
+  "limitations": [
+    "Fonte não oficial e ainda não homologada",
+    "65 fichas dependem de OCR ainda a revisar",
+    "O mapa visual pode representar ordem didática, não ação autorizada",
+    "Uma ilustração gerada não significa ficha editorialmente aprovada"
+  ]
+}

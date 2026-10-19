@@ -1,0 +1,129 @@
+{
+  "code": "O-08",
+  "title": "PAC na prática",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 13,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "O manual apresenta o PAC como um percurso de identificação de pendência, comunicação e verificação do cumprimento. A transcrição OCR desta página contém palavras distorcidas e ainda exige conferência visual.",
+  "kind": "provisional",
+  "mode": "fluxo preliminar",
+  "nodes": [
+    {
+      "id": "O-08-n1",
+      "number": 1,
+      "label": "Identificar pendência",
+      "detail": "No infográfico aparecem exemplos de documento ausente ou incompleto e erro formal.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n2",
+      "number": 2,
+      "label": "Conferir origem da pendência",
+      "detail": "Ler o que falta nos autos, evitando concluir a partir de OCR incerto.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n3",
+      "number": 3,
+      "label": "PAC / intimação",
+      "detail": "A página menciona PAC e intimação, mas forma e cabimento dependem de orientação da serventia.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n4",
+      "number": 4,
+      "label": "Verificar cumprimento",
+      "detail": "Conferir a providência apresentada e os documentos dos autos antes de registrar conclusão.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n5",
+      "number": 5,
+      "label": "Registrar situação",
+      "detail": "Encaminhar dúvida ao responsável; não executar ato automaticamente por meio do portal.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-08-n1",
+      "to": "O-08-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n2",
+      "to": "O-08-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n3",
+      "to": "O-08-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n4",
+      "to": "O-08-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Identificar pendência",
+      "detail": "No infográfico aparecem exemplos de documento ausente ou incompleto e erro formal.",
+      "source_page": 13
+    },
+    {
+      "title": "Conferir origem da pendência",
+      "detail": "Ler o que falta nos autos, evitando concluir a partir de OCR incerto.",
+      "source_page": 13
+    },
+    {
+      "title": "PAC / intimação",
+      "detail": "A página menciona PAC e intimação, mas forma e cabimento dependem de orientação da serventia.",
+      "source_page": 13
+    },
+    {
+      "title": "Verificar cumprimento",
+      "detail": "Conferir a providência apresentada e os documentos dos autos antes de registrar conclusão.",
+      "source_page": 13
+    },
+    {
+      "title": "Registrar situação",
+      "detail": "Encaminhar dúvida ao responsável; não executar ato automaticamente por meio do portal.",
+      "source_page": 13
+    }
+  ],
+  "warnings": [
+    "Roteiro visual provisório. O PDF na página 13 é a referência para validar cada decisão e etapa."
+  ],
+  "source_evidence": "Pág. 13 do manual — termos PAC, pendência, intimação e cumprimento.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-08.svg",
+    "alt": "Ilustração vetorial original sobre PAC na prática; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: Identificar pendência",
+    "Identifiquei na fonte: Conferir origem da pendência",
+    "Identifiquei na fonte: PAC / intimação",
+    "Identifiquei na fonte: Verificar cumprimento",
+    "Comparei a síntese com a página 13 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "code": "BF-02",
+  "title": "CONSULTA E ORIENTAÇÃO PROCESSUAL",
+  "section": "BF",
+  "section_name": "Balcão físico",
+  "source_page": 80,
+  "source_method": "camada_textual_pdf",
+  "summary": "Andamento, informações públicas e pedidos de consulta",
+  "kind": "documentary",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "BF-02-n1",
+      "number": 1,
+      "label": "CONSULTA AOS AUTOS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BF-02-n2",
+      "number": 2,
+      "label": "CONSULTA E ORIENTAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BF-02-n3",
+      "number": 3,
+      "label": "ROTA DE ATENDIMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BF-02-n4",
+      "number": 4,
+      "label": "PASSO A PASSO NO BALCÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BF-02-n5",
+      "number": 5,
+      "label": "CHECKLIST DE CONFERÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BF-02-n1",
+      "to": "BF-02-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-02-n2",
+      "to": "BF-02-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-02-n3",
+      "to": "BF-02-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-02-n4",
+      "to": "BF-02-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "CONSULTA AOS AUTOS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80
+    },
+    {
+      "title": "CONSULTA E ORIENTAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80
+    },
+    {
+      "title": "ROTA DE ATENDIMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80
+    },
+    {
+      "title": "PASSO A PASSO NO BALCÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80
+    },
+    {
+      "title": "CHECKLIST DE CONFERÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 80
+    }
+  ],
+  "warnings": [
+    "Pág. 80 — roteiro de leitura didático, não sequência autorizada de atos processuais."
+  ],
+  "source_evidence": "Pág. 80 do manual de 15/10/2026. Texto nativo do PDF.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/BF-02.svg",
+    "alt": "Ilustração vetorial original sobre CONSULTA E ORIENTAÇÃO PROCESSUAL; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: CONSULTA AOS AUTOS",
+    "Identifiquei na fonte: CONSULTA E ORIENTAÇÃO",
+    "Identifiquei na fonte: ROTA DE ATENDIMENTO",
+    "Identifiquei na fonte: PASSO A PASSO NO BALCÃO",
+    "Comparei a síntese com a página 80 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

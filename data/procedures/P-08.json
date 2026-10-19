@@ -1,0 +1,130 @@
+{
+  "code": "P-08",
+  "title": "Designar nova audiência",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 63,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Designar nova audiência”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-08-n1",
+      "number": 1,
+      "label": "PAPEL DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-08-n2",
+      "number": 2,
+      "label": "Campos do PJe e controles que o estagiário deve observar",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-08-n3",
+      "number": 3,
+      "label": "DUAS FORMAS NO PJe: DESIGNAÇÃO SUGERIDA OU MANUAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-08-n4",
+      "number": 4,
+      "label": "O sistema pesquisa horários",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-08-n5",
+      "number": 5,
+      "label": "Informar 0 tipo de audiência.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-08-n1",
+      "to": "P-08-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-08-n2",
+      "to": "P-08-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-08-n3",
+      "to": "P-08-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-08-n4",
+      "to": "P-08-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "PAPEL DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63
+    },
+    {
+      "title": "Campos do PJe e controles que o estagiário deve observar",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63
+    },
+    {
+      "title": "DUAS FORMAS NO PJe: DESIGNAÇÃO SUGERIDA OU MANUAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63
+    },
+    {
+      "title": "O sistema pesquisa horários",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63
+    },
+    {
+      "title": "Informar 0 tipo de audiência.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 63
+    }
+  ],
+  "warnings": [
+    "Pág. 63 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 63 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-08.svg",
+    "alt": "Ilustração vetorial original sobre Designar nova audiência; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: PAPEL DO ESTAGIÁRIO",
+    "Identifiquei na fonte: Campos do PJe e controles que o estagiário deve observar",
+    "Identifiquei na fonte: DUAS FORMAS NO PJe: DESIGNAÇÃO SUGERIDA OU MANUAL",
+    "Identifiquei na fonte: O sistema pesquisa horários",
+    "Comparei a síntese com a página 63 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

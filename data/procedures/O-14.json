@@ -1,0 +1,130 @@
+{
+  "code": "O-14",
+  "title": "Casos simulados de leitura",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 19,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Casos simulados de leitura”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-14-n1",
+      "number": 1,
+      "label": "• Qual era o dcxumento",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-14-n2",
+      "number": 2,
+      "label": "• a juntada atende",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-14-n3",
+      "number": 3,
+      "label": "• Se ainda falta dcxurnento",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-14-n4",
+      "number": 4,
+      "label": "• Certifiüir necessário.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-14-n5",
+      "number": 5,
+      "label": "• Quais partes aderiram",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-14-n1",
+      "to": "O-14-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-14-n2",
+      "to": "O-14-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-14-n3",
+      "to": "O-14-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-14-n4",
+      "to": "O-14-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "• Qual era o dcxumento",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19
+    },
+    {
+      "title": "• a juntada atende",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19
+    },
+    {
+      "title": "• Se ainda falta dcxurnento",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19
+    },
+    {
+      "title": "• Certifiüir necessário.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19
+    },
+    {
+      "title": "• Quais partes aderiram",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 19
+    }
+  ],
+  "warnings": [
+    "Pág. 19 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 19 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-14.svg",
+    "alt": "Ilustração vetorial original sobre Casos simulados de leitura; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: • Qual era o dcxumento",
+    "Identifiquei na fonte: • a juntada atende",
+    "Identifiquei na fonte: • Se ainda falta dcxurnento",
+    "Identifiquei na fonte: • Certifiüir necessário.",
+    "Comparei a síntese com a página 19 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

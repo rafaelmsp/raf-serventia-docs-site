@@ -1,0 +1,130 @@
+{
+  "code": "R-01",
+  "title": "Indicadores da Árvore Processual",
+  "section": "R",
+  "section_name": "Relatórios e controle",
+  "source_page": 73,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Indicadores da Árvore Processual”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "R-01-n1",
+      "number": 1,
+      "label": "DADOS QUE ORIENTAM UMA JUSTIÇA MAIS EFICIENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-01-n2",
+      "number": 2,
+      "label": "PARA QUE SERVEM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-01-n3",
+      "number": 3,
+      "label": "OS INDICADORES?",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-01-n4",
+      "number": 4,
+      "label": "PAINEL DE SEMÁFORO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-01-n5",
+      "number": 5,
+      "label": "EXEMPLOS DE USO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "R-01-n1",
+      "to": "R-01-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-01-n2",
+      "to": "R-01-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-01-n3",
+      "to": "R-01-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-01-n4",
+      "to": "R-01-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "DADOS QUE ORIENTAM UMA JUSTIÇA MAIS EFICIENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73
+    },
+    {
+      "title": "PARA QUE SERVEM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73
+    },
+    {
+      "title": "OS INDICADORES?",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73
+    },
+    {
+      "title": "PAINEL DE SEMÁFORO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73
+    },
+    {
+      "title": "EXEMPLOS DE USO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 73
+    }
+  ],
+  "warnings": [
+    "Pág. 73 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 73 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/R-01.svg",
+    "alt": "Ilustração vetorial original sobre Indicadores da Árvore Processual; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: DADOS QUE ORIENTAM UMA JUSTIÇA MAIS EFICIENTE",
+    "Identifiquei na fonte: PARA QUE SERVEM",
+    "Identifiquei na fonte: OS INDICADORES?",
+    "Identifiquei na fonte: PAINEL DE SEMÁFORO",
+    "Comparei a síntese com a página 73 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

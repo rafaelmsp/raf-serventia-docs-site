@@ -1,0 +1,130 @@
+{
+  "code": "O-05",
+  "title": "Documentos e eventos mais importantes",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 10,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Documentos e eventos mais importantes”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-05-n1",
+      "number": 1,
+      "label": "DA ANÁLISE À AÇÃO. EM FAVOR DE UMA JUSTIÇA MAIS EFICIENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-05-n2",
+      "number": 2,
+      "label": "• ORGANIZAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-05-n3",
+      "number": 3,
+      "label": "O que observar primeiro na árvore processual",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-05-n4",
+      "number": 4,
+      "label": "Dá origem ao pr(Resso.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-05-n5",
+      "number": 5,
+      "label": "Resolve questão no curso",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-05-n1",
+      "to": "O-05-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-05-n2",
+      "to": "O-05-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-05-n3",
+      "to": "O-05-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-05-n4",
+      "to": "O-05-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "DA ANÁLISE À AÇÃO. EM FAVOR DE UMA JUSTIÇA MAIS EFICIENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10
+    },
+    {
+      "title": "• ORGANIZAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10
+    },
+    {
+      "title": "O que observar primeiro na árvore processual",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10
+    },
+    {
+      "title": "Dá origem ao pr(Resso.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10
+    },
+    {
+      "title": "Resolve questão no curso",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 10
+    }
+  ],
+  "warnings": [
+    "Pág. 10 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 10 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-05.svg",
+    "alt": "Ilustração vetorial original sobre Documentos e eventos mais importantes; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: DA ANÁLISE À AÇÃO. EM FAVOR DE UMA JUSTIÇA MAIS EFICIENTE",
+    "Identifiquei na fonte: • ORGANIZAÇÃO",
+    "Identifiquei na fonte: O que observar primeiro na árvore processual",
+    "Identifiquei na fonte: Dá origem ao pr(Resso.",
+    "Comparei a síntese com a página 10 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

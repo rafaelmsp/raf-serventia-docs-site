@@ -1,0 +1,129 @@
+{
+  "code": "BV-14",
+  "title": "Registro e retorno à fila",
+  "section": "BV",
+  "section_name": "Balcão virtual",
+  "source_page": 105,
+  "source_method": "camada_textual_pdf",
+  "summary": "Checklist de encerramento e prontidão para o próximo usuário",
+  "kind": "documentary",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "BV-14-n1",
+      "number": 1,
+      "label": "REGISTRAR E VOLTAR À FILA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-14-n2",
+      "number": 2,
+      "label": "REGRA DE ATUAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-14-n3",
+      "number": 3,
+      "label": "STATUS: BOAS PRÁTICAS + ROTINA A VALIDAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-14-n4",
+      "number": 4,
+      "label": "FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-14-n5",
+      "number": 5,
+      "label": "REGISTRAR SE PREVISTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BV-14-n1",
+      "to": "BV-14-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-14-n2",
+      "to": "BV-14-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-14-n3",
+      "to": "BV-14-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-14-n4",
+      "to": "BV-14-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "REGISTRAR E VOLTAR À FILA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105
+    },
+    {
+      "title": "REGRA DE ATUAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105
+    },
+    {
+      "title": "STATUS: BOAS PRÁTICAS + ROTINA A VALIDAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105
+    },
+    {
+      "title": "FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105
+    },
+    {
+      "title": "REGISTRAR SE PREVISTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 105
+    }
+  ],
+  "warnings": [
+    "Pág. 105 — roteiro de leitura didático, não sequência autorizada de atos processuais."
+  ],
+  "source_evidence": "Pág. 105 do manual de 15/10/2026. Texto nativo do PDF.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/BV-14.svg",
+    "alt": "Ilustração vetorial original sobre Registro e retorno à fila; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: REGISTRAR E VOLTAR À FILA",
+    "Identifiquei na fonte: REGRA DE ATUAÇÃO",
+    "Identifiquei na fonte: STATUS: BOAS PRÁTICAS + ROTINA A VALIDAR",
+    "Identifiquei na fonte: FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+    "Comparei a síntese com a página 105 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

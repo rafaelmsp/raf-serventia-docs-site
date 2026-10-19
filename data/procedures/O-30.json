@@ -1,0 +1,130 @@
+{
+  "code": "O-30",
+  "title": "Cadastro de participantes especiais",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 35,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Cadastro de participantes especiais”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-30-n1",
+      "number": 1,
+      "label": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-30-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-30-n3",
+      "number": 3,
+      "label": "QUEM PODE APARECER",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-30-n4",
+      "number": 4,
+      "label": "PARTICIPANTES ALÉM DAS PARTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-30-n5",
+      "number": 5,
+      "label": "CADA PARTICIPANTE TEM UM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-30-n1",
+      "to": "O-30-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-30-n2",
+      "to": "O-30-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-30-n3",
+      "to": "O-30-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-30-n4",
+      "to": "O-30-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35
+    },
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35
+    },
+    {
+      "title": "QUEM PODE APARECER",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35
+    },
+    {
+      "title": "PARTICIPANTES ALÉM DAS PARTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35
+    },
+    {
+      "title": "CADA PARTICIPANTE TEM UM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 35
+    }
+  ],
+  "warnings": [
+    "Pág. 35 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 35 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-30.svg",
+    "alt": "Ilustração vetorial original sobre Cadastro de participantes especiais; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: TRABALHO A SERVIÇO DA CIDADANIA",
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: QUEM PODE APARECER",
+    "Identifiquei na fonte: PARTICIPANTES ALÉM DAS PARTES",
+    "Comparei a síntese com a página 35 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

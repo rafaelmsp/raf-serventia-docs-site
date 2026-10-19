@@ -1,0 +1,68 @@
+{
+  "type": "conceptual",
+  "nodes": [
+    {
+      "id": "O-03-n1",
+      "number": 1,
+      "label": "Raízes · histórico",
+      "detail": "História e informações que sustentam a compreensão do processo.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n2",
+      "number": 2,
+      "label": "Tronco · atos decisórios",
+      "detail": "Despachos, decisões, sentenças e atos ordinatórios.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n3",
+      "number": 3,
+      "label": "Galhos · comunicações",
+      "detail": "Citação, intimação, manifestação, juntada e certidão.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n4",
+      "number": 4,
+      "label": "Folhas · andamento",
+      "detail": "Cumprimento, resposta das partes e movimentação.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n5",
+      "number": 5,
+      "label": "Frutos · providência",
+      "detail": "Próxima providência, resultado ou encaminhamento.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-03-n1",
+      "to": "O-03-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n2",
+      "to": "O-03-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n3",
+      "to": "O-03-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n4",
+      "to": "O-03-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 8
+}

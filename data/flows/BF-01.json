@@ -1,0 +1,68 @@
+{
+  "type": "operational",
+  "nodes": [
+    {
+      "id": "BF-01-n1",
+      "number": 1,
+      "label": "Acolher e ouvir",
+      "detail": "Identificar o motivo do comparecimento com linguagem respeitosa e clara.",
+      "source_page": 79,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BF-01-n2",
+      "number": 2,
+      "label": "Localizar a demanda",
+      "detail": "Perguntar sobre processo existente e número disponível sem expor autos de terceiros.",
+      "source_page": 79,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BF-01-n3",
+      "number": 3,
+      "label": "Conferir o vínculo",
+      "detail": "Distinguir parte, representante, advogado e acompanhante; dúvida de representação deve ser dirigida ao servidor.",
+      "source_page": 79,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BF-01-n4",
+      "number": 4,
+      "label": "Verificar prioridade",
+      "detail": "Observar acessibilidade e atendimento prioritário sem exigir dados desnecessários.",
+      "source_page": 79,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BF-01-n5",
+      "number": 5,
+      "label": "Definir o fluxo",
+      "detail": "Identificar consulta, juntada, petição genérica, audiência ou primeiro atendimento e encaminhar ao serviço adequado.",
+      "source_page": 79,
+      "editorial_status": "source_checked_draft"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BF-01-n1",
+      "to": "BF-01-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-01-n2",
+      "to": "BF-01-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-01-n3",
+      "to": "BF-01-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BF-01-n4",
+      "to": "BF-01-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 79
+}

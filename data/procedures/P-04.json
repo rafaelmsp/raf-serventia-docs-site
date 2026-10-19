@@ -1,0 +1,130 @@
+{
+  "code": "P-04",
+  "title": "Consultar pauta de audiência",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 59,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Consultar pauta de audiência”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-04-n1",
+      "number": 1,
+      "label": "CONSULTA E ORGANIZAÇÃO DA PAUTA - SEM ALTERAR O ATO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-04-n2",
+      "number": 2,
+      "label": "ROTINA DIRETA DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-04-n3",
+      "number": 3,
+      "label": "REFERÊNCIA OFICIAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-04-n4",
+      "number": 4,
+      "label": "O QUE A PAUTA NÃO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-04-n5",
+      "number": 5,
+      "label": "Como o estagiário localiza, filtra e confere a pauta no PJe",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-04-n1",
+      "to": "P-04-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-04-n2",
+      "to": "P-04-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-04-n3",
+      "to": "P-04-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-04-n4",
+      "to": "P-04-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "CONSULTA E ORGANIZAÇÃO DA PAUTA - SEM ALTERAR O ATO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59
+    },
+    {
+      "title": "ROTINA DIRETA DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59
+    },
+    {
+      "title": "REFERÊNCIA OFICIAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59
+    },
+    {
+      "title": "O QUE A PAUTA NÃO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59
+    },
+    {
+      "title": "Como o estagiário localiza, filtra e confere a pauta no PJe",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 59
+    }
+  ],
+  "warnings": [
+    "Pág. 59 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 59 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-04.svg",
+    "alt": "Ilustração vetorial original sobre Consultar pauta de audiência; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: CONSULTA E ORGANIZAÇÃO DA PAUTA - SEM ALTERAR O ATO",
+    "Identifiquei na fonte: ROTINA DIRETA DO ESTAGIÁRIO",
+    "Identifiquei na fonte: REFERÊNCIA OFICIAL",
+    "Identifiquei na fonte: O QUE A PAUTA NÃO FAZ",
+    "Comparei a síntese com a página 59 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

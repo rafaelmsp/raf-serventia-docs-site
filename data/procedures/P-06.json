@@ -1,0 +1,130 @@
+{
+  "code": "P-06",
+  "title": "Aguardar audiência e Minutar Ata",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 61,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Aguardar audiência e Minutar Ata”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-06-n1",
+      "number": 1,
+      "label": "ENTENDER A TAREFA EVITA MOVIMENTAÇÃO INDEVIDA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-06-n2",
+      "number": 2,
+      "label": "O QUE O MANUAL OFICIAL DESCREVE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-06-n3",
+      "number": 3,
+      "label": "PONTO DE CONTROLE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-06-n4",
+      "number": 4,
+      "label": "COMO O ESTAGIÁRIO USA ESSA INFORMAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-06-n5",
+      "number": 5,
+      "label": "Como o PJe encaminha o processo para a tarefa de audiência no JEC",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-06-n1",
+      "to": "P-06-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-06-n2",
+      "to": "P-06-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-06-n3",
+      "to": "P-06-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-06-n4",
+      "to": "P-06-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "ENTENDER A TAREFA EVITA MOVIMENTAÇÃO INDEVIDA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61
+    },
+    {
+      "title": "O QUE O MANUAL OFICIAL DESCREVE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61
+    },
+    {
+      "title": "PONTO DE CONTROLE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61
+    },
+    {
+      "title": "COMO O ESTAGIÁRIO USA ESSA INFORMAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61
+    },
+    {
+      "title": "Como o PJe encaminha o processo para a tarefa de audiência no JEC",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 61
+    }
+  ],
+  "warnings": [
+    "Pág. 61 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 61 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-06.svg",
+    "alt": "Ilustração vetorial original sobre Aguardar audiência e Minutar Ata; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: ENTENDER A TAREFA EVITA MOVIMENTAÇÃO INDEVIDA",
+    "Identifiquei na fonte: O QUE O MANUAL OFICIAL DESCREVE",
+    "Identifiquei na fonte: PONTO DE CONTROLE",
+    "Identifiquei na fonte: COMO O ESTAGIÁRIO USA ESSA INFORMAÇÃO",
+    "Comparei a síntese com a página 61 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

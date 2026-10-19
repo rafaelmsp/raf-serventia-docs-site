@@ -1,0 +1,1634 @@
+[
+  {
+    "asset_id": "O-01-illustration-v1",
+    "code": "O-01",
+    "source_page": 6,
+    "illustration": "assets/illustrations/O-01.svg",
+    "flow": "assets/flows/O-01.svg",
+    "sha256": "9d20553df1ce304a5c69a25774b03c853817ea99a1ae2537f972046bc802be96",
+    "bytes": 4023,
+    "alt": "Ilustração vetorial original sobre Árvore do Processo - visão geral; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p006.jpg"
+  },
+  {
+    "asset_id": "O-02-illustration-v1",
+    "code": "O-02",
+    "source_page": 7,
+    "illustration": "assets/illustrations/O-02.svg",
+    "flow": "assets/flows/O-02.svg",
+    "sha256": "c676adfe8efc5ee3183c731e9e474e02cf32b65ff9f50087dc87c5aad817ee79",
+    "bytes": 3783,
+    "alt": "Ilustração vetorial original sobre Fluxo inicial necessário - triagem e uso do PAC; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p007.jpg"
+  },
+  {
+    "asset_id": "O-03-illustration-v1",
+    "code": "O-03",
+    "source_page": 8,
+    "illustration": "assets/illustrations/O-03.svg",
+    "flow": "assets/flows/O-03.svg",
+    "sha256": "43af4e493a3db6087df8e68e06928cabf827f0ea8653b15388f483f8ff14b9fe",
+    "bytes": 3758,
+    "alt": "Ilustração vetorial original sobre Anatomia da Árvore do Processo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p008.jpg"
+  },
+  {
+    "asset_id": "O-04-illustration-v1",
+    "code": "O-04",
+    "source_page": 9,
+    "illustration": "assets/illustrations/O-04.svg",
+    "flow": "assets/flows/O-04.svg",
+    "sha256": "8c9d0f6ea2d0f5b07aeed6c93d06b65177b8dbd6b90d03dfe388a57186ff1ea9",
+    "bytes": 4130,
+    "alt": "Ilustração vetorial original sobre Como ler a Árvore do Processo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p009.jpg"
+  },
+  {
+    "asset_id": "O-05-illustration-v1",
+    "code": "O-05",
+    "source_page": 10,
+    "illustration": "assets/illustrations/O-05.svg",
+    "flow": "assets/flows/O-05.svg",
+    "sha256": "d47a4760569afa4d5ec4f00c9ec858105318189347b9c9b5fe562317712661f1",
+    "bytes": 4182,
+    "alt": "Ilustração vetorial original sobre Documentos e eventos mais importantes; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p010.jpg"
+  },
+  {
+    "asset_id": "O-06-illustration-v1",
+    "code": "O-06",
+    "source_page": 11,
+    "illustration": "assets/illustrations/O-06.svg",
+    "flow": "assets/flows/O-06.svg",
+    "sha256": "7fbd3492d009618f09853c58508e75a9bdc5b24bf6be2040b0d84f0ccc06a0e0",
+    "bytes": 4290,
+    "alt": "Ilustração vetorial original sobre Da árvore à providência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p011.jpg"
+  },
+  {
+    "asset_id": "O-07-illustration-v1",
+    "code": "O-07",
+    "source_page": 12,
+    "illustration": "assets/illustrations/O-07.svg",
+    "flow": "assets/flows/O-07.svg",
+    "sha256": "77dc9a2c0991bf5cef42b85fb0546c24591ca6f6d1ec2ff1051fb277d79872b6",
+    "bytes": 4160,
+    "alt": "Ilustração vetorial original sobre Pontos de atenção e erros comuns; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p012.jpg"
+  },
+  {
+    "asset_id": "O-08-illustration-v1",
+    "code": "O-08",
+    "source_page": 13,
+    "illustration": "assets/illustrations/O-08.svg",
+    "flow": "assets/flows/O-08.svg",
+    "sha256": "b15777ca3cd849e10b8e45b97a356be71fb27732bba5c1366a9234d8d186ee86",
+    "bytes": 3841,
+    "alt": "Ilustração vetorial original sobre PAC na prática; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p013.jpg"
+  },
+  {
+    "asset_id": "O-09-illustration-v1",
+    "code": "O-09",
+    "source_page": 14,
+    "illustration": "assets/illustrations/O-09.svg",
+    "flow": "assets/flows/O-09.svg",
+    "sha256": "0f44688ec684ab9ce9ff9104a30df460c7be4aecdb28348d5612ef1bcff64f9f",
+    "bytes": 4265,
+    "alt": "Ilustração vetorial original sobre Citação, intimação e AR; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p014.jpg"
+  },
+  {
+    "asset_id": "O-10-illustration-v1",
+    "code": "O-10",
+    "source_page": 15,
+    "illustration": "assets/illustrations/O-10.svg",
+    "flow": "assets/flows/O-10.svg",
+    "sha256": "1f77c142cb1b0033b2464f06916aed785cc7f0411e119738c2fc68280e079f10",
+    "bytes": 4277,
+    "alt": "Ilustração vetorial original sobre Certidões na rotina; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p015.jpg"
+  },
+  {
+    "asset_id": "O-11-illustration-v1",
+    "code": "O-11",
+    "source_page": 16,
+    "illustration": "assets/illustrations/O-11.svg",
+    "flow": "assets/flows/O-11.svg",
+    "sha256": "83cab63c713deed9af210b163e147d9daab103dc31601384935f9a97183889f1",
+    "bytes": 3864,
+    "alt": "Ilustração vetorial original sobre Habilitação de advogado; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p016.jpg"
+  },
+  {
+    "asset_id": "O-12-illustration-v1",
+    "code": "O-12",
+    "source_page": 17,
+    "illustration": "assets/illustrations/O-12.svg",
+    "flow": "assets/flows/O-12.svg",
+    "sha256": "771536e5297b9497186079f08f2abea7f803bab39dc5318b4b91dc1c7015e2ff",
+    "bytes": 3893,
+    "alt": "Ilustração vetorial original sobre Acordo, desistência e conclusão; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p017.jpg"
+  },
+  {
+    "asset_id": "O-13-illustration-v1",
+    "code": "O-13",
+    "source_page": 18,
+    "illustration": "assets/illustrations/O-13.svg",
+    "flow": "assets/flows/O-13.svg",
+    "sha256": "2e9b711e9c322b0773c228a3276f53a4497f211cce9ebde8dd58a3f94d62e389",
+    "bytes": 4150,
+    "alt": "Ilustração vetorial original sobre Cumprimento de sentença e execução; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p018.jpg"
+  },
+  {
+    "asset_id": "O-14-illustration-v1",
+    "code": "O-14",
+    "source_page": 19,
+    "illustration": "assets/illustrations/O-14.svg",
+    "flow": "assets/flows/O-14.svg",
+    "sha256": "2fc2fdf1c8c625c0fb9265735f1fc6373009d0728fb7c2222775466308acb3d6",
+    "bytes": 3880,
+    "alt": "Ilustração vetorial original sobre Casos simulados de leitura; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p019.jpg"
+  },
+  {
+    "asset_id": "O-15-illustration-v1",
+    "code": "O-15",
+    "source_page": 20,
+    "illustration": "assets/illustrations/O-15.svg",
+    "flow": "assets/flows/O-15.svg",
+    "sha256": "5334fe7a1ef0c6503584a0b7b68322b5f63ad5e1776cbdd70a1e07116bd439f5",
+    "bytes": 4138,
+    "alt": "Ilustração vetorial original sobre Mapa dos fluxos de trabalho no PJe; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p020.jpg"
+  },
+  {
+    "asset_id": "O-16-illustration-v1",
+    "code": "O-16",
+    "source_page": 21,
+    "illustration": "assets/illustrations/O-16.svg",
+    "flow": "assets/flows/O-16.svg",
+    "sha256": "874043a7b422f1c2b322a3cde33d00d93365f88ce26a1267f1f7b66e0bbef698",
+    "bytes": 4029,
+    "alt": "Ilustração vetorial original sobre Autos Digitais e leitura da árvore; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p021.jpg"
+  },
+  {
+    "asset_id": "O-17-illustration-v1",
+    "code": "O-17",
+    "source_page": 22,
+    "illustration": "assets/illustrations/O-17.svg",
+    "flow": "assets/flows/O-17.svg",
+    "sha256": "82b2f9013dedf6449a7ffb307a6c757c9823db5650ac3fa6d447a8e0bb6912c3",
+    "bytes": 4291,
+    "alt": "Ilustração vetorial original sobre Preparar Ato de Comunicação; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p022.jpg"
+  },
+  {
+    "asset_id": "O-18-illustration-v1",
+    "code": "O-18",
+    "source_page": 23,
+    "illustration": "assets/illustrations/O-18.svg",
+    "flow": "assets/flows/O-18.svg",
+    "sha256": "575403706b209cae7d49f9dd0a37c04673dc564b9513fa7da59a8fc28a8983a1",
+    "bytes": 4059,
+    "alt": "Ilustração vetorial original sobre Citação, intimação e AR - fluxo operacional; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p023.jpg"
+  },
+  {
+    "asset_id": "O-19-illustration-v1",
+    "code": "O-19",
+    "source_page": 24,
+    "illustration": "assets/illustrations/O-19.svg",
+    "flow": "assets/flows/O-19.svg",
+    "sha256": "6b64012b1c2f574ef2cde0f3684def65a43d5f99bd9c1f04e2b88727476d73c8",
+    "bytes": 4051,
+    "alt": "Ilustração vetorial original sobre Conclusão ao juiz - minuta e assinatura; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p024.jpg"
+  },
+  {
+    "asset_id": "O-20-illustration-v1",
+    "code": "O-20",
+    "source_page": 25,
+    "illustration": "assets/illustrations/O-20.svg",
+    "flow": "assets/flows/O-20.svg",
+    "sha256": "d04a9fda3107898448f2187b5e2b5b7116735ee286f3a6d07f05346188b57a7a",
+    "bytes": 4178,
+    "alt": "Ilustração vetorial original sobre Pós-sentença e aguardando prazo processual; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p025.jpg"
+  },
+  {
+    "asset_id": "O-21-illustration-v1",
+    "code": "O-21",
+    "source_page": 26,
+    "illustration": "assets/illustrations/O-21.svg",
+    "flow": "assets/flows/O-21.svg",
+    "sha256": "10a78971329ccfc4434c0b77583ac163cb37f519b86b67017eb1f04d2d962659",
+    "bytes": 4445,
+    "alt": "Ilustração vetorial original sobre Cumprimento de sentença e execução - fluxos; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p026.jpg"
+  },
+  {
+    "asset_id": "O-22-illustration-v1",
+    "code": "O-22",
+    "source_page": 27,
+    "illustration": "assets/illustrations/O-22.svg",
+    "flow": "assets/flows/O-22.svg",
+    "sha256": "7f2aa9ba56b9c110b72a0263c15ba7a82567a9f0f5db63a3a8b7243a49e3781f",
+    "bytes": 4147,
+    "alt": "Ilustração vetorial original sobre Retificar Autuação; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p027.jpg"
+  },
+  {
+    "asset_id": "O-23-illustration-v1",
+    "code": "O-23",
+    "source_page": 28,
+    "illustration": "assets/illustrations/O-23.svg",
+    "flow": "assets/flows/O-23.svg",
+    "sha256": "74742c8bcc374c0227d65bc137a02c4a8f4853211ef99b0e676b158039ae73c4",
+    "bytes": 4261,
+    "alt": "Ilustração vetorial original sobre Corrigir partes e participantes; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p028.jpg"
+  },
+  {
+    "asset_id": "O-24-illustration-v1",
+    "code": "O-24",
+    "source_page": 29,
+    "illustration": "assets/illustrations/O-24.svg",
+    "flow": "assets/flows/O-24.svg",
+    "sha256": "fe824f427baeb8f90696461038e7352e31fdaf14e5a941da9b8f1d5149e9a524",
+    "bytes": 4439,
+    "alt": "Ilustração vetorial original sobre Mandado, Oficial de Justiça e Central de Mandados; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p029.jpg"
+  },
+  {
+    "asset_id": "O-25-illustration-v1",
+    "code": "O-25",
+    "source_page": 30,
+    "illustration": "assets/illustrations/O-25.svg",
+    "flow": "assets/flows/O-25.svg",
+    "sha256": "9efdd92ad92b4512d9e939719b68411f27f5ce0d63e46a403464c7f9cd5d6b7c",
+    "bytes": 4301,
+    "alt": "Ilustração vetorial original sobre Certificação de trânsito em julgado no JEC; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p030.jpg"
+  },
+  {
+    "asset_id": "O-26-illustration-v1",
+    "code": "O-26",
+    "source_page": 31,
+    "illustration": "assets/illustrations/O-26.svg",
+    "flow": "assets/flows/O-26.svg",
+    "sha256": "511608533b73d7114208ffa976828869992bb501bc4685e61a3d23804c3c5eb0",
+    "bytes": 4143,
+    "alt": "Ilustração vetorial original sobre Arquivamento e baixa no JEC; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p031.jpg"
+  },
+  {
+    "asset_id": "O-27-illustration-v1",
+    "code": "O-27",
+    "source_page": 32,
+    "illustration": "assets/illustrations/O-27.svg",
+    "flow": "assets/flows/O-27.svg",
+    "sha256": "d67600c8412213efe12a0832ae33f94289b1262b1262ec2b79f9d5c20668b1c6",
+    "bytes": 4126,
+    "alt": "Ilustração vetorial original sobre Desarquivamento; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p032.jpg"
+  },
+  {
+    "asset_id": "O-28-illustration-v1",
+    "code": "O-28",
+    "source_page": 33,
+    "illustration": "assets/illustrations/O-28.svg",
+    "flow": "assets/flows/O-28.svg",
+    "sha256": "0c70b0207a731c576db4ece30abf6ab87e728734230a7c732a8a85ace2ef82fa",
+    "bytes": 4416,
+    "alt": "Ilustração vetorial original sobre Sigilo do processo e do documento; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p033.jpg"
+  },
+  {
+    "asset_id": "O-29-illustration-v1",
+    "code": "O-29",
+    "source_page": 34,
+    "illustration": "assets/illustrations/O-29.svg",
+    "flow": "assets/flows/O-29.svg",
+    "sha256": "f2f6d747b401c8732c4612abd329393c3db2a7decc3199b8d05b583131f04032",
+    "bytes": 4275,
+    "alt": "Ilustração vetorial original sobre Redistribuição de processo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p034.jpg"
+  },
+  {
+    "asset_id": "O-30-illustration-v1",
+    "code": "O-30",
+    "source_page": 35,
+    "illustration": "assets/illustrations/O-30.svg",
+    "flow": "assets/flows/O-30.svg",
+    "sha256": "9811b11e169a26a2986668ac9fb90df3ca0f37c39a520be88f304d255c117b46",
+    "bytes": 4145,
+    "alt": "Ilustração vetorial original sobre Cadastro de participantes especiais; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p035.jpg"
+  },
+  {
+    "asset_id": "O-31-illustration-v1",
+    "code": "O-31",
+    "source_page": 36,
+    "illustration": "assets/illustrations/O-31.svg",
+    "flow": "assets/flows/O-31.svg",
+    "sha256": "afdd3118ed6732152df4208a0151da347d36eb1d59fcb0dfbb152996ed56ef5a",
+    "bytes": 3995,
+    "alt": "Ilustração vetorial original sobre Quadro de exceções no PJe; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p036.jpg"
+  },
+  {
+    "asset_id": "O-32-illustration-v1",
+    "code": "O-32",
+    "source_page": 37,
+    "illustration": "assets/illustrations/O-32.svg",
+    "flow": "assets/flows/O-32.svg",
+    "sha256": "0fcde751bfc60bd951aa8c5efc740fece291cd2182af26cc04650cbbe0bc652a",
+    "bytes": 4142,
+    "alt": "Ilustração vetorial original sobre Recurso Inominado no JEC; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p037.jpg"
+  },
+  {
+    "asset_id": "O-33-illustration-v1",
+    "code": "O-33",
+    "source_page": 38,
+    "illustration": "assets/illustrations/O-33.svg",
+    "flow": "assets/flows/O-33.svg",
+    "sha256": "63df98b17a7b23d3ebfa6e385c0f9f5a0d49172ddca36b684154b4cc20226f30",
+    "bytes": 3997,
+    "alt": "Ilustração vetorial original sobre Retorno da Turma Recursal; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p038.jpg"
+  },
+  {
+    "asset_id": "O-34-illustration-v1",
+    "code": "O-34",
+    "source_page": 39,
+    "illustration": "assets/illustrations/O-34.svg",
+    "flow": "assets/flows/O-34.svg",
+    "sha256": "9d656f270b033b4b2ec5545690d423861301893bf4b3c1ed1329577add9de9ca",
+    "bytes": 4147,
+    "alt": "Ilustração vetorial original sobre Expedição de Carta Precatória; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p039.jpg"
+  },
+  {
+    "asset_id": "O-35-illustration-v1",
+    "code": "O-35",
+    "source_page": 40,
+    "illustration": "assets/illustrations/O-35.svg",
+    "flow": "assets/flows/O-35.svg",
+    "sha256": "46770c00d8d97ec7d3b0094466a9d55ba19f6264a458553c470577494debafeb",
+    "bytes": 4162,
+    "alt": "Ilustração vetorial original sobre Retorno e cumprimento da Carta Precatória; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p040.jpg"
+  },
+  {
+    "asset_id": "O-36-illustration-v1",
+    "code": "O-36",
+    "source_page": 41,
+    "illustration": "assets/illustrations/O-36.svg",
+    "flow": "assets/flows/O-36.svg",
+    "sha256": "020a678d5b1b4761241e98f7774ff6b132c8d93d03bbcc302d0c5833cd1b134e",
+    "bytes": 4146,
+    "alt": "Ilustração vetorial original sobre Fluxo com juiz leigo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p041.jpg"
+  },
+  {
+    "asset_id": "O-37-illustration-v1",
+    "code": "O-37",
+    "source_page": 42,
+    "illustration": "assets/illustrations/O-37.svg",
+    "flow": "assets/flows/O-37.svg",
+    "sha256": "479cc113cf6a60f8845c851fae9ed1614d99e58c76419e67052b357d28dff573",
+    "bytes": 3861,
+    "alt": "Ilustração vetorial original sobre Características do processo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p042.jpg"
+  },
+  {
+    "asset_id": "O-38-illustration-v1",
+    "code": "O-38",
+    "source_page": 43,
+    "illustration": "assets/illustrations/O-38.svg",
+    "flow": "assets/flows/O-38.svg",
+    "sha256": "4461206fbc97bc2c51a20d2d2a8c6647ee5b0ac082122962a889bb8fe0d67875",
+    "bytes": 4154,
+    "alt": "Ilustração vetorial original sobre Tutela ou liminar na árvore; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p043.jpg"
+  },
+  {
+    "asset_id": "O-39-illustration-v1",
+    "code": "O-39",
+    "source_page": 44,
+    "illustration": "assets/illustrations/O-39.svg",
+    "flow": "assets/flows/O-39.svg",
+    "sha256": "23c79f3cb4b961044d8974bc3ca1c191157899cd8be662b908fbb7ec293407bc",
+    "bytes": 4436,
+    "alt": "Ilustração vetorial original sobre SISBAJUD: bloqueio, desbloqueio e transferência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p044.jpg"
+  },
+  {
+    "asset_id": "O-40-illustration-v1",
+    "code": "O-40",
+    "source_page": 45,
+    "illustration": "assets/illustrations/O-40.svg",
+    "flow": "assets/flows/O-40.svg",
+    "sha256": "7a17a5599c3179f8caa1fbbf9f22bc631380fb3e80e84167a687154cf3920f75",
+    "bytes": 4036,
+    "alt": "Ilustração vetorial original sobre Teimosinha e resultados sucessivos; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p045.jpg"
+  },
+  {
+    "asset_id": "O-41-illustration-v1",
+    "code": "O-41",
+    "source_page": 46,
+    "illustration": "assets/illustrations/O-41.svg",
+    "flow": "assets/flows/O-41.svg",
+    "sha256": "dd752a693eb2bb6966a724a5b951d31e5f9b39c5659db8b60fd319a0109802dc",
+    "bytes": 3778,
+    "alt": "Ilustração vetorial original sobre Certificação de tempestividade do recurso; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p046.jpg"
+  },
+  {
+    "asset_id": "O-42-illustration-v1",
+    "code": "O-42",
+    "source_page": 47,
+    "illustration": "assets/illustrations/O-42.svg",
+    "flow": "assets/flows/O-42.svg",
+    "sha256": "452cb20e4ede87b2e643da5378aa5b892412191da01467a1b597d50595d25f6b",
+    "bytes": 4283,
+    "alt": "Ilustração vetorial original sobre Suspensão e sobrestamento no JEC; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p047.jpg"
+  },
+  {
+    "asset_id": "O-43-illustration-v1",
+    "code": "O-43",
+    "source_page": 48,
+    "illustration": "assets/illustrations/O-43.svg",
+    "flow": "assets/flows/O-43.svg",
+    "sha256": "748733573b51c2ae0e7e5b813867430a0949cba12ec3652d9944dc33c4d9b655",
+    "bytes": 4133,
+    "alt": "Ilustração vetorial original sobre Mandado de pagamento no PJe; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p048.jpg"
+  },
+  {
+    "asset_id": "O-44-illustration-v1",
+    "code": "O-44",
+    "source_page": 49,
+    "illustration": "assets/illustrations/O-44.svg",
+    "flow": "assets/flows/O-44.svg",
+    "sha256": "abde254473c11fab69f748a7b9febc8f9c1af1563b21c7176d989676cf95adaa",
+    "bytes": 4025,
+    "alt": "Ilustração vetorial original sobre Cadastro e intimação de perito; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p049.jpg"
+  },
+  {
+    "asset_id": "O-45-illustration-v1",
+    "code": "O-45",
+    "source_page": 50,
+    "illustration": "assets/illustrations/O-45.svg",
+    "flow": "assets/flows/O-45.svg",
+    "sha256": "871f5d6bc0b6d74fa1c4a6e17de47fb1babc6d01d8a1b022e5732d84d4b891b6",
+    "bytes": 4427,
+    "alt": "Ilustração vetorial original sobre Matriz dos sete gabinetes; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p050.jpg"
+  },
+  {
+    "asset_id": "O-46-illustration-v1",
+    "code": "O-46",
+    "source_page": 51,
+    "illustration": "assets/illustrations/O-46.svg",
+    "flow": "assets/flows/O-46.svg",
+    "sha256": "4e1b4044f9ccaa60c6ee325c0c4f2b423df20bfecf66f3ddaa14090ec823cb05",
+    "bytes": 4151,
+    "alt": "Ilustração vetorial original sobre Gabinete 1 - atribuições detalhadas; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p051.jpg"
+  },
+  {
+    "asset_id": "O-47-illustration-v1",
+    "code": "O-47",
+    "source_page": 52,
+    "illustration": "assets/illustrations/O-47.svg",
+    "flow": "assets/flows/O-47.svg",
+    "sha256": "9e1cace3e69225ad5b7b237b422fd3d1ecf6319fe8cb781af33111349e67ae80",
+    "bytes": 4026,
+    "alt": "Ilustração vetorial original sobre Triagem para conclusão e encaminhamento; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p052.jpg"
+  },
+  {
+    "asset_id": "O-48-illustration-v1",
+    "code": "O-48",
+    "source_page": 53,
+    "illustration": "assets/illustrations/O-48.svg",
+    "flow": "assets/flows/O-48.svg",
+    "sha256": "70279f87baf5c9b41d36e78ca0d26e245dba338c064a399d4752909837bf94f9",
+    "bytes": 4288,
+    "alt": "Ilustração vetorial original sobre Contestação e pedidos incidentais; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p053.jpg"
+  },
+  {
+    "asset_id": "O-49-illustration-v1",
+    "code": "O-49",
+    "source_page": 54,
+    "illustration": "assets/illustrations/O-49.svg",
+    "flow": "assets/flows/O-49.svg",
+    "sha256": "fac98451dff1a5238fb028716ad9a0590fe6f69049883bd69e16a479e8c7a20a",
+    "bytes": 4298,
+    "alt": "Ilustração vetorial original sobre Emenda, aditamento e renúncia; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p054.jpg"
+  },
+  {
+    "asset_id": "P-01-illustration-v1",
+    "code": "P-01",
+    "source_page": 56,
+    "illustration": "assets/illustrations/P-01.svg",
+    "flow": "assets/flows/P-01.svg",
+    "sha256": "3452a7d3d2de40a74cd8e92a69ac829d58875a66cc36ccaa8e70f7b5fb61f38c",
+    "bytes": 4167,
+    "alt": "Ilustração vetorial original sobre Árvore e pauta de audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p056.jpg"
+  },
+  {
+    "asset_id": "P-02-illustration-v1",
+    "code": "P-02",
+    "source_page": 57,
+    "illustration": "assets/illustrations/P-02.svg",
+    "flow": "assets/flows/P-02.svg",
+    "sha256": "c1a2605b22bed2fef99bf38d7ede62c1bfecf87314779547a42e5b66f69e4f05",
+    "bytes": 4416,
+    "alt": "Ilustração vetorial original sobre Gerenciar audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p057.jpg"
+  },
+  {
+    "asset_id": "P-03-illustration-v1",
+    "code": "P-03",
+    "source_page": 58,
+    "illustration": "assets/illustrations/P-03.svg",
+    "flow": "assets/flows/P-03.svg",
+    "sha256": "862e7c9fa19ec4229d5395873bbf27eff5e2abe833f7cfcecda3cdd6dca50a70",
+    "bytes": 4429,
+    "alt": "Ilustração vetorial original sobre Árvore e viabilidade da audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p058.jpg"
+  },
+  {
+    "asset_id": "P-04-illustration-v1",
+    "code": "P-04",
+    "source_page": 59,
+    "illustration": "assets/illustrations/P-04.svg",
+    "flow": "assets/flows/P-04.svg",
+    "sha256": "910aa693ff1c549c779a6baa6e32a721bb1e661ba0929a85dcceed16aedbd157",
+    "bytes": 4455,
+    "alt": "Ilustração vetorial original sobre Consultar pauta de audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p059.jpg"
+  },
+  {
+    "asset_id": "P-05-illustration-v1",
+    "code": "P-05",
+    "source_page": 60,
+    "illustration": "assets/illustrations/P-05.svg",
+    "flow": "assets/flows/P-05.svg",
+    "sha256": "ab706c927f61e809de3df09001fd4b756fe0bca0877bf30791af56afbf8ffaba",
+    "bytes": 4313,
+    "alt": "Ilustração vetorial original sobre Conferência pré-audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p060.jpg"
+  },
+  {
+    "asset_id": "P-06-illustration-v1",
+    "code": "P-06",
+    "source_page": 61,
+    "illustration": "assets/illustrations/P-06.svg",
+    "flow": "assets/flows/P-06.svg",
+    "sha256": "be42dd4cc943ee0b3e6dcc51e1bf6e9a1ba99101df786a636c04e35f075eb3a0",
+    "bytes": 4599,
+    "alt": "Ilustração vetorial original sobre Aguardar audiência e Minutar Ata; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p061.jpg"
+  },
+  {
+    "asset_id": "P-07-illustration-v1",
+    "code": "P-07",
+    "source_page": 62,
+    "illustration": "assets/illustrations/P-07.svg",
+    "flow": "assets/flows/P-07.svg",
+    "sha256": "0e857aa3a0d01d61a058b4141080b2f2a1338588733f3a6b952003d9dcd8f205",
+    "bytes": 4613,
+    "alt": "Ilustração vetorial original sobre Gerenciar audiência - limites; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p062.jpg"
+  },
+  {
+    "asset_id": "P-08-illustration-v1",
+    "code": "P-08",
+    "source_page": 63,
+    "illustration": "assets/illustrations/P-08.svg",
+    "flow": "assets/flows/P-08.svg",
+    "sha256": "787d6ae655b1b7751f130564ac6c3cfe887e3426931188817b8a7ab8fa2ec32e",
+    "bytes": 4683,
+    "alt": "Ilustração vetorial original sobre Designar nova audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p063.jpg"
+  },
+  {
+    "asset_id": "P-09-illustration-v1",
+    "code": "P-09",
+    "source_page": 64,
+    "illustration": "assets/illustrations/P-09.svg",
+    "flow": "assets/flows/P-09.svg",
+    "sha256": "d463698059a1fc900752c6d9040a97c1af86033f3e22b8931383588efdefbcb5",
+    "bytes": 4479,
+    "alt": "Ilustração vetorial original sobre Redesignar ou cancelar audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p064.jpg"
+  },
+  {
+    "asset_id": "P-10-illustration-v1",
+    "code": "P-10",
+    "source_page": 65,
+    "illustration": "assets/illustrations/P-10.svg",
+    "flow": "assets/flows/P-10.svg",
+    "sha256": "6548fb53ed9c6b2464973960008c9f4e68d7f2fe7f7bdc123f81d6dac6b13388",
+    "bytes": 4450,
+    "alt": "Ilustração vetorial original sobre Pedido de audiência virtual; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p065.jpg"
+  },
+  {
+    "asset_id": "P-11-illustration-v1",
+    "code": "P-11",
+    "source_page": 66,
+    "illustration": "assets/illustrations/P-11.svg",
+    "flow": "assets/flows/P-11.svg",
+    "sha256": "63187e3757457548157d5143ea902e1c1f306e633b5139f377e4370cb422cb38",
+    "bytes": 4467,
+    "alt": "Ilustração vetorial original sobre Acordo antes da audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p066.jpg"
+  },
+  {
+    "asset_id": "P-12-illustration-v1",
+    "code": "P-12",
+    "source_page": 67,
+    "illustration": "assets/illustrations/P-12.svg",
+    "flow": "assets/flows/P-12.svg",
+    "sha256": "0d6ae23c80dcbbea3789489cedf2ffa806b96a88978f692e2fbc0821bd9881fa",
+    "bytes": 4463,
+    "alt": "Ilustração vetorial original sobre Pós-audiência: ata e providência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p067.jpg"
+  },
+  {
+    "asset_id": "P-13-illustration-v1",
+    "code": "P-13",
+    "source_page": 68,
+    "illustration": "assets/illustrations/P-13.svg",
+    "flow": "assets/flows/P-13.svg",
+    "sha256": "8a7b87100ba156a9fae80305269e60aae22e855a7dc8a0b5222d6e07a400be3c",
+    "bytes": 4063,
+    "alt": "Ilustração vetorial original sobre Checklist mestre de pauta e audiência; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p068.jpg"
+  },
+  {
+    "asset_id": "P-14-illustration-v1",
+    "code": "P-14",
+    "source_page": 69,
+    "illustration": "assets/illustrations/P-14.svg",
+    "flow": "assets/flows/P-14.svg",
+    "sha256": "303ba51e2a9ab7edbda399445fb98d9467980b216af5c0d871866fad8ff31344",
+    "bytes": 4193,
+    "alt": "Ilustração vetorial original sobre Diligências de citação e permanência na pauta; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p069.jpg"
+  },
+  {
+    "asset_id": "P-15-illustration-v1",
+    "code": "P-15",
+    "source_page": 70,
+    "illustration": "assets/illustrations/P-15.svg",
+    "flow": "assets/flows/P-15.svg",
+    "sha256": "8cd88a2a2398f4bc84cc9ea2deab60a86ab7b71823a64c01116e58ffee338842",
+    "bytes": 4184,
+    "alt": "Ilustração vetorial original sobre AR ou intimação não expedido; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p070.jpg"
+  },
+  {
+    "asset_id": "P-16-illustration-v1",
+    "code": "P-16",
+    "source_page": 71,
+    "illustration": "assets/illustrations/P-16.svg",
+    "flow": "assets/flows/P-16.svg",
+    "sha256": "354453728653683cb7e5f62c647b42bd0bfc3917af55b2f5d79492dd4e2f9a41",
+    "bytes": 3889,
+    "alt": "Ilustração vetorial original sobre Marco de 72 horas; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p071.jpg"
+  },
+  {
+    "asset_id": "R-01-illustration-v1",
+    "code": "R-01",
+    "source_page": 73,
+    "illustration": "assets/illustrations/R-01.svg",
+    "flow": "assets/flows/R-01.svg",
+    "sha256": "912788c1442de0a1d9640b6cb5f4457b84352bf6c6b119b942d9eff681391d4f",
+    "bytes": 3857,
+    "alt": "Ilustração vetorial original sobre Indicadores da Árvore Processual; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p073.jpg"
+  },
+  {
+    "asset_id": "R-02-illustration-v1",
+    "code": "R-02",
+    "source_page": 74,
+    "illustration": "assets/illustrations/R-02.svg",
+    "flow": "assets/flows/R-02.svg",
+    "sha256": "8f57759761e7f96e7f4a99b707b18ce0dfc1c644c9a0e8ab4eb2f6347cc4aa28",
+    "bytes": 3986,
+    "alt": "Ilustração vetorial original sobre Checklist final da leitura; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p074.jpg"
+  },
+  {
+    "asset_id": "R-03-illustration-v1",
+    "code": "R-03",
+    "source_page": 75,
+    "illustration": "assets/illustrations/R-03.svg",
+    "flow": "assets/flows/R-03.svg",
+    "sha256": "e439e27475a1359e30625cf5b05df548a41efe0cc4a896e0cd6bd71df9e30b90",
+    "bytes": 4002,
+    "alt": "Ilustração vetorial original sobre Retorno processual e reanálise; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p075.jpg"
+  },
+  {
+    "asset_id": "R-04-illustration-v1",
+    "code": "R-04",
+    "source_page": 76,
+    "illustration": "assets/illustrations/R-04.svg",
+    "flow": "assets/flows/R-04.svg",
+    "sha256": "7d99bb6748a03b999b1c8cb1ad516581a33070437c1d6c8d056d07d540d01174",
+    "bytes": 4559,
+    "alt": "Ilustração vetorial original sobre Quando acabar algo na árvore, o que fazer?; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p076.jpg"
+  },
+  {
+    "asset_id": "R-05-illustration-v1",
+    "code": "R-05",
+    "source_page": 77,
+    "illustration": "assets/illustrations/R-05.svg",
+    "flow": "assets/flows/R-05.svg",
+    "sha256": "ec9e5c5c01f9a286a2146e1b651107d7b7826d4995b193ec7b033955afe84dc5",
+    "bytes": 4244,
+    "alt": "Ilustração vetorial original sobre Controle de Expedientes; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p077.jpg"
+  },
+  {
+    "asset_id": "BF-01-illustration-v1",
+    "code": "BF-01",
+    "source_page": 79,
+    "illustration": "assets/illustrations/BF-01.svg",
+    "flow": "assets/flows/BF-01.svg",
+    "sha256": "1c98491e2ffccb091bbe767dd71c9e630d28ace303d45a15f7d75c5e7dbdcf65",
+    "bytes": 3900,
+    "alt": "Ilustração vetorial original sobre RECEPÇÃO E IDENTIFICAÇÃO; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p079.jpg"
+  },
+  {
+    "asset_id": "BF-02-illustration-v1",
+    "code": "BF-02",
+    "source_page": 80,
+    "illustration": "assets/illustrations/BF-02.svg",
+    "flow": "assets/flows/BF-02.svg",
+    "sha256": "d89ac82c7ddad89f62e9a2ee48c12624c52ac4dd6e58516924594ee0be70b372",
+    "bytes": 3933,
+    "alt": "Ilustração vetorial original sobre CONSULTA E ORIENTAÇÃO PROCESSUAL; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p080.jpg"
+  },
+  {
+    "asset_id": "BF-03-illustration-v1",
+    "code": "BF-03",
+    "source_page": 81,
+    "illustration": "assets/illustrations/BF-03.svg",
+    "flow": "assets/flows/BF-03.svg",
+    "sha256": "0582a257f2ec3fbb737c9e5ee76e013a7e8f6308b7d7dab698391bcdbbc325a5",
+    "bytes": 4070,
+    "alt": "Ilustração vetorial original sobre PETIÇÃO GENÉRICA / PREENCHIMENTO; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p081.jpg"
+  },
+  {
+    "asset_id": "BF-04-illustration-v1",
+    "code": "BF-04",
+    "source_page": 82,
+    "illustration": "assets/illustrations/BF-04.svg",
+    "flow": "assets/flows/BF-04.svg",
+    "sha256": "48595967a8a30f8971dede549bd4cbc68a560f8807ed9d93bd55ee17932791bd",
+    "bytes": 4182,
+    "alt": "Ilustração vetorial original sobre PETIÇÃO / SALVAR E ASSINAR; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p082.jpg"
+  },
+  {
+    "asset_id": "BF-05-illustration-v1",
+    "code": "BF-05",
+    "source_page": 83,
+    "illustration": "assets/illustrations/BF-05.svg",
+    "flow": "assets/flows/BF-05.svg",
+    "sha256": "bbf6809032b8c908e31c97d5561089964be7047131eb1b3c0dd885538c6f3a17",
+    "bytes": 4040,
+    "alt": "Ilustração vetorial original sobre JUNTADA DE DOCUMENTOS; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p083.jpg"
+  },
+  {
+    "asset_id": "BF-06-illustration-v1",
+    "code": "BF-06",
+    "source_page": 84,
+    "illustration": "assets/illustrations/BF-06.svg",
+    "flow": "assets/flows/BF-06.svg",
+    "sha256": "046732fe3a1c098170814d3736a11de5ff90f53c4cd93588d5503c2b1101c066",
+    "bytes": 3909,
+    "alt": "Ilustração vetorial original sobre NADAC / QUANDO ENCAMINHAR; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p084.jpg"
+  },
+  {
+    "asset_id": "BF-07-illustration-v1",
+    "code": "BF-07",
+    "source_page": 85,
+    "illustration": "assets/illustrations/BF-07.svg",
+    "flow": "assets/flows/BF-07.svg",
+    "sha256": "2dd9f4d5cd42e28da31cca7dcbbf8302bb9672ff265261d19ada429203f0e5c6",
+    "bytes": 4072,
+    "alt": "Ilustração vetorial original sobre NADAC / DIGITALIZAÇÃO E JUNTADA; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p085.jpg"
+  },
+  {
+    "asset_id": "BF-08-illustration-v1",
+    "code": "BF-08",
+    "source_page": 86,
+    "illustration": "assets/illustrations/BF-08.svg",
+    "flow": "assets/flows/BF-08.svg",
+    "sha256": "ae6befbab2c34f3529a17750c4db7fa5e29c18fb921697962d426c2cd847934b",
+    "bytes": 3932,
+    "alt": "Ilustração vetorial original sobre PRIMEIRO ATENDIMENTO E ATERMAÇÃO; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p086.jpg"
+  },
+  {
+    "asset_id": "BF-09-illustration-v1",
+    "code": "BF-09",
+    "source_page": 87,
+    "illustration": "assets/illustrations/BF-09.svg",
+    "flow": "assets/flows/BF-09.svg",
+    "sha256": "086a33cd659935b772492850af9938a7f3c5f6c64e2c50d2dc01861b19d6d88e",
+    "bytes": 3930,
+    "alt": "Ilustração vetorial original sobre AUDIÊNCIA / PAUTA E ORIENTAÇÃO; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p087.jpg"
+  },
+  {
+    "asset_id": "BF-10-illustration-v1",
+    "code": "BF-10",
+    "source_page": 88,
+    "illustration": "assets/illustrations/BF-10.svg",
+    "flow": "assets/flows/BF-10.svg",
+    "sha256": "6e1eaf119b65f82080da8cc927968d15d6ecb63dd9dee475f827de3607d09780",
+    "bytes": 4054,
+    "alt": "Ilustração vetorial original sobre COMPARECIMENTO E ASSINATURA; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p088.jpg"
+  },
+  {
+    "asset_id": "BF-11-illustration-v1",
+    "code": "BF-11",
+    "source_page": 89,
+    "illustration": "assets/illustrations/BF-11.svg",
+    "flow": "assets/flows/BF-11.svg",
+    "sha256": "a6630a279851ecaa33f728f45ad93d46e5d0a8e5849865a483b38d31d545387e",
+    "bytes": 3932,
+    "alt": "Ilustração vetorial original sobre INTIMAÇÃO E CIÊNCIA PRESENCIAL; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p089.jpg"
+  },
+  {
+    "asset_id": "BF-12-illustration-v1",
+    "code": "BF-12",
+    "source_page": 90,
+    "illustration": "assets/illustrations/BF-12.svg",
+    "flow": "assets/flows/BF-12.svg",
+    "sha256": "045cd181f71af507628c01913c325628c05484e9587c0b72e474349a0f532d18",
+    "bytes": 4071,
+    "alt": "Ilustração vetorial original sobre PRIORIDADES E LIMITES DE ATUAÇÃO; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p090.jpg"
+  },
+  {
+    "asset_id": "BV-01-illustration-v1",
+    "code": "BV-01",
+    "source_page": 92,
+    "illustration": "assets/illustrations/BV-01.svg",
+    "flow": "assets/flows/BV-01.svg",
+    "sha256": "99a6a6c44c3783c079ac6ea6f0fb8080430517858ef2e757baf9f2c98ac8cc62",
+    "bytes": 3549,
+    "alt": "Ilustração vetorial original sobre Base legal e regras; contém 4 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p092.jpg"
+  },
+  {
+    "asset_id": "BV-02-illustration-v1",
+    "code": "BV-02",
+    "source_page": 93,
+    "illustration": "assets/illustrations/BV-02.svg",
+    "flow": "assets/flows/BV-02.svg",
+    "sha256": "5634b4bbd76ccc7bfd674431b9a237686b14e3e9b706725297c5a463d9fcd710",
+    "bytes": 3825,
+    "alt": "Ilustração vetorial original sobre Preparar posto; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p093.jpg"
+  },
+  {
+    "asset_id": "BV-03-illustration-v1",
+    "code": "BV-03",
+    "source_page": 94,
+    "illustration": "assets/illustrations/BV-03.svg",
+    "flow": "assets/flows/BV-03.svg",
+    "sha256": "cb5f3c58291c578f49b62d7de05c11910b6f4437c28e3a4463e43f05869e74e4",
+    "bytes": 3841,
+    "alt": "Ilustração vetorial original sobre Abrir aplicativo Balcão; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p094.jpg"
+  },
+  {
+    "asset_id": "BV-04-illustration-v1",
+    "code": "BV-04",
+    "source_page": 95,
+    "illustration": "assets/illustrations/BV-04.svg",
+    "flow": "assets/flows/BV-04.svg",
+    "sha256": "8eac7f9fe990dca0e4fb61c0382c61eed858f2e6fce2812116977fbc571902e2",
+    "bytes": 3814,
+    "alt": "Ilustração vetorial original sobre Fila de espera; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p095.jpg"
+  },
+  {
+    "asset_id": "BV-05-illustration-v1",
+    "code": "BV-05",
+    "source_page": 96,
+    "illustration": "assets/illustrations/BV-05.svg",
+    "flow": "assets/flows/BV-05.svg",
+    "sha256": "fe1569eb01a45db52687284f1d0b5f381eb58823fc1b87a5f57fd89cb6b3b7bd",
+    "bytes": 3836,
+    "alt": "Ilustração vetorial original sobre Atender e iniciar Teams; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p096.jpg"
+  },
+  {
+    "asset_id": "BV-06-illustration-v1",
+    "code": "BV-06",
+    "source_page": 97,
+    "illustration": "assets/illustrations/BV-06.svg",
+    "flow": "assets/flows/BV-06.svg",
+    "sha256": "004168a27db00b8c2b46b71377a38050983ac44b28a39ac0d2d14263a7792897",
+    "bytes": 3861,
+    "alt": "Ilustração vetorial original sobre Identificar solicitante; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p097.jpg"
+  },
+  {
+    "asset_id": "BV-07-illustration-v1",
+    "code": "BV-07",
+    "source_page": 98,
+    "illustration": "assets/illustrations/BV-07.svg",
+    "flow": "assets/flows/BV-07.svg",
+    "sha256": "e06067ae47f786928d9b512381829c80210994bb0347bcfe686962203ca694f0",
+    "bytes": 4539,
+    "alt": "Ilustração vetorial original sobre Mensagem de abertura; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p098.jpg"
+  },
+  {
+    "asset_id": "BV-08-illustration-v1",
+    "code": "BV-08",
+    "source_page": 99,
+    "illustration": "assets/illustrations/BV-08.svg",
+    "flow": "assets/flows/BV-08.svg",
+    "sha256": "cc807ef61c0a535d56549fd95de427c998bc62efc09ccf9a3f8eb0f067a7b4b7",
+    "bytes": 3822,
+    "alt": "Ilustração vetorial original sobre Consultar PJe; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p099.jpg"
+  },
+  {
+    "asset_id": "BV-09-illustration-v1",
+    "code": "BV-09",
+    "source_page": 100,
+    "illustration": "assets/illustrations/BV-09.svg",
+    "flow": "assets/flows/BV-09.svg",
+    "sha256": "e1845f0a18472ab723d9122044d3ef69a56d84f3918adaaaa17c26371196a12f",
+    "bytes": 3834,
+    "alt": "Ilustração vetorial original sobre Dúvidas frequentes; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p100.jpg"
+  },
+  {
+    "asset_id": "BV-10-illustration-v1",
+    "code": "BV-10",
+    "source_page": 101,
+    "illustration": "assets/illustrations/BV-10.svg",
+    "flow": "assets/flows/BV-10.svg",
+    "sha256": "560d04981e52397f98845b499061aa4a4ddd3ea82ce7e5359d0c357f108c9fee",
+    "bytes": 3944,
+    "alt": "Ilustração vetorial original sobre LGPD e sigilo; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p101.jpg"
+  },
+  {
+    "asset_id": "BV-11-illustration-v1",
+    "code": "BV-11",
+    "source_page": 102,
+    "illustration": "assets/illustrations/BV-11.svg",
+    "flow": "assets/flows/BV-11.svg",
+    "sha256": "93af3b933acc5169f514b813bf6090ae90dd86dc153a8d5250d2ddcbd09be087",
+    "bytes": 3960,
+    "alt": "Ilustração vetorial original sobre Encaminhamentos; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p102.jpg"
+  },
+  {
+    "asset_id": "BV-12-illustration-v1",
+    "code": "BV-12",
+    "source_page": 103,
+    "illustration": "assets/illustrations/BV-12.svg",
+    "flow": "assets/flows/BV-12.svg",
+    "sha256": "5c20a6c9f99aec330a5e46d6e28b8e0d1e2dbf9fb57823f7a93ee2f38c75de45",
+    "bytes": 3855,
+    "alt": "Ilustração vetorial original sobre Tempo e intercorrências; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p103.jpg"
+  },
+  {
+    "asset_id": "BV-13-illustration-v1",
+    "code": "BV-13",
+    "source_page": 104,
+    "illustration": "assets/illustrations/BV-13.svg",
+    "flow": "assets/flows/BV-13.svg",
+    "sha256": "95e353e010e2e10d9861c357748ad52955fb8a175217901cd4b55f0ecfc173b5",
+    "bytes": 3828,
+    "alt": "Ilustração vetorial original sobre Encerrar chamada; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p104.jpg"
+  },
+  {
+    "asset_id": "BV-14-illustration-v1",
+    "code": "BV-14",
+    "source_page": 105,
+    "illustration": "assets/illustrations/BV-14.svg",
+    "flow": "assets/flows/BV-14.svg",
+    "sha256": "9e7d4ce5be0a28427521613b7bb9a3b2258673c228ae2c459adf4a70ebf42444",
+    "bytes": 3861,
+    "alt": "Ilustração vetorial original sobre Registro e retorno à fila; contém 5 tópicos esquemáticos.",
+    "dimensions": {
+      "width": 1120,
+      "height": 560
+    },
+    "editorial_status": "draft_human_review_pending",
+    "is_original": true,
+    "source_image": "assets/thumbs/p105.jpg"
+  }
+]

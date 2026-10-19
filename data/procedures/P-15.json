@@ -1,0 +1,130 @@
+{
+  "code": "P-15",
+  "title": "AR ou intimação não expedido",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 70,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “AR ou intimação não expedido”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-15-n1",
+      "number": 1,
+      "label": "NAO EXPEDIDO E DIFERENTE DE DILIGENCIA NEGATIVA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-15-n2",
+      "number": 2,
+      "label": "DILIGÊNCIA NEGATIVA",
+      "detail": "NAO EXPEDIDO E DIFERENTE DE DILIGENCIA NEGATIVA",
+      "source_page": 70,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-15-n3",
+      "number": 3,
+      "label": "RETORNOU SEM ÊXITO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-15-n4",
+      "number": 4,
+      "label": "FLUXO QUANDO JÁ NÃO HÁ TEMPO HÁBIL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-15-n5",
+      "number": 5,
+      "label": "ATO NÃO EXPEDIDO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-15-n1",
+      "to": "P-15-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-15-n2",
+      "to": "P-15-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-15-n3",
+      "to": "P-15-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-15-n4",
+      "to": "P-15-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "NAO EXPEDIDO E DIFERENTE DE DILIGENCIA NEGATIVA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70
+    },
+    {
+      "title": "DILIGÊNCIA NEGATIVA",
+      "detail": "NAO EXPEDIDO E DIFERENTE DE DILIGENCIA NEGATIVA",
+      "source_page": 70
+    },
+    {
+      "title": "RETORNOU SEM ÊXITO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70
+    },
+    {
+      "title": "FLUXO QUANDO JÁ NÃO HÁ TEMPO HÁBIL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70
+    },
+    {
+      "title": "ATO NÃO EXPEDIDO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 70
+    }
+  ],
+  "warnings": [
+    "Pág. 70 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 70 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-15.svg",
+    "alt": "Ilustração vetorial original sobre AR ou intimação não expedido; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: NAO EXPEDIDO E DIFERENTE DE DILIGENCIA NEGATIVA",
+    "Identifiquei na fonte: DILIGÊNCIA NEGATIVA",
+    "Identifiquei na fonte: RETORNOU SEM ÊXITO",
+    "Identifiquei na fonte: FLUXO QUANDO JÁ NÃO HÁ TEMPO HÁBIL",
+    "Comparei a síntese com a página 70 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

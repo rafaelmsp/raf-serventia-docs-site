@@ -1,0 +1,130 @@
+{
+  "code": "P-10",
+  "title": "Pedido de audiência virtual",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 65,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Pedido de audiência virtual”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-10-n1",
+      "number": 1,
+      "label": "IDENTIFICAR • CONFERIR • REGISTRAR • ENCAMINHAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n2",
+      "number": 2,
+      "label": "O ESTAGIARIO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n3",
+      "number": 3,
+      "label": "SE A AUDIÊNCIA ESTIVER PRÓXIMA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n4",
+      "number": 4,
+      "label": "O ESTAGIARIO NÃO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n5",
+      "number": 5,
+      "label": "Como o estagiário trata a petição sem decidir o pedido",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-10-n1",
+      "to": "P-10-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n2",
+      "to": "P-10-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n3",
+      "to": "P-10-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n4",
+      "to": "P-10-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "IDENTIFICAR • CONFERIR • REGISTRAR • ENCAMINHAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65
+    },
+    {
+      "title": "O ESTAGIARIO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65
+    },
+    {
+      "title": "SE A AUDIÊNCIA ESTIVER PRÓXIMA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65
+    },
+    {
+      "title": "O ESTAGIARIO NÃO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65
+    },
+    {
+      "title": "Como o estagiário trata a petição sem decidir o pedido",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65
+    }
+  ],
+  "warnings": [
+    "Pág. 65 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 65 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-10.svg",
+    "alt": "Ilustração vetorial original sobre Pedido de audiência virtual; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: IDENTIFICAR • CONFERIR • REGISTRAR • ENCAMINHAR",
+    "Identifiquei na fonte: O ESTAGIARIO FAZ",
+    "Identifiquei na fonte: SE A AUDIÊNCIA ESTIVER PRÓXIMA",
+    "Identifiquei na fonte: O ESTAGIARIO NÃO FAZ",
+    "Comparei a síntese com a página 65 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

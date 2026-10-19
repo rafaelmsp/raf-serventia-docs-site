@@ -1,0 +1,129 @@
+{
+  "code": "BV-11",
+  "title": "Encaminhamentos",
+  "section": "BV",
+  "section_name": "Balcão virtual",
+  "source_page": 102,
+  "source_method": "camada_textual_pdf",
+  "summary": "Servidor, chefia, gabinete ou outro canal de atendimento",
+  "kind": "documentary",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "BV-11-n1",
+      "number": 1,
+      "label": "REGRA DE ATUAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-11-n2",
+      "number": 2,
+      "label": "STATUS: ROTINA + COMPETÊNCIA SUJEITAS A VALIDAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-11-n3",
+      "number": 3,
+      "label": "FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-11-n4",
+      "number": 4,
+      "label": "PEDIDO DE PROVIDÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "BV-11-n5",
+      "number": 5,
+      "label": "CONFERÊNCIA FINAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BV-11-n1",
+      "to": "BV-11-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-11-n2",
+      "to": "BV-11-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-11-n3",
+      "to": "BV-11-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-11-n4",
+      "to": "BV-11-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "REGRA DE ATUAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102
+    },
+    {
+      "title": "STATUS: ROTINA + COMPETÊNCIA SUJEITAS A VALIDAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102
+    },
+    {
+      "title": "FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102
+    },
+    {
+      "title": "PEDIDO DE PROVIDÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102
+    },
+    {
+      "title": "CONFERÊNCIA FINAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 102
+    }
+  ],
+  "warnings": [
+    "Pág. 102 — roteiro de leitura didático, não sequência autorizada de atos processuais."
+  ],
+  "source_evidence": "Pág. 102 do manual de 15/10/2026. Texto nativo do PDF.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/BV-11.svg",
+    "alt": "Ilustração vetorial original sobre Encaminhamentos; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: REGRA DE ATUAÇÃO",
+    "Identifiquei na fonte: STATUS: ROTINA + COMPETÊNCIA SUJEITAS A VALIDAÇÃO",
+    "Identifiquei na fonte: FLUXO DO ATENDIMENTO • ETAPAS PRÁTICAS",
+    "Identifiquei na fonte: PEDIDO DE PROVIDÊNCIA",
+    "Comparei a síntese com a página 102 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

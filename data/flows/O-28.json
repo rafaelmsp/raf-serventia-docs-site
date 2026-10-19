@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "O-28-n1",
+      "number": 1,
+      "label": "TRASALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 33,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-28-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 33,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-28-n3",
+      "number": 3,
+      "label": "DIREITOS • DIÁLOGO • SOLUÇÕES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 33,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-28-n4",
+      "number": 4,
+      "label": "DIFERENCIAR O QUE E SIGILO GERAL E O QUE E SIGILO PONTUAL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 33,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-28-n5",
+      "number": 5,
+      "label": "DOIS TIPOS DE SIGILO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 33,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-28-n1",
+      "to": "O-28-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-28-n2",
+      "to": "O-28-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-28-n3",
+      "to": "O-28-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-28-n4",
+      "to": "O-28-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 33
+}

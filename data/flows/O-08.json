@@ -1,0 +1,68 @@
+{
+  "type": "provisional",
+  "nodes": [
+    {
+      "id": "O-08-n1",
+      "number": 1,
+      "label": "Identificar pendência",
+      "detail": "No infográfico aparecem exemplos de documento ausente ou incompleto e erro formal.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n2",
+      "number": 2,
+      "label": "Conferir origem da pendência",
+      "detail": "Ler o que falta nos autos, evitando concluir a partir de OCR incerto.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n3",
+      "number": 3,
+      "label": "PAC / intimação",
+      "detail": "A página menciona PAC e intimação, mas forma e cabimento dependem de orientação da serventia.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n4",
+      "number": 4,
+      "label": "Verificar cumprimento",
+      "detail": "Conferir a providência apresentada e os documentos dos autos antes de registrar conclusão.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-08-n5",
+      "number": 5,
+      "label": "Registrar situação",
+      "detail": "Encaminhar dúvida ao responsável; não executar ato automaticamente por meio do portal.",
+      "source_page": 13,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-08-n1",
+      "to": "O-08-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n2",
+      "to": "O-08-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n3",
+      "to": "O-08-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-08-n4",
+      "to": "O-08-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 13
+}

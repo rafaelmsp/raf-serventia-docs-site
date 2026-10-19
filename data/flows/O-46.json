@@ -1,0 +1,68 @@
+{
+  "type": "documentary",
+  "nodes": [
+    {
+      "id": "O-46-n1",
+      "number": 1,
+      "label": "GABINETE 1 - CONHECIMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 51,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-46-n2",
+      "number": 2,
+      "label": "REGRA GERAL DA FOLHA DE TREINAMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 51,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-46-n3",
+      "number": 3,
+      "label": "PEDIDOS ANTES DA AUDIÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 51,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-46-n4",
+      "number": 4,
+      "label": "SENTENÇAS E EXTINÇÕES LISTADAS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 51,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-46-n5",
+      "number": 5,
+      "label": "RECURSOS E GRATUIDADE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 51,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-46-n1",
+      "to": "O-46-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-46-n2",
+      "to": "O-46-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-46-n3",
+      "to": "O-46-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-46-n4",
+      "to": "O-46-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 51
+}

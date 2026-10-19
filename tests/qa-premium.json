@@ -1,0 +1,51 @@
+{
+  "passed": 19,
+  "expected": 42,
+  "errors": [
+    "ProtocolError: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.\n    at <instance_members_initializer> (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/common/CallbackRegistry.js:102:14)\n    at new Callback (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/common/CallbackRegistry.js:106:16)\n    at CallbackRegistry.create (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/common/CallbackRegistry.js:25:26)\n    at Connection._rawSend (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/cdp/Connection.js:118:26)\n    at CdpCDPSession.send (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/cdp/CdpSession.js:72:14)\n    at #evaluate (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/cdp/ExecutionContext.js:360:50)\n    at ExecutionContext.evaluate (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/cdp/ExecutionContext.js:274:36)\n    at IsolatedWorld.evaluate (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/cdp/IsolatedWorld.js:102:30)\n    at CdpJSHandle.evaluate (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/api/JSHandle.js:146:37)\n    at CdpElementHandle.evaluate (file:///C:/Users/Rafael/AppData/Local/npm-cache/_npx/4b4c857f6efdfb61/node_modules/puppeteer-core/lib/puppeteer/api/ElementHandle.js:343:38)"
+  ],
+  "examples": [
+    {
+      "width": 390,
+      "code": "O-03",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "code": "O-08",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "code": "BF-01",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "code": "BV-01",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "code": "P-01",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "code": "R-01",
+      "interactive": true,
+      "noOverflow": true,
+      "jsErrors": 0
+    }
+  ]
+}

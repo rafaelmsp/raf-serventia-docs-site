@@ -1,0 +1,130 @@
+{
+  "code": "P-02",
+  "title": "Gerenciar audiência",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 57,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Gerenciar audiência”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-02-n1",
+      "number": 1,
+      "label": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-02-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-02-n3",
+      "number": 3,
+      "label": "A ÁRVORE VEM PRIMEIRO. A GESTÃO DA AUDIÊNCIA VEM DEPOIS.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-02-n4",
+      "number": 4,
+      "label": "ANTES DE ENTRAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-02-n5",
+      "number": 5,
+      "label": "PASSO A PASSO SEGURO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-02-n1",
+      "to": "P-02-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-02-n2",
+      "to": "P-02-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-02-n3",
+      "to": "P-02-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-02-n4",
+      "to": "P-02-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57
+    },
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57
+    },
+    {
+      "title": "A ÁRVORE VEM PRIMEIRO. A GESTÃO DA AUDIÊNCIA VEM DEPOIS.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57
+    },
+    {
+      "title": "ANTES DE ENTRAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57
+    },
+    {
+      "title": "PASSO A PASSO SEGURO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 57
+    }
+  ],
+  "warnings": [
+    "Pág. 57 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 57 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-02.svg",
+    "alt": "Ilustração vetorial original sobre Gerenciar audiência; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: TRABALHO A SERVIÇO DA CIDADANIA",
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: A ÁRVORE VEM PRIMEIRO. A GESTÃO DA AUDIÊNCIA VEM DEPOIS.",
+    "Identifiquei na fonte: ANTES DE ENTRAR",
+    "Comparei a síntese com a página 57 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

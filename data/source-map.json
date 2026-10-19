@@ -1,0 +1,482 @@
+{
+  "O-01": {
+    "source_page": 6,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-02": {
+    "source_page": 7,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-03": {
+    "source_page": 8,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-04": {
+    "source_page": 9,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-05": {
+    "source_page": 10,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-06": {
+    "source_page": 11,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-07": {
+    "source_page": 12,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-08": {
+    "source_page": 13,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-09": {
+    "source_page": 14,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-10": {
+    "source_page": 15,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-11": {
+    "source_page": 16,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-12": {
+    "source_page": 17,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-13": {
+    "source_page": 18,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-14": {
+    "source_page": 19,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-15": {
+    "source_page": 20,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-16": {
+    "source_page": 21,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-17": {
+    "source_page": 22,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-18": {
+    "source_page": 23,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-19": {
+    "source_page": 24,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-20": {
+    "source_page": 25,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-21": {
+    "source_page": 26,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-22": {
+    "source_page": 27,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-23": {
+    "source_page": 28,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-24": {
+    "source_page": 29,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-25": {
+    "source_page": 30,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-26": {
+    "source_page": 31,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-27": {
+    "source_page": 32,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-28": {
+    "source_page": 33,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-29": {
+    "source_page": 34,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-30": {
+    "source_page": 35,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-31": {
+    "source_page": 36,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-32": {
+    "source_page": 37,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-33": {
+    "source_page": 38,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-34": {
+    "source_page": 39,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-35": {
+    "source_page": 40,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-36": {
+    "source_page": 41,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-37": {
+    "source_page": 42,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-38": {
+    "source_page": 43,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-39": {
+    "source_page": 44,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-40": {
+    "source_page": 45,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-41": {
+    "source_page": 46,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-42": {
+    "source_page": 47,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-43": {
+    "source_page": 48,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-44": {
+    "source_page": 49,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-45": {
+    "source_page": 50,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-46": {
+    "source_page": 51,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-47": {
+    "source_page": 52,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-48": {
+    "source_page": 53,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "O-49": {
+    "source_page": 54,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-01": {
+    "source_page": 56,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-02": {
+    "source_page": 57,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-03": {
+    "source_page": 58,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-04": {
+    "source_page": 59,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-05": {
+    "source_page": 60,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-06": {
+    "source_page": 61,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-07": {
+    "source_page": 62,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-08": {
+    "source_page": 63,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-09": {
+    "source_page": 64,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-10": {
+    "source_page": 65,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-11": {
+    "source_page": 66,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-12": {
+    "source_page": 67,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-13": {
+    "source_page": 68,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-14": {
+    "source_page": 69,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-15": {
+    "source_page": 70,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "P-16": {
+    "source_page": 71,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "R-01": {
+    "source_page": 73,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "R-02": {
+    "source_page": 74,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "R-03": {
+    "source_page": 75,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "R-04": {
+    "source_page": 76,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "R-05": {
+    "source_page": 77,
+    "source_method": "ocr_ptbr_provisorio",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-01": {
+    "source_page": 79,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-02": {
+    "source_page": 80,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-03": {
+    "source_page": 81,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-04": {
+    "source_page": 82,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-05": {
+    "source_page": 83,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-06": {
+    "source_page": 84,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-07": {
+    "source_page": 85,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-08": {
+    "source_page": 86,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-09": {
+    "source_page": 87,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-10": {
+    "source_page": 88,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-11": {
+    "source_page": 89,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BF-12": {
+    "source_page": 90,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-01": {
+    "source_page": 92,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-02": {
+    "source_page": 93,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-03": {
+    "source_page": 94,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-04": {
+    "source_page": 95,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-05": {
+    "source_page": 96,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-06": {
+    "source_page": 97,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-07": {
+    "source_page": 98,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-08": {
+    "source_page": 99,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-09": {
+    "source_page": 100,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-10": {
+    "source_page": 101,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-11": {
+    "source_page": 102,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-12": {
+    "source_page": 103,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-13": {
+    "source_page": 104,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  },
+  "BV-14": {
+    "source_page": 105,
+    "source_method": "camada_textual_pdf",
+    "document": "docs/manual-fonte.pdf"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "R-03-n1",
+      "number": 1,
+      "label": "REVISITAR O PROCESSO PARA DEFINIR O PASSO SEGUINTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 75,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-03-n2",
+      "number": 2,
+      "label": "CICLO DO RETORNO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 75,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-03-n3",
+      "number": 3,
+      "label": "SINAIS DE RETRABALHO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 75,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-03-n4",
+      "number": 4,
+      "label": "SE NÃO CUMPRIU",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 75,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-03-n5",
+      "number": 5,
+      "label": "CONHECIMENTO • ORGANIZAÇÃO RESULTADOS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 75,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "R-03-n1",
+      "to": "R-03-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-03-n2",
+      "to": "R-03-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-03-n3",
+      "to": "R-03-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-03-n4",
+      "to": "R-03-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 75
+}

@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "O-11-n1",
+      "number": 1,
+      "label": "DA MANIFESTAÇÃO AO REGISTRO CORRETO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 16,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-11-n2",
+      "number": 2,
+      "label": "1. O QUE CHEGA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 16,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-11-n3",
+      "number": 3,
+      "label": "4. SITUAÇÕES COMUNS",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 16,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-11-n4",
+      "number": 4,
+      "label": "E O QUE ELAS GERAM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 16,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-11-n5",
+      "number": 5,
+      "label": "DA ANALISE AO REGISTRO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 16,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-11-n1",
+      "to": "O-11-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-11-n2",
+      "to": "O-11-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-11-n3",
+      "to": "O-11-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-11-n4",
+      "to": "O-11-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 16
+}

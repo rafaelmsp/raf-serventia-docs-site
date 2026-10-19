@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "P-10-n1",
+      "number": 1,
+      "label": "IDENTIFICAR • CONFERIR • REGISTRAR • ENCAMINHAR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n2",
+      "number": 2,
+      "label": "O ESTAGIARIO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n3",
+      "number": 3,
+      "label": "SE A AUDIÊNCIA ESTIVER PRÓXIMA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n4",
+      "number": 4,
+      "label": "O ESTAGIARIO NÃO FAZ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-10-n5",
+      "number": 5,
+      "label": "Como o estagiário trata a petição sem decidir o pedido",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 65,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-10-n1",
+      "to": "P-10-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n2",
+      "to": "P-10-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n3",
+      "to": "P-10-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-10-n4",
+      "to": "P-10-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 65
+}

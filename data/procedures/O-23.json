@@ -1,0 +1,130 @@
+{
+  "code": "O-23",
+  "title": "Corrigir partes e participantes",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 28,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Corrigir partes e participantes”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-23-n1",
+      "number": 1,
+      "label": "20 JUIZAIX) ESPECIAL CÍVEL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-23-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-23-n3",
+      "number": 3,
+      "label": "IDENTIFIQUE QUANM) É NECESSÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-23-n4",
+      "number": 4,
+      "label": "ACESSO À CONFIRMAÇÃO DA ALTERACÀO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-23-n5",
+      "number": 5,
+      "label": "O QUE CONFERIR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-23-n1",
+      "to": "O-23-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-23-n2",
+      "to": "O-23-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-23-n3",
+      "to": "O-23-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-23-n4",
+      "to": "O-23-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "20 JUIZAIX) ESPECIAL CÍVEL",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28
+    },
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28
+    },
+    {
+      "title": "IDENTIFIQUE QUANM) É NECESSÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28
+    },
+    {
+      "title": "ACESSO À CONFIRMAÇÃO DA ALTERACÀO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28
+    },
+    {
+      "title": "O QUE CONFERIR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 28
+    }
+  ],
+  "warnings": [
+    "Pág. 28 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 28 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-23.svg",
+    "alt": "Ilustração vetorial original sobre Corrigir partes e participantes; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: 20 JUIZAIX) ESPECIAL CÍVEL",
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: IDENTIFIQUE QUANM) É NECESSÁRIO",
+    "Identifiquei na fonte: ACESSO À CONFIRMAÇÃO DA ALTERACÀO",
+    "Comparei a síntese com a página 28 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

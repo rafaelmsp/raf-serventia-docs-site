@@ -1,0 +1,130 @@
+{
+  "code": "O-02",
+  "title": "Fluxo inicial necessário - triagem e uso do PAC",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 7,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Fluxo inicial necessário - triagem e uso do PAC”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-02-n1",
+      "number": 1,
+      "label": "FLUXO INICIAL NECESSÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-02-n2",
+      "number": 2,
+      "label": "MANUAL DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-02-n3",
+      "number": 3,
+      "label": "E/S SOB SUPERVISAO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-02-n4",
+      "number": 4,
+      "label": "SEGUIR PARA A PROXIMA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-02-n5",
+      "number": 5,
+      "label": "ETAPA 1 AUDIÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-02-n1",
+      "to": "O-02-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-02-n2",
+      "to": "O-02-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-02-n3",
+      "to": "O-02-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-02-n4",
+      "to": "O-02-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "FLUXO INICIAL NECESSÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7
+    },
+    {
+      "title": "MANUAL DO ESTAGIÁRIO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7
+    },
+    {
+      "title": "E/S SOB SUPERVISAO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7
+    },
+    {
+      "title": "SEGUIR PARA A PROXIMA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7
+    },
+    {
+      "title": "ETAPA 1 AUDIÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 7
+    }
+  ],
+  "warnings": [
+    "Pág. 7 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 7 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-02.svg",
+    "alt": "Ilustração vetorial original sobre Fluxo inicial necessário - triagem e uso do PAC; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: FLUXO INICIAL NECESSÁRIO",
+    "Identifiquei na fonte: MANUAL DO ESTAGIÁRIO",
+    "Identifiquei na fonte: E/S SOB SUPERVISAO",
+    "Identifiquei na fonte: SEGUIR PARA A PROXIMA",
+    "Comparei a síntese com a página 7 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "normative",
+  "nodes": [
+    {
+      "id": "BV-01-n1",
+      "number": 1,
+      "label": "Base nacional",
+      "detail": "A fonte cita a Resolução CNJ nº 372/2021 e orienta consultar seu texto compilado.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n2",
+      "number": 2,
+      "label": "Regulação do TJRJ",
+      "detail": "A fonte menciona os Atos TJ/CGJ nº 05/2021 e nº 15/2026.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n3",
+      "number": 3,
+      "label": "Atendimento humano",
+      "detail": "Estagiário atua sob supervisão de servidor, conforme norma indicada no manual.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "BV-01-n4",
+      "number": 4,
+      "label": "Aplicação cautelosa",
+      "detail": "Os parâmetros de tempo, processos e câmera mencionados em fontes secundárias devem ser conferidos na redação oficial.",
+      "source_page": 92,
+      "editorial_status": "source_checked_draft"
+    }
+  ],
+  "edges": [
+    {
+      "from": "BV-01-n1",
+      "to": "BV-01-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-01-n2",
+      "to": "BV-01-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "BV-01-n3",
+      "to": "BV-01-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 92
+}

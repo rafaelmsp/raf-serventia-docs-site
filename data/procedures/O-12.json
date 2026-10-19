@@ -1,0 +1,130 @@
+{
+  "code": "O-12",
+  "title": "Acordo, desistência e conclusão",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 17,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Acordo, desistência e conclusão”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-12-n1",
+      "number": 1,
+      "label": "IDENTIFICAR O PEDIDO E ENCAMINHAR CORRETAMENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-12-n2",
+      "number": 2,
+      "label": "CONSENSO ENTRE AS PARTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-12-n3",
+      "number": 3,
+      "label": "ALGUNS PEDIDOS EXIGEM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-12-n4",
+      "number": 4,
+      "label": "2. DESISTÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-12-n5",
+      "number": 5,
+      "label": "QUANDO A PARTE NÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-12-n1",
+      "to": "O-12-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-12-n2",
+      "to": "O-12-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-12-n3",
+      "to": "O-12-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-12-n4",
+      "to": "O-12-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "IDENTIFICAR O PEDIDO E ENCAMINHAR CORRETAMENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17
+    },
+    {
+      "title": "CONSENSO ENTRE AS PARTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17
+    },
+    {
+      "title": "ALGUNS PEDIDOS EXIGEM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17
+    },
+    {
+      "title": "2. DESISTÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17
+    },
+    {
+      "title": "QUANDO A PARTE NÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 17
+    }
+  ],
+  "warnings": [
+    "Pág. 17 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 17 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-12.svg",
+    "alt": "Ilustração vetorial original sobre Acordo, desistência e conclusão; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: IDENTIFICAR O PEDIDO E ENCAMINHAR CORRETAMENTE",
+    "Identifiquei na fonte: CONSENSO ENTRE AS PARTES",
+    "Identifiquei na fonte: ALGUNS PEDIDOS EXIGEM",
+    "Identifiquei na fonte: 2. DESISTÊNCIA",
+    "Comparei a síntese com a página 17 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

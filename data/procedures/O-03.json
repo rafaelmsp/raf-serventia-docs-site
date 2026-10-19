@@ -1,0 +1,130 @@
+{
+  "code": "O-03",
+  "title": "Anatomia da Árvore do Processo",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 8,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A árvore do processo é apresentada como uma representação da evolução dos autos. O infográfico utiliza raízes, tronco, galhos, folhas e frutos para distinguir história, decisões, comunicações, movimentações e desdobramentos.",
+  "kind": "conceptual",
+  "mode": "mapa da estrutura",
+  "nodes": [
+    {
+      "id": "O-03-n1",
+      "number": 1,
+      "label": "Raízes · histórico",
+      "detail": "História e informações que sustentam a compreensão do processo.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n2",
+      "number": 2,
+      "label": "Tronco · atos decisórios",
+      "detail": "Despachos, decisões, sentenças e atos ordinatórios.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n3",
+      "number": 3,
+      "label": "Galhos · comunicações",
+      "detail": "Citação, intimação, manifestação, juntada e certidão.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n4",
+      "number": 4,
+      "label": "Folhas · andamento",
+      "detail": "Cumprimento, resposta das partes e movimentação.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    },
+    {
+      "id": "O-03-n5",
+      "number": 5,
+      "label": "Frutos · providência",
+      "detail": "Próxima providência, resultado ou encaminhamento.",
+      "source_page": 8,
+      "editorial_status": "source_checked_draft"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-03-n1",
+      "to": "O-03-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n2",
+      "to": "O-03-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n3",
+      "to": "O-03-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-03-n4",
+      "to": "O-03-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Raízes · histórico",
+      "detail": "História e informações que sustentam a compreensão do processo.",
+      "source_page": 8
+    },
+    {
+      "title": "Tronco · atos decisórios",
+      "detail": "Despachos, decisões, sentenças e atos ordinatórios.",
+      "source_page": 8
+    },
+    {
+      "title": "Galhos · comunicações",
+      "detail": "Citação, intimação, manifestação, juntada e certidão.",
+      "source_page": 8
+    },
+    {
+      "title": "Folhas · andamento",
+      "detail": "Cumprimento, resposta das partes e movimentação.",
+      "source_page": 8
+    },
+    {
+      "title": "Frutos · providência",
+      "detail": "Próxima providência, resultado ou encaminhamento.",
+      "source_page": 8
+    }
+  ],
+  "warnings": [
+    "O desenho é uma analogia didática, não uma reprodução oficial da interface do PJe.",
+    "A leitura de um evento isolado não substitui a conferência do documento e do histórico."
+  ],
+  "source_evidence": "Infográfico da página 8; termos raízes/tronco/galhos/folhas/frutos registrados na fonte.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": true,
+  "visual": {
+    "src": "../assets/illustrations/O-03.svg",
+    "alt": "Ilustração vetorial original sobre Anatomia da Árvore do Processo; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: Raízes · histórico",
+    "Identifiquei na fonte: Tronco · atos decisórios",
+    "Identifiquei na fonte: Galhos · comunicações",
+    "Identifiquei na fonte: Folhas · andamento",
+    "Comparei a síntese com a página 8 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

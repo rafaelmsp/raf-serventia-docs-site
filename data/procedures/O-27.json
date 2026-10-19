@@ -1,0 +1,130 @@
+{
+  "code": "O-27",
+  "title": "Desarquivamento",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "source_page": 32,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Desarquivamento”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "O-27-n1",
+      "number": 1,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-27-n2",
+      "number": 2,
+      "label": "DO PEDIDO DE RETORNO À RETOMADA DA TRAMITAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-27-n3",
+      "number": 3,
+      "label": "SITUAÇÕES QUE DEMANDAM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-27-n4",
+      "number": 4,
+      "label": "NÃO SIGNIFICA ALGO DEFINITI\\O",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-27-n5",
+      "number": 5,
+      "label": "ELE PODE SER REATIVAM).",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-27-n1",
+      "to": "O-27-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-27-n2",
+      "to": "O-27-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-27-n3",
+      "to": "O-27-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-27-n4",
+      "to": "O-27-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32
+    },
+    {
+      "title": "DO PEDIDO DE RETORNO À RETOMADA DA TRAMITAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32
+    },
+    {
+      "title": "SITUAÇÕES QUE DEMANDAM",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32
+    },
+    {
+      "title": "NÃO SIGNIFICA ALGO DEFINITI\\O",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32
+    },
+    {
+      "title": "ELE PODE SER REATIVAM).",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 32
+    }
+  ],
+  "warnings": [
+    "Pág. 32 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 32 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/O-27.svg",
+    "alt": "Ilustração vetorial original sobre Desarquivamento; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: DO PEDIDO DE RETORNO À RETOMADA DA TRAMITAÇÃO",
+    "Identifiquei na fonte: SITUAÇÕES QUE DEMANDAM",
+    "Identifiquei na fonte: NÃO SIGNIFICA ALGO DEFINITI\\O",
+    "Comparei a síntese com a página 32 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

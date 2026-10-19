@@ -1,0 +1,130 @@
+{
+  "code": "R-05",
+  "title": "Controle de Expedientes",
+  "section": "R",
+  "section_name": "Relatórios e controle",
+  "source_page": 77,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Controle de Expedientes”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "R-05-n1",
+      "number": 1,
+      "label": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-05-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-05-n3",
+      "number": 3,
+      "label": "DO EXPEDIENTE GERADO AO RESULTADO REGISTRADO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-05-n4",
+      "number": 4,
+      "label": "MAIS CONTROLE, MAIS SEGURANÇA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-05-n5",
+      "number": 5,
+      "label": "ORGANIZADOS E EFICIENTES.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "R-05-n1",
+      "to": "R-05-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-05-n2",
+      "to": "R-05-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-05-n3",
+      "to": "R-05-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-05-n4",
+      "to": "R-05-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "TRABALHO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77
+    },
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77
+    },
+    {
+      "title": "DO EXPEDIENTE GERADO AO RESULTADO REGISTRADO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77
+    },
+    {
+      "title": "MAIS CONTROLE, MAIS SEGURANÇA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77
+    },
+    {
+      "title": "ORGANIZADOS E EFICIENTES.",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 77
+    }
+  ],
+  "warnings": [
+    "Pág. 77 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 77 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/R-05.svg",
+    "alt": "Ilustração vetorial original sobre Controle de Expedientes; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: TRABALHO A SERVIÇO DA CIDADANIA",
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: DO EXPEDIENTE GERADO AO RESULTADO REGISTRADO",
+    "Identifiquei na fonte: MAIS CONTROLE, MAIS SEGURANÇA",
+    "Comparei a síntese com a página 77 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "R-02-n1",
+      "number": 1,
+      "label": "DA ANÁLISE À AÇÃO. EM FAVOR DE UMA JUSTIÇA MAIS EFICIENTE",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 74,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-02-n2",
+      "number": 2,
+      "label": "1. IDENTIFICAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 74,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-02-n3",
+      "number": 3,
+      "label": "O QUE É ESTE PROCESSO?",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 74,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-02-n4",
+      "number": 4,
+      "label": "3. CONFERÊNCIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 74,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-02-n5",
+      "number": 5,
+      "label": "HOUVE CUMPRIMENTO?",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 74,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "R-02-n1",
+      "to": "R-02-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-02-n2",
+      "to": "R-02-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-02-n3",
+      "to": "R-02-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-02-n4",
+      "to": "R-02-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 74
+}

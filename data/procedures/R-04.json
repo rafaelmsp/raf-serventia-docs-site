@@ -1,0 +1,130 @@
+{
+  "code": "R-04",
+  "title": "Quando acabar algo na árvore, o que fazer?",
+  "section": "R",
+  "section_name": "Relatórios e controle",
+  "source_page": 76,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Quando acabar algo na árvore, o que fazer?”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "R-04-n1",
+      "number": 1,
+      "label": "TRASAI.HO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-04-n2",
+      "number": 2,
+      "label": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-04-n3",
+      "number": 3,
+      "label": "DA LEITURA A AÇAO COM SEGURANÇA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-04-n4",
+      "number": 4,
+      "label": "RESPONDA A ESTAS PERGUNTAS ANTES DE DECIDIR O PRÓXIMO PASSO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "R-04-n5",
+      "number": 5,
+      "label": "SITUAÇÕES PRÁTICAS E AÇÃO PROVÁVEL NO PJ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "R-04-n1",
+      "to": "R-04-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-04-n2",
+      "to": "R-04-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-04-n3",
+      "to": "R-04-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "R-04-n4",
+      "to": "R-04-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "TRASAI.HO A SERVIÇO DA CIDADANIA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76
+    },
+    {
+      "title": "CELERIDADE • ACESSO • SOLUÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76
+    },
+    {
+      "title": "DA LEITURA A AÇAO COM SEGURANÇA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76
+    },
+    {
+      "title": "RESPONDA A ESTAS PERGUNTAS ANTES DE DECIDIR O PRÓXIMO PASSO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76
+    },
+    {
+      "title": "SITUAÇÕES PRÁTICAS E AÇÃO PROVÁVEL NO PJ",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 76
+    }
+  ],
+  "warnings": [
+    "Pág. 76 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 76 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/R-04.svg",
+    "alt": "Ilustração vetorial original sobre Quando acabar algo na árvore, o que fazer?; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: TRASAI.HO A SERVIÇO DA CIDADANIA",
+    "Identifiquei na fonte: CELERIDADE • ACESSO • SOLUÇÃO",
+    "Identifiquei na fonte: DA LEITURA A AÇAO COM SEGURANÇA",
+    "Identifiquei na fonte: RESPONDA A ESTAS PERGUNTAS ANTES DE DECIDIR O PRÓXIMO PASSO",
+    "Comparei a síntese com a página 76 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

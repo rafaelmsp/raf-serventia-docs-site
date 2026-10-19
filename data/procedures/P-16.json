@@ -1,0 +1,130 @@
+{
+  "code": "P-16",
+  "title": "Marco de 72 horas",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "source_page": 71,
+  "source_method": "ocr_ptbr_provisorio",
+  "summary": "A página apresenta o tema “Marco de 72 horas”. O mapa abaixo reúne tópicos extraídos automaticamente do infográfico e requer comparação com a fonte original.",
+  "kind": "reading",
+  "mode": "mapa documental preliminar",
+  "nodes": [
+    {
+      "id": "P-16-n1",
+      "number": 1,
+      "label": "MAIS DE 72H ANTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-16-n2",
+      "number": 2,
+      "label": "ENCAMINHAMENTO RELATADO:",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-16-n3",
+      "number": 3,
+      "label": "COMO O ESTAGIÁRIO APLICA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-16-n4",
+      "number": 4,
+      "label": "EXEMPLO DO TREINAMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "P-16-n5",
+      "number": 5,
+      "label": "AUDIÊNCIA POSTERIOR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "P-16-n1",
+      "to": "P-16-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-16-n2",
+      "to": "P-16-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-16-n3",
+      "to": "P-16-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "P-16-n4",
+      "to": "P-16-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "steps": [
+    {
+      "title": "MAIS DE 72H ANTES",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71
+    },
+    {
+      "title": "ENCAMINHAMENTO RELATADO:",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71
+    },
+    {
+      "title": "COMO O ESTAGIÁRIO APLICA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71
+    },
+    {
+      "title": "EXEMPLO DO TREINAMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71
+    },
+    {
+      "title": "AUDIÊNCIA POSTERIOR",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 71
+    }
+  ],
+  "warnings": [
+    "Pág. 71 — roteiro de leitura didático, não sequência autorizada de atos processuais.",
+    "Rótulos extraídos automaticamente: confirme números, prazos e grafia na imagem antes de usar."
+  ],
+  "source_evidence": "Pág. 71 do manual de 15/10/2026. Texto OCR provisório.",
+  "status": "didactic_draft_human_review_pending",
+  "source_checked": false,
+  "visual": {
+    "src": "../assets/illustrations/P-16.svg",
+    "alt": "Ilustração vetorial original sobre Marco de 72 horas; contém 5 tópicos esquemáticos."
+  },
+  "checklist": [
+    "Identifiquei na fonte: MAIS DE 72H ANTES",
+    "Identifiquei na fonte: ENCAMINHAMENTO RELATADO:",
+    "Identifiquei na fonte: COMO O ESTAGIÁRIO APLICA",
+    "Identifiquei na fonte: EXEMPLO DO TREINAMENTO",
+    "Comparei a síntese com a página 71 do PDF antes de utilizar."
+  ],
+  "faq": [
+    {
+      "q": "Este esquema reproduz a interface oficial do PJe?",
+      "a": "Não. Trata-se de uma representação didática de leitura do manual, sem conexão com o PJe."
+    },
+    {
+      "q": "O texto desta ficha já está homologado?",
+      "a": "Não. A ficha está em revisão. Use a página original e a orientação do servidor responsável para conferência."
+    }
+  ]
+}

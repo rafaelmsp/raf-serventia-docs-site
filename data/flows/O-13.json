@@ -1,0 +1,68 @@
+{
+  "type": "reading",
+  "nodes": [
+    {
+      "id": "O-13-n1",
+      "number": 1,
+      "label": "DA DECISÃO AO ESFORÇO DE EFETIVAÇÃO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 18,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-13-n2",
+      "number": 2,
+      "label": "FASE DE CONHECIMENTO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 18,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-13-n3",
+      "number": 3,
+      "label": "X FASE EXECUTIVA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 18,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-13-n4",
+      "number": 4,
+      "label": "OBJETIVOS DIFERENTES, MESMO PROCESSO",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 18,
+      "editorial_status": "ocr_or_source_review_pending"
+    },
+    {
+      "id": "O-13-n5",
+      "number": 5,
+      "label": "INDICADORES DA FASE EXECUTIVA",
+      "detail": "Tópico destacado na página do manual. Consulte o infográfico para conferir o contexto.",
+      "source_page": 18,
+      "editorial_status": "ocr_or_source_review_pending"
+    }
+  ],
+  "edges": [
+    {
+      "from": "O-13-n1",
+      "to": "O-13-n2",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-13-n2",
+      "to": "O-13-n3",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-13-n3",
+      "to": "O-13-n4",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    },
+    {
+      "from": "O-13-n4",
+      "to": "O-13-n5",
+      "meaning": "ordem de apresentação didática, não execução de ato judicial"
+    }
+  ],
+  "source_page": 18
+}
