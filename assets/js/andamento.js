@@ -35,7 +35,7 @@ fetch('data/progress.json').then(r=>{
    metrics.append(box);
  });
  const container=document.getElementById('phase-list');
- Object.entries(d.phases).forEach(([key,phase])=>{
+ Object.entries(d.phases).sort((a,b)=>a[0].localeCompare(b[0])).forEach(([key,phase])=>{
    const box=element('article','phase');
    const head=element('div','phase-head');
    head.append(element('span','',key+' · '+(phaseNames[key]||key)));
