@@ -2,7 +2,7 @@
   "version": "v2.0-draft",
   "count": 96,
   "pilots_authored": 6,
-  "needs_source_review": 90,
+  "needs_source_review": 82,
   "approved": 0,
   "reviewed_with_students": 0,
   "first_learning_path": [
@@ -20,5 +20,9 @@
     "BF": 12,
     "BV": 14
   },
-  "notes": "Seis roteiros autorais de treinamento inicial; os demais 90 são prévias conceituais sem instrução operacional homologada."
+  "notes": "192 imagens SVG premium em 96 páginas; 14 roteiros autorais em revisão; 82 leituras provisórias, não homologadas.",
+  "authored_lessons": 14,
+  "preview_count": 82,
+  "full_visual_coverage": 96,
+  "premium_diagrams": 96
 }

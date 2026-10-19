@@ -1,0 +1,15 @@
+{
+  "total": 96,
+  "pages_passed": 96,
+  "scenes_loaded": 96,
+  "diagrams_loaded": 96,
+  "by_section": {
+    "O": 49,
+    "P": 16,
+    "R": 5,
+    "BF": 12,
+    "BV": 14
+  },
+  "failed": 0,
+  "failures": []
+}

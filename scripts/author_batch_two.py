@@ -1,0 +1,222 @@
+"""Second authored training batch: eight processes, grounded in manual p. 6,7,9-12,14,15.
+Every scenario fictitious; no direct access to PJe; approval still pending.
+"""
+from pathlib import Path
+import json
+ROOT=Path(__file__).resolve().parents[1]
+# Compact authoring data; steps are observation/comprehension, not automated judicial actions.
+LESSONS={
+'O-01':{
+'objective':'Entender para que serve a árvore do processo antes de procurar uma providência.',
+'plain':'A árvore reúne a história dos autos. O infográfico mostra origem, atos, comunicações e o próximo encaminhamento — sem autorizar que o estagiário tome decisões.',
+'terms':[
+('Origem','Conjunto das informações iniciais que ajudam a identificar a demanda.','Partes, pedido e documentos iniciais.'),
+('Atos relevantes','Despachos, decisões e registros que influenciam o andamento.','Uma nova decisão pode mudar a providência em estudo.'),
+('Cumprimento','Conferência entre a ordem e o que consta nos autos.','Juntada não garante cumprimento integral.'),
+('Próxima providência','Encaminhamento que depende da situação documentada.','Na dúvida, comunique a supervisão.')],
+'observe':[('História','O que aconteceu desde a origem?'),('Último ato','Que documento determina ou registra a situação recente?'),
+ ('Prazos','Existe registro de comunicação e de prazo a conferir?')],
+'steps':[('Localizar os autos','Identifique o processo e a informação de origem.','Evita analisar o caso errado.'),
+ ('Ler a sequência','Comece pelos eventos que explicam o estado atual.','Dá contexto à última movimentação.'),
+ ('Abrir peças relevantes','Leia despacho, decisão, certidão ou resposta indicada.','Títulos de eventos são insuficientes.'),
+ ('Apontar pendências','Informe o que falta ou merece análise do servidor.','Mantém a conferência dentro da atuação supervisionada.')],
+'quiz':'A última movimentação informa “juntada”, mas você não leu o arquivo. Qual conduta é adequada?',
+'right':'Ler o documento associado e relacioná-lo aos autos.',
+'wrong1':'Concluir que o cumprimento está completo só pelo evento.',
+'wrong2':'Encaminhar uma decisão judicial por conta própria.',
+'scenario':'Exemplo fictício: um processo reúne petição inicial, despacho, comunicação e manifestação posterior.',
+'practice':'Como descobrir o que deve ser conferido primeiro?',
+'practice_right':'Ler os documentos relacionados à determinação e verificar o histórico.',
+'practice_wrong1':'Considerar apenas a data da última juntada.',
+'practice_wrong2':'Ignorar a origem do processo.'},
+'O-02':{
+'objective':'Compreender a triagem inicial e reconhecer quando uma pendência documental exige conferência e supervisão.',
+'plain':'A fonte propõe olhar o processo, conferir partes e documentos e identificar irregularidades antes de escolher qualquer encaminhamento. Os comandos de sistema citados exigem perfil e autorização.',
+'terms':[('Triagem','Exame inicial do conjunto documental.','Conferir petição e anexos.'),
+ ('Procuração','Documento que pode demonstrar poderes de representação, conforme o caso.','Verificar quando é exigida e se está regular.'),
+ ('Pendência','Informação ou documento ausente, contraditório ou ilegível.','Uma procuração pode precisar de conferência.'),
+ ('PAC','Ato de comunicação mencionado no fluxo.','Só utilizar conforme orientação e perfil autorizado.')],
+'observe':[('Documentos essenciais','Quais documentos o manual sugere conferir?'),('Irregularidades','Há ausência ou divergência concreta?'),
+ ('Permissões','Quem valida e assina o ato na rotina da unidade?')],
+'steps':[('Reconhecer o processo','Leia a identificação da demanda.','O objetivo é situar a triagem.'),
+ ('Conferir documentos','Verifique partes, representação e anexos relevantes.','Pode revelar irregularidade.'),
+ ('Descrever a pendência','Registre o que parece faltar, sem criar exigências não previstas.','Ajuda a revisão do servidor.'),
+ ('Solicitar supervisão','Confirme se haverá certidão, comunicação ou outra providência.','Assinaturas e expedições dependem de autorização.')],
+'quiz':'Uma peça importante parece ausente no início da triagem. O que o estagiário deve fazer?',
+'right':'Descrever a pendência e consultar o servidor sobre a providência.',
+'wrong1':'Assinar uma certidão usando credenciais de outra pessoa.',
+'wrong2':'Descartar o processo da fila sem análise.',
+'scenario':'Exemplo fictício: a triagem encontra petição e anexos, mas há dúvida sobre representação.',
+'practice':'Qual é a atitude de estudo e conferência mais segura?',
+'practice_right':'Identificar a dúvida, conferir os documentos e encaminhar à supervisão.',
+'practice_wrong1':'Decidir sozinho que não há necessidade de procuração.',
+'practice_wrong2':'Intimar sem verificar a determinação e o destinatário.'},
+'O-04':{
+'objective':'Aprender a ler a árvore por perguntas-chave, sem pular diretamente para uma ação.',
+'plain':'O manual organiza a leitura em sete perguntas: fase, último ato, comunicação, prazo, resposta, cumprimento e providência. A sequência serve para raciocinar, não substituir supervisão.',
+'terms':[('Fase','Etapa em que o processo se encontra.','Pode haver conferência inicial, audiência ou outra fase.'),
+ ('Último ato','Registro recente com possível relevância processual.','É necessário abrir a peça.'),
+ ('Comunicação','Registro relacionado à ciência de uma parte.','Verificar citação, intimação e AR.'),
+ ('Prazo','Intervalo sujeito a regra aplicável.','Não inferir início ou vencimento sem fonte.')],
+'observe':[('Em que fase está?','Identifique o contexto do processo.'),('Quem determinou o quê?','Abra a peça do ato relevante.'),
+ ('Houve resposta ou cumprimento?','Procure documentos que esclareçam o desfecho.')],
+'steps':[('Identificar a fase','Veja o estado indicado no histórico.','Ajuda a contextualizar a leitura.'),
+ ('Localizar o ato','Leia a determinação recente e atos relacionados.','Evita tratar juntada como decisão.'),
+ ('Conferir ciência e prazo','Examine comunicação e marcos documentados.','Pode haver irregularidades relevantes.'),
+ ('Examinar resposta','Compare o que foi apresentado ao que era solicitado.','Permite relatar a situação.'),
+ ('Encaminhar dúvida','Peça supervisão quando a conclusão exigir competência do servidor.','Evita ações precipitadas.')],
+'quiz':'A árvore mostra um último ato, mas há prazo em aberto a verificar. O que fazer?',
+'right':'Conferir os marcos do prazo e a documentação relacionada.',
+'wrong1':'Escolher a próxima tarefa apenas pelo título da movimentação.',
+'wrong2':'Presumir que o prazo terminou.',
+'scenario':'Exemplo fictício: houve comunicação e uma manifestação posterior; não se sabe se a determinação foi atendida.',
+'practice':'Qual conjunto de perguntas ajuda mais?',
+'practice_right':'Qual era a determinação, houve ciência e a resposta cumpriu o solicitado?',
+'practice_wrong1':'Qual movimento tem o título mais recente?',
+'practice_wrong2':'Qual botão permite concluir imediatamente?'},
+'O-05':{
+'objective':'Diferenciar documentos e eventos importantes do processo e reconhecer por que cada um deve ser lido.',
+'plain':'O infográfico apresenta petição inicial, despacho, decisão, sentença, citação, intimação, certidão, manifestação, recursos e outros documentos que mudam o entendimento dos autos.',
+'terms':[('Petição inicial','Peça que inaugura a demanda.','Contém o pedido e os fatos apresentados.'),
+ ('Despacho ou decisão','Atos judiciais com funções diferentes.','Leia o teor para compreender a determinação.'),
+ ('Certidão','Registro formal de um acontecimento ou situação.','Pode documentar resultado de diligência.'),
+ ('Manifestação','Resposta ou pedido apresentado por parte ou participante.','Precisa ser examinada no contexto.')],
+'observe':[('Origem da demanda','Localize a petição inicial.'),('Ordem judicial','Identifique despacho ou decisão que merece leitura.'),
+ ('Comunicação e resposta','Veja citação, intimação, AR e manifestação.')],
+'steps':[('Reconhecer a peça','Leia o tipo de documento indicado no histórico.','Diferentes peças têm finalidades diferentes.'),
+ ('Abrir o conteúdo','Verifique a informação efetivamente registrada.','O rótulo não conta a história inteira.'),
+ ('Relacionar os atos','Veja quais documentos se referem uns aos outros.','Permite entender a sequência.'),
+ ('Explicar ao supervisor','Resuma o que os documentos revelam e o que falta.','Evita extrapolar a competência do estagiário.')],
+'quiz':'Uma certidão e uma petição aparecem no histórico. Elas cumprem a mesma função?',
+'right':'Não. A certidão registra uma ocorrência e a petição expressa pedido ou manifestação.',
+'wrong1':'Sim. Todos os documentos têm exatamente a mesma finalidade.',
+'wrong2':'Sim, desde que tenham sido juntados no mesmo dia.',
+'scenario':'Exemplo fictício: você encontra uma petição intermediária após a intimação.',
+'practice':'O que deve ser conferido?',
+'practice_right':'Ler a petição e comparar seu conteúdo à comunicação anterior.',
+'practice_wrong1':'Concluir automaticamente que o pedido será acolhido.',
+'practice_wrong2':'Ignorar o documento porque é intermediário.'},
+
+'O-06':{
+'objective':'Relacionar um achado na árvore à necessidade de análise, sem presumir que a providência pode ser executada pelo estagiário.',
+'plain':'O manual compara situações documentadas a possíveis encaminhamentos, como comunicação, certidão, conclusão e pauta. As decisões sobre esses caminhos dependem das competências e da orientação local.',
+'terms':[('Achado','Situação encontrada ao ler os autos.','Dúvida sobre citação ou documento pendente.'),
+ ('Encaminhamento','Possível tratamento que a unidade poderá adotar.','Comunicar a pendência à pessoa responsável.'),
+ ('Conclusão','Encaminhamento dos autos ao magistrado, quando cabível.','Não é decisão automática diante de uma petição.'),
+ ('Regularidade','Situação que deve ser conferida com os documentos.','Ciência e prazo não se presumem.')],
+'observe':[('O que ocorreu?','Defina a situação concreta que o documento mostra.'),
+ ('O que ainda falta?','Confronte a situação com a determinação aplicável.'),
+ ('Quem decide?','Observe se a atribuição cabe ao servidor ou magistrado.')],
+'steps':[('Identificar o achado','Leia a árvore e a peça relevante.','A observação deve estar documentada.'),
+ ('Separar fato de conclusão','Descreva o que consta dos autos sem antecipar a decisão.','Evita presumir efeitos jurídicos.'),
+ ('Consultar o quadro de caminhos','Use o infográfico para compreender as alternativas.','Um fluxograma não é autorização para executar.'),
+ ('Levar ao responsável','Confirme a providência antes de alterar tarefa ou praticar ato.','Respeita os limites do estágio.')],
+'quiz':'O processo tem uma petição de acordo. Você pode concluir que o acordo foi homologado?',
+'right':'Não. Verifico a peça e o andamento e consulto o responsável sobre a situação.',
+'wrong1':'Sim. A juntada substitui automaticamente a homologação.',
+'wrong2':'Sim. Posso encerrar a demanda sem exame judicial.',
+'scenario':'Exemplo fictício: há manifestação juntada e dúvida sobre necessidade de conclusão.',
+'practice':'Qual pergunta é indispensável?',
+'practice_right':'Qual é a determinação e quem está autorizado a definir o encaminhamento?',
+'practice_wrong1':'Qual é o atalho mais rápido para concluir o caso?',
+'practice_wrong2':'Como evitar comunicar a pendência?'},
+'O-07':{
+'objective':'Reconhecer erros comuns na leitura da árvore e desenvolver uma postura de conferência documental cuidadosa.',
+'plain':'A fonte ressalta validade da comunicação, prazos, cumprimento exato, fase processual, integridade documental e risco de conclusões precipitadas.',
+'terms':[('Validade da comunicação','Condição que depende dos registros do caso.','AR ou mandado devem ser examinados.'),
+ ('Prazo processual','Intervalo sujeito a marcos e regras específicas.','Exige conferência do início, fim e eventuais suspensões.'),
+ ('Cumprimento','Verificação do atendimento efetivo à determinação.','Juntada não é sinônimo de cumprimento.'),
+ ('Fase processual','Contexto em que o processo se encontra.','Ajuda a diferenciar providências.')],
+'observe':[('Verificar comunicação','A prova de ciência está documentada?'),
+ ('Conferir datas','Há elementos suficientes para entender o prazo?'),
+ ('Analisar integralmente','Você leu as decisões e respostas relevantes?')],
+'steps':[('Ler a ordem','Examine a determinação e a fase atual.','Evita interpretação fora de contexto.'),
+ ('Ler a comprovação','Confira AR, certidão ou documentação pertinente.','O documento pode revelar ressalvas.'),
+ ('Conferir prazo e resposta','Localize os marcos antes de concluir o status.','Evita prazos mal contados.'),
+ ('Apontar o alerta','Registre o fato e leve a dúvida à supervisão.','Permite corrigir antes de um ato indevido.')],
+'quiz':'A última movimentação parece indicar cumprimento, mas o documento não foi aberto. Qual o erro?',
+'right':'Confundir juntada com cumprimento efetivo da ordem.',
+'wrong1':'Consultar a determinação antes de conferir a resposta.',
+'wrong2':'Descrever a pendência ao servidor.',
+'scenario':'Exemplo fictício: um AR está juntado e a parte não se manifestou.',
+'practice':'Qual o cuidado inicial?',
+'practice_right':'Conferir o teor do AR e o prazo aplicável, sem presumir revelia.',
+'practice_wrong1':'Declarar revelia automaticamente.',
+'practice_wrong2':'Ignorar o documento da comunicação.'},
+'O-09':{
+'objective':'Distinguir citação, intimação e AR e reconhecer que a validade da comunicação depende da documentação.',
+'plain':'A fonte compara finalidades de comunicação, estados de retorno do AR e efeitos que precisam ser analisados antes de encaminhar o processo.',
+'terms':[('Citação','Comunicação processual de chamada à demanda, conforme o rito.','A regularidade deve ser verificada nos autos.'),
+ ('Intimação','Comunicação sobre ato ou providência processual.','Pode exigir atenção a destinatário e prazo.'),
+ ('AR','Aviso de Recebimento de correspondência.','O retorno pode ser positivo, negativo ou apresentar ressalvas.'),
+ ('Status da comunicação','Registro do resultado da tentativa de comunicação.','Não equivale automaticamente a ciência válida.')],
+'observe':[('Qual foi a comunicação?','Citação e intimação não se confundem.'),
+ ('O AR foi devolvido?','Veja o tipo de retorno e o seu conteúdo.'),
+ ('Existe prova suficiente?','Consulte os documentos e o responsável antes de concluir efeitos.')],
+'steps':[('Identificar o instrumento','Confira se houve citação, intimação ou envio postal.','Cada um possui função própria.'),
+ ('Ler o resultado','Examine o AR ou a certidão correspondente.','O status sozinho pode ser insuficiente.'),
+ ('Verificar destinatário e contexto','Confira dados documentados e eventual ressalva.','Evita presumir validade.'),
+ ('Encaminhar inconsistências','Informe resultado negativo ou duvidoso à supervisão.','Nova comunicação depende de rotina e autorização.')],
+'quiz':'Há um AR com informação de entrega inconclusiva. Podemos afirmar ciência válida?',
+'right':'Não. Preciso conferir o documento e consultar as regras e a supervisão.',
+'wrong1':'Sim. Basta existir um AR na árvore.',
+'wrong2':'Sim, porque qualquer devolução inicia automaticamente um prazo.',
+'scenario':'Exemplo fictício: um aviso de recebimento foi devolvido sem prova inequívoca da entrega.',
+'practice':'Qual atitude é adequada?',
+'practice_right':'Descrever o resultado documentado e encaminhar a análise de comunicação.',
+'practice_wrong1':'Certificar ciência válida sem conferir.',
+'practice_wrong2':'Marcar o prazo como encerrado automaticamente.'},
+'O-10':{
+'objective':'Compreender a finalidade de uma certidão de conferência na triagem e o cuidado necessário com redação, identificação e assinatura.',
+'plain':'O manual usa como exemplo uma pendência documental na petição inicial. Mostra etapas de elaboração, conferência, assinatura e comunicação, mas ressalva que a sessão e o perfil devem ser autorizados.',
+'terms':[('Certidão','Registro formal de fato ou ocorrência constatada.','Pode indicar a ausência de documento observado.'),
+ ('Modelo','Estrutura de texto usada conforme a rotina aprovada.','Um modelo não deve ser aplicado sem conferir sua finalidade.'),
+ ('Assinatura','Ato de validação por pessoa e perfil autorizados.','Não usar credenciais de terceiros.'),
+ ('Comunicação posterior','Providência indicada após a etapa validada.','Exige conferência de destinatário, via e documento.')],
+'observe':[('Pendência concreta','O que falta e onde está registrado?'),
+ ('Texto da certidão','A informação corresponde ao que foi observado?'),
+ ('Controle de acesso','Quem está autorizado a revisar e assinar?')],
+'steps':[('Localizar a situação','Leia a peça e a solicitação documentada.','Evita textos padronizados incompatíveis.'),
+ ('Revisar conteúdo','Descreva o fato, confira nomes e documentos.','Assegura fidelidade da certidão.'),
+ ('Submeter a validação','Confirme modelo, contexto e servidor responsável.','O estagiário não utiliza assinatura alheia.'),
+ ('Conferir a comunicação subsequente','Verifique se há orientação para ato de comunicação e seus dados.','Expedição depende de permissão e supervisão.')],
+'quiz':'O modelo de certidão está preenchido, mas você está em sessão de outra pessoa. É adequado assinar?',
+'right':'Não. A assinatura exige perfil próprio e autorização do responsável.',
+'wrong1':'Sim. Basta possuir acesso ao computador.',
+'wrong2':'Sim. A finalidade de treinamento dispensa identificação.',
+'scenario':'Exemplo fictício: foi notada possível ausência de procuração nos autos.',
+'practice':'Qual é a conduta inicial mais adequada?',
+'practice_right':'Conferir a exigibilidade e os documentos e submeter a observação ao servidor.',
+'practice_wrong1':'Inventar um novo prazo e intimar automaticamente.',
+'practice_wrong2':'Assinar em nome de outra pessoa para acelerar.'}
+}
+def put():
+ count=0
+ for code,d in LESSONS.items():
+  file=ROOT/'data'/'lessons'/(code+'.json')
+  obj=json.loads(file.read_text(encoding='utf-8'))
+  obj['state']='author_draft'
+  obj['status_note']='Lição didática escrita a partir do infográfico original; revisão técnica e teste com estagiários pendentes.'
+  obj['authored_batch']='study_batch_02'
+  obj['objective']=d['objective'];obj['plain']=d['plain']
+  obj['terms']=[{'term':a,'meaning':b,'example':c} for a,b,c in d['terms']]
+  obj['observe']=[{'title':a,'detail':b} for a,b in d['observe']]
+  obj['steps']=[{'title':a,'instruction':b,'why':c} for a,b,c in d['steps']]
+  obj['decision']={'question':d['quiz'],'options':[
+     {'label':d['right'],'feedback':'Adequado: confira a peça e a fonte; respeite as atribuições do responsável.','correct':True},
+     {'label':d['wrong1'],'feedback':'Essa conclusão não é suficiente ou ultrapassa a atuação supervisionada.','correct':False},
+     {'label':d['wrong2'],'feedback':'Não se deve decidir ou atuar sem verificar a fonte e a competência.','correct':False}]}
+  obj['practice']={'scenario':d['scenario'],'question':d['practice'],'options':[
+     {'label':d['practice_right'],'feedback':'Adequado para uma conferência inicial.','correct':True},
+     {'label':d['practice_wrong1'],'feedback':'Isso não comprova o fato ou não respeita a supervisão.','correct':False},
+     {'label':d['practice_wrong2'],'feedback':'Revise a fonte e os limites de atuação.','correct':False}]}
+  obj['mistakes']=[{'mistake':'Presumir efeitos jurídicos','correct':'Conferir os documentos e não antecipar decisão.'},
+    {'mistake':'Interpretar rótulo sem a peça','correct':'Ler o conteúdo relacionado ao registro.'},
+    {'mistake':'Atuar sem autorização','correct':'Solicitar orientação do servidor responsável.'}]
+  obj['mastery']=['Consigo localizar as informações essenciais da fonte.',
+    'Sei explicar por que a conferência é importante.','Reconheço o momento de pedir supervisão.']
+  obj['pedagogical_ready']=False;obj['technical_approved']=False;obj['student_tested']=False
+  file.write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf-8')
+  count+=1
+ print('EIGHT_ADDITIONAL_LESSONS_AUTHORED',count)
+if __name__=='__main__':put()

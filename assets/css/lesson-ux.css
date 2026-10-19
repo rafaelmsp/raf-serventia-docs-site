@@ -108,3 +108,5 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
 }
 
 .edu-visual-viewport{touch-action:pan-x pan-y;scroll-behavior:smooth}.edu-visual-viewport:focus-visible{outline:3px solid #70D2FC;outline-offset:-3px}.edu-visual-viewport img{user-select:none}.edu-visual-caption{line-height:1.5}
+
+.source-evidence{margin:18px 0 0;border:1px solid #C9DFEC;border-radius:11px;background:#F7FBFE;padding:12px 15px}.source-evidence summary{min-height:35px;color:#225D7E;font-size:13px;font-weight:800;cursor:pointer}.source-evidence-body{padding-top:10px}.source-highlight-list{padding-left:21px;color:#2D526C;font-size:13px;line-height:1.65}.source-highlight-list li{margin-bottom:10px}.source-evidence-body .source-link{margin-top:8px}

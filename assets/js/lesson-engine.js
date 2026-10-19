@@ -35,20 +35,35 @@ function visualFigure(kind,title) {
 function welcome(){
  const b=box('O que você vai aprender?','Você não precisa conhecer previamente o PJe.');
  add(b,E('p','welcome-objective',data.objective),E('p','edu-readable',data.plain),
- E('div','edu-notice',data.is_pilot?'Aula piloto em revisão. Os exemplos são fictícios.':'Prévia de estudo: ainda não há procedimento operacional revisado nesta ficha.'),
- E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));if(data.is_pilot){ b.append(visualFigure('scene','Prévia ilustrada da lição'));const go=E('button','preview-action','Explorar imagem e elementos →');go.type='button';go.addEventListener('click',()=>move(2));b.append(go); }return b;
+ E('div','edu-notice',data.state==='author_draft'?'Lição didática autoral em revisão. Os exemplos são fictícios.':'Prévia de estudo: ainda não há procedimento operacional revisado nesta ficha.'),
+ E('p','edu-small','Fonte: página '+data.page+' do manual de 15/10/2026.'));if(data.visual_coverage){ b.append(visualFigure('scene','Prévia ilustrada da lição'));const go=E('button','preview-action','Explorar imagem e elementos →');go.type='button';go.addEventListener('click',()=>move(2));b.append(go); }return b;
 }
 function understand(){
  const b=box('Entender sem complicação','Abra cada expressão para conhecer o significado e um exemplo.');
  b.append(sequence(data.terms,(t,i)=>{const d=E('details','term-card');
  add(d,E('summary','',t.term));const body=E('div','term-detail');
- add(body,E('p','',t.meaning),E('p','edu-example','Exemplo: '+t.example));d.append(body);if(i===0)d.open=true;return d}));return b;
+ add(body,E('p','',t.meaning),E('p','edu-example','Exemplo: '+t.example));d.append(body);if(i===0)d.open=true;return d}));
+ const evidence=E('details','source-evidence');
+ evidence.append(E('summary','','O que está escrito na página original?'));
+ const content=E('div','source-evidence-body');
+ if(Array.isArray(data.source_highlights)&&data.source_highlights.length) {
+   content.append(E('p','edu-muted','Trechos extraídos da camada textual do PDF. Use-os como referência de leitura, não como instruções suficientes para atuar.'));
+   const quotes=E('ul','source-highlight-list');
+   data.source_highlights.slice(0,3).forEach(txt=>quotes.append(E('li','',txt)));
+   content.append(quotes);
+ } else {
+   content.append(E('p','edu-muted','A transcrição desta página depende de conferência visual. Consulte o infográfico original para não reproduzir erros de OCR.'));
+ }
+ const original=E('a','source-link','Abrir o infográfico da página '+data.page+' ↗');
+ original.href=data.pdf;original.target='_blank';original.rel='noopener noreferrer';content.append(original);
+ evidence.append(content);b.append(evidence);
+ return b;
 }
 function recognize(){
  const b=box('Reconhecer na prática','Uma ilustração conceitual. Não é captura do PJe nem interface oficial.');
  const fig=E('figure','visual-figure'),img=E('img');img.src='../assets/learning/'+code+'/simulacao.svg';
  img.alt=data.scene.alt;img.loading='lazy';
- if(data.is_pilot){b.append(visualFigure('scene','Explore os elementos da cena'));}else{add(fig,img,E('figcaption','',data.scene.title+' · simulação didática'));b.append(fig);}
+ if(data.visual_coverage){b.append(visualFigure('scene','Explore os elementos da cena'));}else{add(fig,img,E('figcaption','',data.scene.title+' · simulação didática'));b.append(fig);}
  const original=E('details','original-compare');
  const picture=E('img');picture.src=data.source_image;picture.loading='lazy';
  picture.alt='Infográfico original da página '+data.page;
@@ -75,10 +90,11 @@ function observe(){
 function doWithHelp(){
  const b=box('Observar e fazer com supervisão','Passos de leitura orientada, sem execução de atos pelo portal.');
  if(!data.steps.length){
+   if(data.visual_coverage)b.append(visualFigure('diagram','Mapa ilustrado dos tópicos de estudo'));
    b.append(E('p','edu-warning','A sequência operacional ainda não foi validada. Não é seguro transformar OCR em comandos do sistema.'));
    const a=E('a','source-link','Conferir página original ↗');a.href=data.pdf;a.target='_blank';a.rel='noopener noreferrer';b.append(a);return b;
  }
- if(data.is_pilot)b.append(visualFigure('diagram','Mapa visual da sequência de conferência'));b.append(sequence(data.steps,(s,i)=>{const x=E('article','coach-item'),body=E('div');
+ if(data.visual_coverage)b.append(visualFigure('diagram',data.steps.length?'Mapa visual da sequência de conferência':'Mapa conceitual de leitura da fonte'));b.append(sequence(data.steps,(s,i)=>{const x=E('article','coach-item'),body=E('div');
  add(body,E('h3','',s.title),E('p','',s.instruction));
  const d=E('details','why-detail');add(d,E('summary','','Por que isso importa?'),E('p','',s.why));body.append(d);
  return add(x,E('span','coach-number',i+1),body)}));
@@ -133,8 +149,8 @@ function updateResult(){
  const out=document.getElementById('mastery-result');if(!out)return;
  const correct=['decision','practice'].every(t=>Number.isInteger(answers[t])&&data[t].options[answers[t]]?.correct);
  const tick=data.mastery.every((_,i)=>checks[i]===true);
- const done=data.is_pilot&&correct&&tick;
- out.textContent=!data.is_pilot?'Prévia em revisão. Não há certificação de aprendizagem nesta ficha.':
+ const done=data.state==='author_draft'&&correct&&tick;
+ out.textContent=data.state!=='author_draft'?'Prévia em revisão. Não há certificação de aprendizagem nesta ficha.':
  done?'Compreensão demonstrada nestas simulações. Isso não autoriza trabalhar sem supervisão.':
  'Responda corretamente aos dois desafios e confira a lista de competências para concluir o treino.';
  out.classList.toggle('mastery-ok',done);
@@ -147,8 +163,8 @@ function render(){
  if(!data)return;app.replaceChildren();
  const hero=E('section','lesson-hero');hero.style.setProperty('--accent',data.color);
  add(hero,E('span','hero-kicker',data.code+'  ·  '+data.section_name),
- E('h1','',data.title),E('p','',data.is_pilot?'Aprenda com imagens, exemplos e escolhas comentadas.':'Prévia de estudo — roteiro específico pendente de revisão.'),
- E('span','editorial-chip',data.is_pilot?'AULA PILOTO EM REVISÃO':'PRÉVIA NÃO REVISADA'));app.append(hero);
+ E('h1','',data.title),E('p','',data.state==='author_draft'?'Aprenda com imagens, exemplos e escolhas comentadas.':'Prévia de estudo — roteiro específico pendente de revisão.'),
+ E('span','editorial-chip',data.state==='author_draft'?'ROTEIRO DIDÁTICO EM REVISÃO':'PRÉVIA NÃO REVISADA'));app.append(hero);
  const bar=E('div','lesson-meter'),track=E('div','meter-track'),fill=E('div','meter-fill');
  fill.style.width=((step+1)/7*100)+'%';track.append(fill);
  add(bar,E('div','meter-head','Etapa '+(step+1)+' de 7 · '+['Começar','Entender','Reconhecer','Observar','Fazer','Decidir','Praticar'][step]),track);

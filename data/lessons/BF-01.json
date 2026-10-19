@@ -165,5 +165,8 @@
   "archive": "../arquivo-tecnico/BF-01.html",
   "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
   "revised_by": null,
-  "revised_at": null
+  "revised_at": null,
+  "visual_coverage": true,
+  "visual_scene": "../assets/learning/BF-01/ilustracao-premium.svg",
+  "visual_map": "../assets/learning/BF-01/fluxo-premium.svg"
 }

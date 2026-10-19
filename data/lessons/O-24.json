@@ -14,99 +14,108 @@
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Reconhecer o tema desta página e identificar quais informações precisam ser confirmadas na fonte antes de qualquer atuação.",
-  "plain": "O manual apresenta o assunto “Mandado, Oficial de Justiça e Central de Mandados” na página 29. Esta lição ainda depende de revisão da fonte para explicar cada procedimento com segurança.",
+  "objective": "Entender como o manual apresenta “Mandado, Oficial de Justiça e Central de Mandados” e aprender a distinguir peças, sem executar providências sem autorização.",
+  "plain": "Esta ficha aborda documentação do processo. Observe o infográfico original e identifique os elementos relacionados a mandado, oficial de justiça e central de mandados. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
   "terms": [
     {
-      "term": "Tema da ficha",
-      "meaning": "É o assunto identificado no índice do manual.",
-      "example": "Consulte a imagem da página 29 para compreender os elementos apresentados."
+      "term": "Mandado, Oficial de Justiça e Central de Mandados",
+      "meaning": "Primeiro aspecto visual da página 29 relacionado ao assunto estudado.",
+      "example": "Identifique no infográfico onde aparece “Mandado, Oficial de Justiça e Central de Mandados” e observe o contexto."
     },
     {
-      "term": "Conferência documental",
-      "meaning": "Leitura da fonte e dos documentos relevantes antes de interpretar uma situação.",
-      "example": "Não conclua a situação a partir do título de um evento."
+      "term": "Peça/documento",
+      "meaning": "Segundo ponto apresentado no mapa de leitura.",
+      "example": "Compare “Peça/documento” com o tema central da aula."
     },
     {
-      "term": "Supervisão",
-      "meaning": "Acompanhamento das atividades por servidor habilitado.",
-      "example": "Em caso de dúvida, explique o que observou e pergunte ao responsável."
+      "term": "Conferência",
+      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
+      "example": "Localize “Conferência” na fonte e verifique seu significado."
+    },
+    {
+      "term": "Informação registrada",
+      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
+      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
     }
   ],
   "scene": {
-    "title": "Mapa de leitura provisório — Mandado, Oficial de Justiça e Central de Mandados",
+    "title": "Cena conceitual: Mandado, Oficial de Justiça e Central de Mandados",
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Tema principal",
-        "detail": "Identifique o título do infográfico."
+        "title": "Mandado, Oficial de Justiça e Central de Mandados",
+        "detail": "Na página 29, este bloco corresponde a um aspecto do assunto “Mandado, Oficial de Justiça e Central de Mandados”. Consulte a imagem de origem e identifique o significado no contexto."
       },
       {
-        "title": "Fonte original",
-        "detail": "Abra a página 29 do manual."
+        "title": "Peça/documento",
+        "detail": "Na página 29, este bloco corresponde a um aspecto do assunto “Mandado, Oficial de Justiça e Central de Mandados”. Consulte a imagem de origem e identifique o significado no contexto."
       },
       {
-        "title": "Palavras novas",
-        "detail": "Anote os termos cujo significado ainda precisa compreender."
+        "title": "Conferência",
+        "detail": "Na página 29, este bloco corresponde a um aspecto do assunto “Mandado, Oficial de Justiça e Central de Mandados”. Consulte a imagem de origem e identifique o significado no contexto."
       },
       {
-        "title": "Dúvidas",
-        "detail": "Marque trechos ilegíveis ou que dependam de decisão do servidor."
+        "title": "Informação registrada",
+        "detail": "Na página 29, este bloco corresponde a um aspecto do assunto “Mandado, Oficial de Justiça e Central de Mandados”. Consulte a imagem de origem e identifique o significado no contexto."
       }
     ]
   },
   "observe": [
     {
-      "title": "Leia o título do infográfico",
-      "detail": "Diga com suas palavras qual assunto está sendo apresentado."
+      "title": "Mandado, Oficial de Justiça e Central de Mandados",
+      "detail": "Localize este tópico na página 29 e diga, com suas palavras, que informação ele traz."
     },
     {
-      "title": "Encontre uma explicação visual",
-      "detail": "Procure exemplos, números e setas que precisem de conferência."
+      "title": "Peça/documento",
+      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
     },
     {
-      "title": "Não use como roteiro validado",
-      "detail": "Se a imagem não sustenta a ação, não invente instruções."
+      "title": "Conferência",
+      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+    },
+    {
+      "title": "Informação registrada",
+      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
     }
   ],
   "steps": [],
   "decision": {
-    "question": "Você encontrou um trecho que parece incompleto ou distorcido no texto transcrito. O que fazer?",
+    "question": "Você precisa explicar “Mandado, Oficial de Justiça e Central de Mandados”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
     "options": [
       {
-        "label": "Seguir o texto sem conferir.",
-        "feedback": "Não. Uma transcrição pode ter erro.",
-        "correct": false
-      },
-      {
-        "label": "Abrir a imagem original e consultar a supervisão quando necessário.",
-        "feedback": "Correto. Esta ficha está em revisão.",
+        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
+        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
         "correct": true
       },
       {
-        "label": "Criar a regra que parecer mais lógica.",
-        "feedback": "Não. Regras não podem ser inventadas.",
+        "label": "Tratar a transcrição provisória como norma vigente.",
+        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "correct": false
+      },
+      {
+        "label": "Afirmar que já está autorizado a praticar o ato.",
+        "feedback": "A autorização e os perfis dependem da unidade.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício de leitura da fonte, não de execução de atos: você encontra uma palavra ilegível em uma transcrição automática.",
-    "question": "Qual atitude preserva a fidelidade ao manual?",
+    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Mandado, Oficial de Justiça e Central de Mandados”, você encontra informação que não consegue confirmar apenas pela transcrição.",
+    "question": "Qual atitude demonstra uma leitura segura?",
     "options": [
       {
-        "label": "Conferir a página original antes de explicar ou aplicar.",
-        "feedback": "Correto. Uma transcrição incerta não é fonte suficiente.",
+        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
+        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
         "correct": true
       },
       {
-        "label": "Copiar e executar mesmo com dúvida.",
-        "feedback": "Incorreto: exige conferência.",
+        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
+        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
         "correct": false
       },
       {
-        "label": "Supor um botão do sistema que não aparece na fonte.",
-        "feedback": "Não invente controles ou fluxos.",
+        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
+        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
         "correct": false
       }
     ]
@@ -122,14 +131,19 @@
     }
   ],
   "mastery": [
-    "Consigo localizar a página original.",
-    "Identifico o que preciso perguntar ao servidor.",
-    "Não confundo transcrição provisória e instrução validada."
+    "Consigo identificar na fonte o assunto “Mandado, Oficial de Justiça e Central de Mandados”.",
+    "Sei explicar o primeiro aspecto: Mandado, Oficial de Justiça e Central de Mandados.",
+    "Sei quando consultar o infográfico original e pedir supervisão."
   ],
   "source_image": "../assets/thumbs/p029.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=29",
   "archive": "../arquivo-tecnico/O-24.html",
-  "status_note": "Prévia de estudo: explicação operacional desta ficha ainda não revisada.",
+  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
   "revised_by": null,
-  "revised_at": null
+  "revised_at": null,
+  "visual_coverage": true,
+  "visual_scene": "../assets/learning/O-24/ilustracao-premium.svg",
+  "visual_map": "../assets/learning/O-24/fluxo-premium.svg",
+  "source_highlights": [],
+  "source_highlight_status": "requer_conferencia_visual"
 }

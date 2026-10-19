@@ -7,30 +7,35 @@
   "page": 6,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Reconhecer o tema desta página e identificar quais informações precisam ser confirmadas na fonte antes de qualquer atuação.",
-  "plain": "O manual apresenta o assunto “Árvore do Processo - visão geral” na página 6. Esta lição ainda depende de revisão da fonte para explicar cada procedimento com segurança.",
+  "objective": "Entender para que serve a árvore do processo antes de procurar uma providência.",
+  "plain": "A árvore reúne a história dos autos. O infográfico mostra origem, atos, comunicações e o próximo encaminhamento — sem autorizar que o estagiário tome decisões.",
   "terms": [
     {
-      "term": "Tema da ficha",
-      "meaning": "É o assunto identificado no índice do manual.",
-      "example": "Consulte a imagem da página 6 para compreender os elementos apresentados."
+      "term": "Origem",
+      "meaning": "Conjunto das informações iniciais que ajudam a identificar a demanda.",
+      "example": "Partes, pedido e documentos iniciais."
     },
     {
-      "term": "Conferência documental",
-      "meaning": "Leitura da fonte e dos documentos relevantes antes de interpretar uma situação.",
-      "example": "Não conclua a situação a partir do título de um evento."
+      "term": "Atos relevantes",
+      "meaning": "Despachos, decisões e registros que influenciam o andamento.",
+      "example": "Uma nova decisão pode mudar a providência em estudo."
     },
     {
-      "term": "Supervisão",
-      "meaning": "Acompanhamento das atividades por servidor habilitado.",
-      "example": "Em caso de dúvida, explique o que observou e pergunte ao responsável."
+      "term": "Cumprimento",
+      "meaning": "Conferência entre a ordem e o que consta nos autos.",
+      "example": "Juntada não garante cumprimento integral."
+    },
+    {
+      "term": "Próxima providência",
+      "meaning": "Encaminhamento que depende da situação documentada.",
+      "example": "Na dúvida, comunique a supervisão."
     }
   ],
   "scene": {
@@ -57,79 +62,108 @@
   },
   "observe": [
     {
-      "title": "Leia o título do infográfico",
-      "detail": "Diga com suas palavras qual assunto está sendo apresentado."
+      "title": "História",
+      "detail": "O que aconteceu desde a origem?"
     },
     {
-      "title": "Encontre uma explicação visual",
-      "detail": "Procure exemplos, números e setas que precisem de conferência."
+      "title": "Último ato",
+      "detail": "Que documento determina ou registra a situação recente?"
     },
     {
-      "title": "Não use como roteiro validado",
-      "detail": "Se a imagem não sustenta a ação, não invente instruções."
+      "title": "Prazos",
+      "detail": "Existe registro de comunicação e de prazo a conferir?"
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Localizar os autos",
+      "instruction": "Identifique o processo e a informação de origem.",
+      "why": "Evita analisar o caso errado."
+    },
+    {
+      "title": "Ler a sequência",
+      "instruction": "Comece pelos eventos que explicam o estado atual.",
+      "why": "Dá contexto à última movimentação."
+    },
+    {
+      "title": "Abrir peças relevantes",
+      "instruction": "Leia despacho, decisão, certidão ou resposta indicada.",
+      "why": "Títulos de eventos são insuficientes."
+    },
+    {
+      "title": "Apontar pendências",
+      "instruction": "Informe o que falta ou merece análise do servidor.",
+      "why": "Mantém a conferência dentro da atuação supervisionada."
+    }
+  ],
   "decision": {
-    "question": "Você encontrou um trecho que parece incompleto ou distorcido no texto transcrito. O que fazer?",
+    "question": "A última movimentação informa “juntada”, mas você não leu o arquivo. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Seguir o texto sem conferir.",
-        "feedback": "Não. Uma transcrição pode ter erro.",
-        "correct": false
-      },
-      {
-        "label": "Abrir a imagem original e consultar a supervisão quando necessário.",
-        "feedback": "Correto. Esta ficha está em revisão.",
+        "label": "Ler o documento associado e relacioná-lo aos autos.",
+        "feedback": "Adequado: confira a peça e a fonte; respeite as atribuições do responsável.",
         "correct": true
       },
       {
-        "label": "Criar a regra que parecer mais lógica.",
-        "feedback": "Não. Regras não podem ser inventadas.",
+        "label": "Concluir que o cumprimento está completo só pelo evento.",
+        "feedback": "Essa conclusão não é suficiente ou ultrapassa a atuação supervisionada.",
+        "correct": false
+      },
+      {
+        "label": "Encaminhar uma decisão judicial por conta própria.",
+        "feedback": "Não se deve decidir ou atuar sem verificar a fonte e a competência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício de leitura da fonte, não de execução de atos: você encontra uma palavra ilegível em uma transcrição automática.",
-    "question": "Qual atitude preserva a fidelidade ao manual?",
+    "scenario": "Exemplo fictício: um processo reúne petição inicial, despacho, comunicação e manifestação posterior.",
+    "question": "Como descobrir o que deve ser conferido primeiro?",
     "options": [
       {
-        "label": "Conferir a página original antes de explicar ou aplicar.",
-        "feedback": "Correto. Uma transcrição incerta não é fonte suficiente.",
+        "label": "Ler os documentos relacionados à determinação e verificar o histórico.",
+        "feedback": "Adequado para uma conferência inicial.",
         "correct": true
       },
       {
-        "label": "Copiar e executar mesmo com dúvida.",
-        "feedback": "Incorreto: exige conferência.",
+        "label": "Considerar apenas a data da última juntada.",
+        "feedback": "Isso não comprova o fato ou não respeita a supervisão.",
         "correct": false
       },
       {
-        "label": "Supor um botão do sistema que não aparece na fonte.",
-        "feedback": "Não invente controles ou fluxos.",
+        "label": "Ignorar a origem do processo.",
+        "feedback": "Revise a fonte e os limites de atuação.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Presumir efeitos jurídicos",
+      "correct": "Conferir os documentos e não antecipar decisão."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Interpretar rótulo sem a peça",
+      "correct": "Ler o conteúdo relacionado ao registro."
+    },
+    {
+      "mistake": "Atuar sem autorização",
+      "correct": "Solicitar orientação do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo localizar a página original.",
-    "Identifico o que preciso perguntar ao servidor.",
-    "Não confundo transcrição provisória e instrução validada."
+    "Consigo localizar as informações essenciais da fonte.",
+    "Sei explicar por que a conferência é importante.",
+    "Reconheço o momento de pedir supervisão."
   ],
   "source_image": "../assets/thumbs/p006.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=6",
   "archive": "../arquivo-tecnico/O-01.html",
-  "status_note": "Prévia de estudo: explicação operacional desta ficha ainda não revisada.",
+  "status_note": "Lição didática escrita a partir do infográfico original; revisão técnica e teste com estagiários pendentes.",
   "revised_by": null,
-  "revised_at": null
+  "revised_at": null,
+  "visual_coverage": true,
+  "visual_scene": "../assets/learning/O-01/ilustracao-premium.svg",
+  "visual_map": "../assets/learning/O-01/fluxo-premium.svg",
+  "authored_batch": "study_batch_02"
 }

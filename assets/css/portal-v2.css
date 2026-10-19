@@ -41,3 +41,10 @@
 .lesson-card-visual img{display:block;width:100%;height:100%;object-fit:cover}
 @media(max-width:790px){.v2-gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:440px){.v2-gallery-grid{grid-template-columns:1fr}.v2-art-card img{aspect-ratio:12/6.6}.v2-gallery-head{align-items:flex-start}.v2-gallery-head h2{font-size:21px}.v2-gallery-head>a{font-size:10px}}
+
+/* Ilustrações individuais no catálogo — 96 cartões com referência visual */
+.item-visual-link{display:block;flex:none;width:100px;height:64px;overflow:hidden;border-radius:9px;border:1px solid #CFDFE9;background:#153B57}
+.item-visual{display:block;width:100%;height:100%;object-fit:cover}
+.item-row:hover .item-visual-link{border-color:#489CCD}
+@media(max-width:700px){.item-visual-link{width:75px;height:55px}.item-row{gap:8px}}
+@media(max-width:390px){.item-visual-link{width:62px;height:52px}.item-name a{font-size:12px}}

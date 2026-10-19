@@ -42,6 +42,6 @@ for file in files:
   if uri.scheme or uri.netloc or not uri.path or href.startswith('#'):continue
   path=(file.parent/unquote(uri.path)).resolve()
   if not path.exists():errors.append(str(file.name)+' broken '+href)
-assert len(pilots)==6,(len(pilots),pilots)
-print(json.dumps({'lessons':len(idx),'pilot_codes':pilots,'draft_previews':90,'approved':0,'errors':errors[:20],'error_count':len(errors)},ensure_ascii=False))
+assert len(pilots)==14,(len(pilots),pilots)
+print(json.dumps({'lessons':len(idx),'pilot_codes':pilots,'draft_previews':82,'approved':0,'errors':errors[:20],'error_count':len(errors)},ensure_ascii=False))
 if errors:raise SystemExit(1)
