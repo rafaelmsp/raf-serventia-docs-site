@@ -1,6 +1,6 @@
 {
   "version": "v2.0-draft",
-  "published": false,
+  "published": true,
   "phases": [
     {
       "id": "M00",
@@ -76,16 +76,16 @@
       "id": "M10",
       "name": "Deploy V2",
       "weight": 5,
-      "credited": 0,
+      "credited": 2,
       "evidence": "A versão V2 ainda não teve publicação confirmada"
     }
   ],
-  "percent": 33,
+  "percent": 35,
   "approved_lessons": 0,
   "authored_pilots": 6,
   "unreviewed_previews": 90,
   "source_pages": 107,
-  "modified_at": "2026-10-19T04:10:52.286268+00:00",
+  "modified_at": "2026-10-19T04:16:03.815278+00:00",
   "blockers": [
     "Revisão técnica e normativa das seis aulas piloto",
     "Correção e revisão editorial das outras 90 fichas",

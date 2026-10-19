@@ -1,6 +1,6 @@
 # RAF Serventia Docs — Progresso Pedagógico V2
 
-**Percentual técnico evidenciado:** 33%
+**Percentual técnico evidenciado:** 35%
 
 **Lições pedagógicas homologadas:** 0/96. **Pilotos autorais em revisão:** 6. **Prévias pendentes:** 90.
 
@@ -16,7 +16,7 @@
 | M07 · Balcão físico (12) | 0 | 5 |
 | M08 · Balcão virtual (14) | 0 | 5 |
 | M09 · Usabilidade e acessibilidade | 2 | 7 |
-| M10 · Deploy V2 | 0 | 5 |
+| M10 · Deploy V2 | 2 | 5 |
 
 ## Evidências
 
@@ -25,7 +25,7 @@
 - 6 roteiros pilotos com objetivos, termos, cenas, decisões, exercícios e feedback.
 - Testes navegador: 36/36 casos com seis pilotos em seis larguras.
 - Rotas HTML: 96/96 verificadas em Android virtual de 390px.
-- Publicação V2 confirmada: não.
+- Publicação V2 confirmada: sim.
 
 ## Bloqueios
 

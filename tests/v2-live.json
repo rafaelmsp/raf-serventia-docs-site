@@ -1,0 +1,34 @@
+[
+  {
+    "width": 390,
+    "code": "O-03",
+    "http": 200,
+    "hotspots": true,
+    "svgLoaded": true,
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "code": "BF-01",
+    "http": 200,
+    "hotspots": true,
+    "svgLoaded": true,
+    "overflow": false
+  },
+  {
+    "width": 1366,
+    "code": "O-03",
+    "http": 200,
+    "hotspots": true,
+    "svgLoaded": true,
+    "overflow": false
+  },
+  {
+    "width": 1366,
+    "code": "BF-01",
+    "http": 200,
+    "hotspots": true,
+    "svgLoaded": true,
+    "overflow": false
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "head_sha": "8720b7269f4f3d279b611b64b861b6f1726ad739",
+  "workflow_id": 39198428512,
+  "online_html": 200,
+  "online_data": 200,
+  "tested_pages": [
+    "index.html",
+    "aprender.html",
+    "introducao.html",
+    "andamento-pedagogico.html",
+    "itens/O-03.html",
+    "itens/O-08.html",
+    "itens/P-01.html",
+    "itens/R-01.html",
+    "itens/BF-01.html",
+    "itens/BV-01.html",
+    "data/lessons/O-03.json",
+    "assets/learning/O-03/simulacao.svg",
+    "arquivo-tecnico/O-03.html",
+    "docs/manual-fonte.pdf"
+  ],
+  "live_browser": {
+    "devices": [
+      "390px",
+      "1366px"
+    ],
+    "pilots_tested": [
+      "O-03",
+      "BF-01"
+    ],
+    "cases_passed": 4,
+    "javascript_errors": 0,
+    "overflow": false
+  },
+  "notes": "Publicação técnica beta, não homologação editorial nem teste com estudantes reais."
+}
