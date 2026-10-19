@@ -1,0 +1,29 @@
+{
+  "commit": "45220c6ca5e06d94fdc11e7f321c560599e15d54",
+  "workflow_run": 39193946732,
+  "status": "success",
+  "pages_url": "https://rafaelmsp.github.io/raf-serventia-docs-site/",
+  "checked_online_http_200": [
+    "",
+    "itens/O-03.html",
+    "itens/O-08.html",
+    "itens/BF-01.html",
+    "itens/BV-01.html",
+    "itens/P-01.html",
+    "itens/R-01.html",
+    "assets/illustrations/O-03.svg",
+    "assets/flows/O-03.svg",
+    "data/procedures/O-03.json",
+    "assets/js/ficha-premium.js",
+    "assets/css/ux-premium.css",
+    "docs/manual-fonte.pdf"
+  ],
+  "headless_live_smoke": {
+    "code": "O-03",
+    "http": 200,
+    "tabs": 5,
+    "js_errors": 0,
+    "notes": "Seleção de nós e checklists confirmada em testes locais; teste online detalhado ainda não concluído"
+  },
+  "editorial_homologation": false
+}

@@ -37,3 +37,7 @@ Data: 19/10/2026 (execuÃ§Ã£o inicial).
 ## Encerramento
 
 Este documento registra implantaÃ§Ã£o de componentes e resultados de automaÃ§Ã£o. NÃ£o atesta exatidÃ£o jurÃ­dica integral. O progresso formal consta em data/progress.json e docs/progresso-execucao.md.
+
+## Atualização posterior ao deploy
+A rodada longa original foi interrompida após 19 casos por timeout de comunicação do navegador. Uma suíte otimizada posterior (tests/qa-premium-fast.cjs) concluiu 42/42 casos sem erros; os 96 endereços individuais passaram no teste independente Android. GitHub Actions do commit 45220c6 concluído; 13 recursos públicos verificados via HTTP 200. A verificação online por Chromium carregou O-03 com 5 abas e sem erros de JavaScript. A interação detalhada com dados carregados online permanece pendente de teste ampliado.
+

@@ -3,10 +3,14 @@ import json,math,datetime
 r=Path(__file__).resolve().parent.parent
 items=json.loads((r/'dados/procedimentos.json').read_text(encoding='utf-8'))
 audit=json.loads((r/'data/editorial-audit.json').read_text(encoding='utf-8'))
-test=r/'tests/qa-premium.json'
+test=(r/'tests/qa-premium-fast.json') if (r/'tests/qa-premium-fast.json').exists() else (r/'tests/qa-premium.json')
 qa=json.loads(test.read_text(encoding='utf-8')) if test.exists() else {}
 pilots={x['code'] for x in audit if x['source_checked_pilot']}
-tested={'O-03','O-08','BF-01','BV-01','P-01','R-01'} if qa.get('passed')==42 and not qa.get('errors') else set()
+batch_all=json.loads((r/'tests/qa-all-96.json').read_text(encoding='utf-8')) if (r/'tests/qa-all-96.json').exists() else {}
+all_ok=batch_all.get('tested')==96 and not batch_all.get('errors') and not batch_all.get('failures')
+tested={x['codigo'] for x in items} if all_ok else ({'O-03','O-08','BF-01','BV-01','P-01','R-01'} if qa.get('passed')==42 and not qa.get('errors') else set())
+proof=json.loads((r/'data/deploy-confirmation.json').read_text(encoding='utf-8')) if (r/'data/deploy-confirmation.json').exists() else {}
+deployed=proof.get('status')=='success' and len(proof.get('checked_online_http_200',[]))>=10
 weights={'F00':8,'F01':10,'F02':9,'F03':8,'F04':20,'F05':9,'F06':5,'F07':7,'F08':8,'F09':6,'F10':7,'F11':3}
 assert sum(weights.values())==100
 phases={
@@ -15,8 +19,8 @@ phases={
 'F02':(2,9,'Mapeamento de páginas e status; correção integral do OCR pendente'),
 'F03':(5,6,'96 SVG ilustrados, 96 mapas, temas por seção, manifesto e fallback; revisão humana pendente'),
 'F09':(5,6,'Integração com busca, histórico, links, PDF e checklist; performance pendente'),
-'F10':(3 if tested else 2,8,'Testes em 7 larguras e seis itens; ainda falta inspeção individual'),
-'F11':(0,3,'Publicação da versão premium ainda não concluída')}
+'F10':(4 if all_ok else (3 if tested else 2),8,'42 testes responsivos e 96/96 rotas verificadas; revisão editorial ainda pendente'),
+'F11':(3 if deployed else 0,3,'GitHub Actions concluído e URLs da versão premium respondendo HTTP 200' if deployed else 'Publicação da versão premium ainda não concluída')}
 group={'F04':'O','F05':'P','F06':'R','F07':'BF','F08':'BV'}
 for phase,section in group.items():
  entries=[x for x in items if x['categoria']==section]
@@ -40,7 +44,7 @@ metrics={'fichas_html':len(list((r/'itens').glob('*.html'))),
 'paginas_fonte_html':len(list((r/'fonte-html').glob('p???.html'))),
 'fichas_editorialmente_aprovadas':sum(1 for x in audit if x['editorial_approved']),
 'pilotos_parcialmente_conferidos':len(pilots),
-'testes_navegador_aprovados':qa.get('passed',0)}
+'testes_navegador_aprovados':qa.get('passed',0),'rotas_verificadas_android':96 if all_ok else 0,'deploy_premium_confirmado':bool(deployed)}
 payload={'updated_at_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),
 'version':'v0.2.0-draft','global_percent':percent,'global_raw':score,'bar':progress(percent),
 'phases':{f:{'done':p[0],'total':p[1],'weight':weights[f],
@@ -63,7 +67,7 @@ lines+=['','## Próximas prioridades','',
 '- Revisão humana da coerência de todas as 65 fichas dependentes de OCR.',
 '- Auditoria editorial individual das 96 fichas antes de qualquer classificação como validada.',
 '- Testes completos de acessibilidade e em dispositivo físico.',
-'- Publicação no Pages e conferência das URLs reais.',
+'- Inspeção online ampliada de acessibilidade e interação dos procedimentos.',
 '','## Retomada técnica','',
 'Gerador: python scripts/build_illustrated.py',
 'Validador: python tests/validate-premium.py',

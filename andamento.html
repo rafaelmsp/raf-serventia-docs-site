@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Andamento — RAF Serventia Docs</title>
+<meta name="description" content="Acompanhamento percentual verificável do desenvolvimento do manual ilustrado RAF Serventia Docs.">
+<link rel="stylesheet" href="assets/css/documentacao.css">
+<style>
+body{background:#f2f7fb;color:#203849}.progress-shell{max-width:1000px;padding:30px 20px 70px;margin:auto}
+.status-hero{background:linear-gradient(120deg,#0c2741,#194d76);padding:32px;border-radius:18px;color:#fff}
+.status-hero h1{font-size:clamp(26px,4vw,42px);margin:13px 0}
+.status-hero p{color:#c5d9e8;max-width:720px}
+.status-num{font-size:35px;font-weight:900;margin-top:20px}
+.track{width:100%;height:13px;border-radius:999px;background:#d8e7f3;overflow:hidden;position:relative}
+.track>span{background:#1476b6;display:block;width:0;height:100%;border-radius:999px;transition:width .25s}
+.status-hero .track{background:#ffffff28}
+.status-hero .track>span{background:#79c9fb}
+.notice.progress-note{margin:17px 0}
+.phase-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;margin-top:25px}
+.phase{border:1px solid #d9e8f2;background:#fff;border-radius:12px;padding:17px}
+.phase-head{display:flex;justify-content:space-between;gap:14px;font-weight:800;font-size:13px;margin:0 0 10px}
+.phase p{font-size:11px;color:#5f788d;margin:10px 0 0}
+.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:20px}
+.metric{padding:15px;background:white;border:1px solid #d9e8f2;border-radius:12px}
+.metric strong{font-size:24px;display:block;color:#1e5a83}.metric span{font-size:11px;color:#708398}
+.back-link{display:inline-flex;min-height:44px;align-items:center;color:#1a71a7;font-weight:800;margin-top:20px}
+@media(max-width:640px){.phase-list{grid-template-columns:1fr}.metrics{grid-template-columns:repeat(2,1fr)}.status-hero{padding:25px 20px}}
+@media(prefers-reduced-motion:reduce){.track>span{transition:none}}
+</style><script src="assets/js/andamento.js" defer></script>
+</head><body>
+<header class="head"><a class="logo" href="index.html">◆ RAF <strong>Serventia Docs</strong></a><div class="head-actions"><a href="index.html">← Catálogo</a></div></header>
+<main class="progress-shell">
+<section class="status-hero"><p class="overline" style="color:#90d5fd">ACOMPANHAMENTO TÉCNICO · VERSÃO ILUSTRADA</p><h1>Estado real do projeto</h1><p>O avanço é calculado por evidências de implementação, revisão e testes. Imagens geradas não equivalem a procedimentos juridicamente validados.</p>
+<div class="status-num" id="global">Carregando…</div><div class="track" aria-label="Progresso global"><span id="global-bar"></span></div>
+</section>
+<div class="notice progress-note"><strong>Material não oficial e não homologado.</strong> Os textos reconhecidos por OCR e os fluxos didáticos dependem de conferência editorial antes de serem tratados como instruções confiáveis.</div>
+<section aria-labelledby="ind"><h2 id="ind">Indicadores verificados</h2><div class="metrics" id="metrics"></div></section>
+<section aria-labelledby="fases"><h2 id="fases" style="margin-top:30px">Etapas do Prompt Mestre</h2><div id="phase-list" class="phase-list"></div></section>
+<a class="back-link" href="docs/progresso-execucao.md">Ler registro de execução em Markdown ↗</a>
+</main><footer>RAF Serventia Docs · Rafael MS Passos · Progresso técnico, não homologação institucional.</footer>
+</body></html>

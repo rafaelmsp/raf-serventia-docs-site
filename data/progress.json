@@ -1,9 +1,9 @@
 {
-  "updated_at_utc": "2026-10-19T03:12:44.711227+00:00",
+  "updated_at_utc": "2026-10-19T03:26:05.067136+00:00",
   "version": "v0.2.0-draft",
-  "global_percent": 48.0,
-  "global_raw": 48.04642219387755,
-  "bar": "█████████░░░░░░░░░░░",
+  "global_percent": 53.5,
+  "global_raw": 53.51274659863945,
+  "bar": "██████████░░░░░░░░░░",
   "phases": {
     "F00": {
       "done": 5,
@@ -41,52 +41,52 @@
       "notes": "Integração com busca, histórico, links, PDF e checklist; performance pendente"
     },
     "F10": {
-      "done": 3,
+      "done": 4,
       "total": 8,
       "weight": 7,
-      "phase_percent": 37.5,
-      "notes": "Testes em 7 larguras e seis itens; ainda falta inspeção individual"
+      "phase_percent": 50.0,
+      "notes": "42 testes responsivos e 96/96 rotas verificadas; revisão editorial ainda pendente"
     },
     "F11": {
-      "done": 0,
+      "done": 3,
       "total": 3,
       "weight": 3,
-      "phase_percent": 0.0,
-      "notes": "Publicação da versão premium ainda não concluída"
+      "phase_percent": 100.0,
+      "notes": "GitHub Actions concluído e URLs da versão premium respondendo HTTP 200"
     },
     "F04": {
-      "done": 17.345,
+      "done": 18.99,
       "total": 49,
       "weight": 20,
-      "phase_percent": 35.4,
+      "phase_percent": 38.8,
       "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
     },
     "F05": {
-      "done": 5.635,
+      "done": 6.16,
       "total": 16,
       "weight": 9,
-      "phase_percent": 35.2,
+      "phase_percent": 38.5,
       "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
     },
     "F06": {
-      "done": 1.785,
+      "done": 1.925,
       "total": 5,
       "weight": 5,
-      "phase_percent": 35.7,
+      "phase_percent": 38.5,
       "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
     },
     "F07": {
-      "done": 4.36,
+      "done": 4.745,
       "total": 12,
       "weight": 7,
-      "phase_percent": 36.3,
+      "phase_percent": 39.5,
       "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
     },
     "F08": {
-      "done": 5.06,
+      "done": 5.515,
       "total": 14,
       "weight": 8,
-      "phase_percent": 36.1,
+      "phase_percent": 39.4,
       "notes": "Ilustrações e fluxos gerados; revisão editorial individual pendente"
     }
   },
@@ -97,7 +97,9 @@
     "paginas_fonte_html": 107,
     "fichas_editorialmente_aprovadas": 0,
     "pilotos_parcialmente_conferidos": 3,
-    "testes_navegador_aprovados": 42
+    "testes_navegador_aprovados": 42,
+    "rotas_verificadas_android": 96,
+    "deploy_premium_confirmado": true
   },
   "limitations": [
     "Fonte não oficial e ainda não homologada",

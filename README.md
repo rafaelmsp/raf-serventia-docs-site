@@ -56,3 +56,7 @@ Depois acesse http://127.0.0.1:8765/.
 Para reconstituir as fichas ilustradas: python scripts/build_illustrated.py
 
 Consulte docs/progresso-execucao.md para o estado real e as pendÃªncias. NÃ£o declarar 100% atÃ© haver revisÃ£o e aceitaÃ§Ã£o tÃ©cnica completa.
+
+## Andamento
+Acompanhe os percentuais e as evidências em https://rafaelmsp.github.io/raf-serventia-docs-site/andamento.html . A pontuação global não representa aprovação editorial.
+

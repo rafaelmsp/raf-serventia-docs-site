@@ -1,0 +1,6 @@
+{
+  "passed": 42,
+  "expected": 42,
+  "errors": [],
+  "method": "Chromium DOM interaction and real asset loading"
+}
