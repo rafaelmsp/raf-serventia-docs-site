@@ -7,35 +7,35 @@
   "page": 17,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Acordo, desistência e conclusão” e aprender a ler determinações, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atos judiciais e encaminhamentos. Observe o infográfico original e identifique os elementos relacionados a acordo, desistência e conclusão. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Acordo, desistência e conclusão”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda acordo, desistência e conclusão e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Acordo, desistência e conclusão",
-      "meaning": "Primeiro aspecto visual da página 17 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Acordo, desistência e conclusão” e observe o contexto."
+      "term": "Identifique o pedido",
+      "meaning": "Diferencie acordo, desistência e pedido que exige decisão judicial.",
+      "example": "Observe esse ponto no infográfico da página 17, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Pedido",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Pedido” com o tema central da aula."
+      "term": "Verifique quem se manifestou",
+      "meaning": "Consulte signatários, representação e abrangência do pedido.",
+      "example": "Observe esse ponto no infográfico da página 17, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Autos",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Autos” na fonte e verifique seu significado."
+      "term": "Leia a situação da audiência",
+      "meaning": "Observe atos anteriores e eventual reflexo no prosseguimento.",
+      "example": "Observe esse ponto no infográfico da página 17, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Ato judicial",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Submeta à análise competente",
+      "meaning": "Homologação, extinção e consequências não são decisões do estagiário.",
+      "example": "Observe esse ponto no infográfico da página 17, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Acordo, desistência e conclusão",
-        "detail": "Na página 17, este bloco corresponde a um aspecto do assunto “Acordo, desistência e conclusão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identifique o pedido",
+        "detail": "Diferencie acordo, desistência e pedido que exige decisão judicial."
       },
       {
-        "title": "Pedido",
-        "detail": "Na página 17, este bloco corresponde a um aspecto do assunto “Acordo, desistência e conclusão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Verifique quem se manifestou",
+        "detail": "Consulte signatários, representação e abrangência do pedido."
       },
       {
-        "title": "Autos",
-        "detail": "Na página 17, este bloco corresponde a um aspecto do assunto “Acordo, desistência e conclusão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia a situação da audiência",
+        "detail": "Observe atos anteriores e eventual reflexo no prosseguimento."
       },
       {
-        "title": "Ato judicial",
-        "detail": "Na página 17, este bloco corresponde a um aspecto do assunto “Acordo, desistência e conclusão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Submeta à análise competente",
+        "detail": "Homologação, extinção e consequências não são decisões do estagiário."
       }
     ]
   },
   "observe": [
     {
-      "title": "Acordo, desistência e conclusão",
-      "detail": "Localize este tópico na página 17 e diga, com suas palavras, que informação ele traz."
+      "title": "Identifique o pedido",
+      "detail": "Diferencie acordo, desistência e pedido que exige decisão judicial."
     },
     {
-      "title": "Pedido",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Verifique quem se manifestou",
+      "detail": "Consulte signatários, representação e abrangência do pedido."
     },
     {
-      "title": "Autos",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Leia a situação da audiência",
+      "detail": "Observe atos anteriores e eventual reflexo no prosseguimento."
     },
     {
-      "title": "Ato judicial",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Submeta à análise competente",
+      "detail": "Homologação, extinção e consequências não são decisões do estagiário."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identifique o pedido",
+      "instruction": "Diferencie acordo, desistência e pedido que exige decisão judicial.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Verifique quem se manifestou",
+      "instruction": "Consulte signatários, representação e abrangência do pedido.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Leia a situação da audiência",
+      "instruction": "Observe atos anteriores e eventual reflexo no prosseguimento.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Submeta à análise competente",
+      "instruction": "Homologação, extinção e consequências não são decisões do estagiário.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Acordo, desistência e conclusão”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Acordo, desistência e conclusão”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Identifique o pedido e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Acordo, desistência e conclusão”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Acordo, desistência e conclusão” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, verifique quem se manifestou, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Acordo ou desistência juntados não significam encerramento automático do processo."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Acordo, desistência e conclusão”.",
-    "Sei explicar o primeiro aspecto: Acordo, desistência e conclusão.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Acordo, desistência e conclusão”.",
+    "Sei o que conferir em “Identifique o pedido”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p017.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=17",
   "archive": "../arquivo-tecnico/O-12.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-12/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-12/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Identifique o pedido: Diferencie acordo, desistência e pedido que exige decisão judicial.",
+    "Verifique quem se manifestou: Consulte signatários, representação e abrangência do pedido.",
+    "Leia a situação da audiência: Observe atos anteriores e eventual reflexo no prosseguimento."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

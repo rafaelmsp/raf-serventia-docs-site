@@ -9,7 +9,7 @@ O projeto tem duas experiências complementares:
 
 ## Estado da V2
 
-Há 96 arquivos de lição, 96 ilustrações premium novas e 96 mapas SVG próprios por código. Quatorze roteiros foram escritos especificamente para as respectivas páginas, incluindo seis pilotos: O-03 (Árvore do Processo), BF-01 (Recepção e Identificação), O-08 (PAC), P-01 (Pauta), R-01 (Indicadores) e BV-01 (Balcão Virtual). As outras 82 fichas são prévias de estudo; nenhuma apresenta instruções operacionais validadas sem conferência da fonte.
+Há 96 arquivos de lição, 96 ilustrações premium novas e 96 mapas SVG próprios por código. Os 96 roteiros foram escritos para as respectivas fichas como rascunhos de aprendizagem, dos quais 53 dependem de interpretação de OCR. Todas as 96 fichas têm roteiro de estudo e arte própria, ainda aguardando revisão humana; nenhuma apresenta instruções operacionais validadas sem conferência da fonte.
 
 **0 de 96 aulas possuem homologação editorial, técnica ou institucional.** O progresso percentual registrado mede implementação, não competência de estagiários. O material é didático, não oficial, contém exemplos fictícios e não executa atos no PJe.
 

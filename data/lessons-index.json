@@ -2,7 +2,7 @@
   "version": "v2.0-draft",
   "count": 96,
   "pilots_authored": 6,
-  "needs_source_review": 82,
+  "needs_source_review": 0,
   "approved": 0,
   "reviewed_with_students": 0,
   "first_learning_path": [
@@ -20,9 +20,10 @@
     "BF": 12,
     "BV": 14
   },
-  "notes": "192 imagens SVG premium em 96 páginas; 14 roteiros autorais em revisão; 82 leituras provisórias, não homologadas.",
-  "authored_lessons": 14,
-  "preview_count": 82,
+  "notes": "96 roteiros ilustrados escritos como rascunhos didáticos; 53 dependem de interpretação de fonte OCR e 43 receberam roteiro escrito a partir de texto nativo ou dos seis pilotos. Zero homologação.",
+  "authored_lessons": 96,
+  "preview_count": 0,
   "full_visual_coverage": 96,
-  "premium_diagrams": 96
+  "premium_diagrams": 96,
+  "content_status": "all_authored_drafts_source_review_pending"
 }

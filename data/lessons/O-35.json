@@ -7,35 +7,35 @@
   "page": 40,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Retorno e cumprimento da Carta Precatória” e aprender a distinguir peças, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda documentação do processo. Observe o infográfico original e identifique os elementos relacionados a retorno e cumprimento da carta precatória. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Retorno e cumprimento da Carta Precatória”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda retorno e cumprimento da carta precatória e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Retorno e cumprimento da Carta Precatória",
-      "meaning": "Primeiro aspecto visual da página 40 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Retorno e cumprimento da Carta Precatória” e observe o contexto."
+      "term": "Localize o retorno",
+      "meaning": "Encontre nos autos a carta ou a certidão devolvida.",
+      "example": "Observe esse ponto no infográfico da página 40, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Peça/documento",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Peça/documento” com o tema central da aula."
+      "term": "Classifique o resultado",
+      "meaning": "Diligência cumprida, frustrada ou parcialmente realizada exigem leituras distintas.",
+      "example": "Observe esse ponto no infográfico da página 40, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Conferência",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Conferência” na fonte e verifique seu significado."
+      "term": "Leia os documentos",
+      "meaning": "Consulte certidão do juízo destinatário e peças anexas.",
+      "example": "Observe esse ponto no infográfico da página 40, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Informação registrada",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Relate pendências",
+      "meaning": "Nova diligência ou outra providência depende de determinação e supervisão.",
+      "example": "Observe esse ponto no infográfico da página 40, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Retorno e cumprimento da Carta Precatória",
-        "detail": "Na página 40, este bloco corresponde a um aspecto do assunto “Retorno e cumprimento da Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Localize o retorno",
+        "detail": "Encontre nos autos a carta ou a certidão devolvida."
       },
       {
-        "title": "Peça/documento",
-        "detail": "Na página 40, este bloco corresponde a um aspecto do assunto “Retorno e cumprimento da Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Classifique o resultado",
+        "detail": "Diligência cumprida, frustrada ou parcialmente realizada exigem leituras distintas."
       },
       {
-        "title": "Conferência",
-        "detail": "Na página 40, este bloco corresponde a um aspecto do assunto “Retorno e cumprimento da Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia os documentos",
+        "detail": "Consulte certidão do juízo destinatário e peças anexas."
       },
       {
-        "title": "Informação registrada",
-        "detail": "Na página 40, este bloco corresponde a um aspecto do assunto “Retorno e cumprimento da Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Relate pendências",
+        "detail": "Nova diligência ou outra providência depende de determinação e supervisão."
       }
     ]
   },
   "observe": [
     {
-      "title": "Retorno e cumprimento da Carta Precatória",
-      "detail": "Localize este tópico na página 40 e diga, com suas palavras, que informação ele traz."
+      "title": "Localize o retorno",
+      "detail": "Encontre nos autos a carta ou a certidão devolvida."
     },
     {
-      "title": "Peça/documento",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Classifique o resultado",
+      "detail": "Diligência cumprida, frustrada ou parcialmente realizada exigem leituras distintas."
     },
     {
-      "title": "Conferência",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Leia os documentos",
+      "detail": "Consulte certidão do juízo destinatário e peças anexas."
     },
     {
-      "title": "Informação registrada",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Relate pendências",
+      "detail": "Nova diligência ou outra providência depende de determinação e supervisão."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Localize o retorno",
+      "instruction": "Encontre nos autos a carta ou a certidão devolvida.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Classifique o resultado",
+      "instruction": "Diligência cumprida, frustrada ou parcialmente realizada exigem leituras distintas.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Leia os documentos",
+      "instruction": "Consulte certidão do juízo destinatário e peças anexas.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Relate pendências",
+      "instruction": "Nova diligência ou outra providência depende de determinação e supervisão.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Retorno e cumprimento da Carta Precatória”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Retorno e cumprimento da Carta Precatória”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Localize o retorno e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Retorno e cumprimento da Carta Precatória”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Retorno e cumprimento da Carta Precatória” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, classifique o resultado, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Devolução da carta não prova automaticamente que o ato foi cumprido."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Retorno e cumprimento da Carta Precatória”.",
-    "Sei explicar o primeiro aspecto: Retorno e cumprimento da Carta Precatória.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Retorno e cumprimento da Carta Precatória”.",
+    "Sei o que conferir em “Localize o retorno”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p040.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=40",
   "archive": "../arquivo-tecnico/O-35.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-35/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-35/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Localize o retorno: Encontre nos autos a carta ou a certidão devolvida.",
+    "Classifique o resultado: Diligência cumprida, frustrada ou parcialmente realizada exigem leituras distintas.",
+    "Leia os documentos: Consulte certidão do juízo destinatário e peças anexas."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

@@ -7,35 +7,35 @@
   "page": 31,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Arquivamento e baixa no JEC” e aprender a entender a situação atual, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda organização do processo. Observe o infográfico original e identifique os elementos relacionados a arquivamento e baixa no jec. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Arquivamento e baixa no JEC”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda arquivamento e baixa no jec e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Arquivamento e baixa no JEC",
-      "meaning": "Primeiro aspecto visual da página 31 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Arquivamento e baixa no JEC” e observe o contexto."
+      "term": "Releia a fase final",
+      "meaning": "Confira sentença, decisões e cumprimentos necessários.",
+      "example": "Observe esse ponto no infográfico da página 31, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Histórico",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Histórico” com o tema central da aula."
+      "term": "Procure pendências",
+      "meaning": "Veja tarefas, prazos, intimações ou diligências ainda abertas.",
+      "example": "Observe esse ponto no infográfico da página 31, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Tarefa",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Tarefa” na fonte e verifique seu significado."
+      "term": "Reconheça os critérios",
+      "meaning": "Aptidão para arquivamento exige situação processual documentada.",
+      "example": "Observe esse ponto no infográfico da página 31, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Estado atual",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhe à supervisão",
+      "meaning": "Baixa e arquivamento devem seguir rotina autorizada.",
+      "example": "Observe esse ponto no infográfico da página 31, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Arquivamento e baixa no JEC",
-        "detail": "Na página 31, este bloco corresponde a um aspecto do assunto “Arquivamento e baixa no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Releia a fase final",
+        "detail": "Confira sentença, decisões e cumprimentos necessários."
       },
       {
-        "title": "Histórico",
-        "detail": "Na página 31, este bloco corresponde a um aspecto do assunto “Arquivamento e baixa no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Procure pendências",
+        "detail": "Veja tarefas, prazos, intimações ou diligências ainda abertas."
       },
       {
-        "title": "Tarefa",
-        "detail": "Na página 31, este bloco corresponde a um aspecto do assunto “Arquivamento e baixa no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Reconheça os critérios",
+        "detail": "Aptidão para arquivamento exige situação processual documentada."
       },
       {
-        "title": "Estado atual",
-        "detail": "Na página 31, este bloco corresponde a um aspecto do assunto “Arquivamento e baixa no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhe à supervisão",
+        "detail": "Baixa e arquivamento devem seguir rotina autorizada."
       }
     ]
   },
   "observe": [
     {
-      "title": "Arquivamento e baixa no JEC",
-      "detail": "Localize este tópico na página 31 e diga, com suas palavras, que informação ele traz."
+      "title": "Releia a fase final",
+      "detail": "Confira sentença, decisões e cumprimentos necessários."
     },
     {
-      "title": "Histórico",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Procure pendências",
+      "detail": "Veja tarefas, prazos, intimações ou diligências ainda abertas."
     },
     {
-      "title": "Tarefa",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Reconheça os critérios",
+      "detail": "Aptidão para arquivamento exige situação processual documentada."
     },
     {
-      "title": "Estado atual",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhe à supervisão",
+      "detail": "Baixa e arquivamento devem seguir rotina autorizada."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Releia a fase final",
+      "instruction": "Confira sentença, decisões e cumprimentos necessários.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Procure pendências",
+      "instruction": "Veja tarefas, prazos, intimações ou diligências ainda abertas.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Reconheça os critérios",
+      "instruction": "Aptidão para arquivamento exige situação processual documentada.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Encaminhe à supervisão",
+      "instruction": "Baixa e arquivamento devem seguir rotina autorizada.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Arquivamento e baixa no JEC”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Arquivamento e baixa no JEC”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Releia a fase final e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Arquivamento e baixa no JEC”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Arquivamento e baixa no JEC” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, procure pendências, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Arquivamento não pode ser presumido porque parece não haver tarefas na árvore."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Arquivamento e baixa no JEC”.",
-    "Sei explicar o primeiro aspecto: Arquivamento e baixa no JEC.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Arquivamento e baixa no JEC”.",
+    "Sei o que conferir em “Releia a fase final”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p031.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=31",
   "archive": "../arquivo-tecnico/O-26.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-26/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-26/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Releia a fase final: Confira sentença, decisões e cumprimentos necessários.",
+    "Procure pendências: Veja tarefas, prazos, intimações ou diligências ainda abertas.",
+    "Reconheça os critérios: Aptidão para arquivamento exige situação processual documentada."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

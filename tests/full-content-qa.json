@@ -1,0 +1,19 @@
+{
+  "total_lessons": 96,
+  "source_pages": 107,
+  "authored_drafts": 96,
+  "source_review_pending": 96,
+  "editorial_approved": 0,
+  "unique_illustrations": 96,
+  "unique_diagrams": 96,
+  "by_origin": {
+    "study_batch_02": 8,
+    "original_six_pilots": 6,
+    "ocr_topic_review_draft": 34,
+    "ocr_draft": 53,
+    "native_source_special": 6,
+    "ocr_interpreted_guided": 19,
+    "native_source_bf_bv": 23
+  },
+  "errors": []
+}

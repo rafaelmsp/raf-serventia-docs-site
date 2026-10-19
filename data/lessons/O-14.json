@@ -7,35 +7,35 @@
   "page": 19,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Casos simulados de leitura” e aprender a reconhecer eventos, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda histórico do processo. Observe o infográfico original e identifique os elementos relacionados a casos simulados de leitura. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Casos simulados de leitura”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda casos simulados de leitura e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Casos simulados de leitura",
-      "meaning": "Primeiro aspecto visual da página 19 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Casos simulados de leitura” e observe o contexto."
+      "term": "Caso: documento parcial",
+      "meaning": "Compare o que foi pedido ao que efetivamente foi juntado.",
+      "example": "Observe esse ponto no infográfico da página 19, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Origem do processo",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Origem do processo” com o tema central da aula."
+      "term": "Caso: AR irregular",
+      "meaning": "Leia o retorno, sem presumir citação válida.",
+      "example": "Observe esse ponto no infográfico da página 19, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Histórico processual",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Histórico processual” na fonte e verifique seu significado."
+      "term": "Caso: acordo incompleto",
+      "meaning": "Confira quais partes se manifestaram e a representação.",
+      "example": "Observe esse ponto no infográfico da página 19, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Atos e documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Explique a dúvida",
+      "meaning": "Descreva os fatos e peça análise antes de definir o caminho.",
+      "example": "Observe esse ponto no infográfico da página 19, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Casos simulados de leitura",
-        "detail": "Na página 19, este bloco corresponde a um aspecto do assunto “Casos simulados de leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Caso: documento parcial",
+        "detail": "Compare o que foi pedido ao que efetivamente foi juntado."
       },
       {
-        "title": "Origem do processo",
-        "detail": "Na página 19, este bloco corresponde a um aspecto do assunto “Casos simulados de leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Caso: AR irregular",
+        "detail": "Leia o retorno, sem presumir citação válida."
       },
       {
-        "title": "Histórico processual",
-        "detail": "Na página 19, este bloco corresponde a um aspecto do assunto “Casos simulados de leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Caso: acordo incompleto",
+        "detail": "Confira quais partes se manifestaram e a representação."
       },
       {
-        "title": "Atos e documentos",
-        "detail": "Na página 19, este bloco corresponde a um aspecto do assunto “Casos simulados de leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Explique a dúvida",
+        "detail": "Descreva os fatos e peça análise antes de definir o caminho."
       }
     ]
   },
   "observe": [
     {
-      "title": "Casos simulados de leitura",
-      "detail": "Localize este tópico na página 19 e diga, com suas palavras, que informação ele traz."
+      "title": "Caso: documento parcial",
+      "detail": "Compare o que foi pedido ao que efetivamente foi juntado."
     },
     {
-      "title": "Origem do processo",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Caso: AR irregular",
+      "detail": "Leia o retorno, sem presumir citação válida."
     },
     {
-      "title": "Histórico processual",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Caso: acordo incompleto",
+      "detail": "Confira quais partes se manifestaram e a representação."
     },
     {
-      "title": "Atos e documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Explique a dúvida",
+      "detail": "Descreva os fatos e peça análise antes de definir o caminho."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Caso: documento parcial",
+      "instruction": "Compare o que foi pedido ao que efetivamente foi juntado.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Caso: AR irregular",
+      "instruction": "Leia o retorno, sem presumir citação válida.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Caso: acordo incompleto",
+      "instruction": "Confira quais partes se manifestaram e a representação.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Explique a dúvida",
+      "instruction": "Descreva os fatos e peça análise antes de definir o caminho.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Casos simulados de leitura”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Casos simulados de leitura”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Caso: documento parcial e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Casos simulados de leitura”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Casos simulados de leitura” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, caso: ar irregular, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "O exercício ensina interpretação de documentos, não execução automática de conclusão ou comunicação."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Casos simulados de leitura”.",
-    "Sei explicar o primeiro aspecto: Casos simulados de leitura.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Casos simulados de leitura”.",
+    "Sei o que conferir em “Caso: documento parcial”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p019.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=19",
   "archive": "../arquivo-tecnico/O-14.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-14/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-14/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Caso: documento parcial: Compare o que foi pedido ao que efetivamente foi juntado.",
+    "Caso: AR irregular: Leia o retorno, sem presumir citação válida.",
+    "Caso: acordo incompleto: Confira quais partes se manifestaram e a representação."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

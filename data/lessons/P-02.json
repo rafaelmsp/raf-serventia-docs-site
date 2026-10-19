@@ -7,35 +7,35 @@
   "page": 57,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Gerenciar audiência” e aprender a identificar o agendamento, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda audiências e pauta. Observe o infográfico original e identifique os elementos relacionados a gerenciar audiência. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender como reconhecer e conferir “Gerenciar audiência” no histórico, sem executar mudanças sem autorização.",
+  "plain": "O infográfico aborda gerenciar audiência sob o ponto de vista de leitura do processo. As etapas abaixo resumem a análise documentada, mas precisam de revisão do texto original e da rotina vigente.",
   "terms": [
     {
-      "term": "Gerenciar audiência",
-      "meaning": "Primeiro aspecto visual da página 57 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Gerenciar audiência” e observe o contexto."
+      "term": "Comece pela árvore",
+      "meaning": "Localize o histórico e identifique os atos que explicam a situação da audiência.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 57."
     },
     {
-      "term": "Audiência",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Audiência” com o tema central da aula."
+      "term": "Confira comunicação",
+      "meaning": "Observe citações, intimações, prazos e pendências.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 57."
     },
     {
-      "term": "Pauta",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Pauta” na fonte e verifique seu significado."
+      "term": "Distinga funções",
+      "meaning": "Conheça designar, redesignar e cancelar, sem presumir autorização para usá-las.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 57."
     },
     {
-      "term": "Documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Consulte a supervisão",
+      "meaning": "A decisão de alterar a audiência deve partir do responsável.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 57."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Gerenciar audiência",
-        "detail": "Na página 57, este bloco corresponde a um aspecto do assunto “Gerenciar audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Comece pela árvore",
+        "detail": "Localize o histórico e identifique os atos que explicam a situação da audiência."
       },
       {
-        "title": "Audiência",
-        "detail": "Na página 57, este bloco corresponde a um aspecto do assunto “Gerenciar audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira comunicação",
+        "detail": "Observe citações, intimações, prazos e pendências."
       },
       {
-        "title": "Pauta",
-        "detail": "Na página 57, este bloco corresponde a um aspecto do assunto “Gerenciar audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Distinga funções",
+        "detail": "Conheça designar, redesignar e cancelar, sem presumir autorização para usá-las."
       },
       {
-        "title": "Documentos",
-        "detail": "Na página 57, este bloco corresponde a um aspecto do assunto “Gerenciar audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Consulte a supervisão",
+        "detail": "A decisão de alterar a audiência deve partir do responsável."
       }
     ]
   },
   "observe": [
     {
-      "title": "Gerenciar audiência",
-      "detail": "Localize este tópico na página 57 e diga, com suas palavras, que informação ele traz."
+      "title": "Comece pela árvore",
+      "detail": "Localize o histórico e identifique os atos que explicam a situação da audiência."
     },
     {
-      "title": "Audiência",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Confira comunicação",
+      "detail": "Observe citações, intimações, prazos e pendências."
     },
     {
-      "title": "Pauta",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Distinga funções",
+      "detail": "Conheça designar, redesignar e cancelar, sem presumir autorização para usá-las."
     },
     {
-      "title": "Documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Consulte a supervisão",
+      "detail": "A decisão de alterar a audiência deve partir do responsável."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Comece pela árvore",
+      "instruction": "Localize o histórico e identifique os atos que explicam a situação da audiência.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Confira comunicação",
+      "instruction": "Observe citações, intimações, prazos e pendências.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Distinga funções",
+      "instruction": "Conheça designar, redesignar e cancelar, sem presumir autorização para usá-las.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Consulte a supervisão",
+      "instruction": "A decisão de alterar a audiência deve partir do responsável.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Gerenciar audiência”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Ao estudar “Gerenciar audiência”, o manual mostra um caminho de análise. Como proceder diante de dúvidas?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Confirmar o registro e a orientação do servidor antes de agir.",
+        "feedback": "Correto: a segurança exige fonte e supervisão.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar automaticamente a movimentação sugerida no desenho.",
+        "feedback": "A imagem não concede autorização.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar uma possível pendência documental.",
+        "feedback": "A pendência precisa ser examinada.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Gerenciar audiência”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de conferência: durante “Gerenciar audiência”, o histórico aponta um fato e você precisa interpretar sua relevância antes de qualquer encaminhamento.",
+    "question": "Qual é a melhor sequência de aprendizagem?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Primeiro comece pela árvore, depois confira comunicação, conferindo os autos.",
+        "feedback": "Esse é um caminho seguro de estudo.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Pular a leitura e escolher diretamente a próxima tarefa.",
+        "feedback": "Não: a árvore e os documentos precisam de conferência.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Alterar a situação da audiência ou do processo sem autorização.",
+        "feedback": "A atuação depende de perfil e orientação do responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Confundir leitura com autorização",
+      "correct": "Uma audiência não deve ser alterada apenas porque aparece um botão de gerenciamento."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar os documentos e a fase",
+      "correct": "Consultar registros e decisões anteriores antes de concluir."
+    },
+    {
+      "mistake": "Decidir a pauta sem competência",
+      "correct": "Submeter a dúvida ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Gerenciar audiência”.",
-    "Sei explicar o primeiro aspecto: Gerenciar audiência.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o objetivo de “Gerenciar audiência”.",
+    "Consigo reconhecer o ponto de estudo “Comece pela árvore”.",
+    "Consigo distinguir conferência documental de decisão processual."
   ],
   "source_image": "../assets/thumbs/p057.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=57",
   "archive": "../arquivo-tecnico/P-02.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro explicativo criado por interpretação didática de página com OCR provisório; ainda exige conferência visual e normativa.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/P-02/ilustracao-premium.svg",
   "visual_map": "../assets/learning/P-02/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Comece pela árvore: Localize o histórico e identifique os atos que explicam a situação da audiência.",
+    "Confira comunicação: Observe citações, intimações, prazos e pendências.",
+    "Distinga funções: Conheça designar, redesignar e cancelar, sem presumir autorização para usá-las."
+  ],
+  "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
+  "authored_batch": "ocr_interpreted_guided"
 }

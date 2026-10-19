@@ -7,35 +7,35 @@
   "page": 102,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Encaminhamentos” e aprender a reconhecer etapas da chamada, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento remoto. Observe o infográfico original e identifique os elementos relacionados a encaminhamentos. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “Encaminhamentos”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Servidor, chefia, gabinete ou outro canal de atendimento O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Quando Encaminhar",
-      "meaning": "Primeiro aspecto visual da página 102 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Quando Encaminhar” e observe o contexto."
+      "term": "DÚVIDA OPERACIONAL",
+      "meaning": "Consultar servidor responsável quando a tela ou a regra interna não estiver clara.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Encaminhamentos”."
     },
     {
-      "term": "Finalidade Operacional",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Finalidade Operacional” com o tema central da aula."
+      "term": "PEDIDO DE PROVIDÊNCIA",
+      "meaning": "Registrar ou direcionar a solicitação por canal formal; não movimentar por iniciativa própria.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Encaminhamentos”."
     },
     {
-      "term": "Regra De Atuação",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Regra De Atuação” na fonte e verifique seu significado."
+      "term": "QUESTÃO JUDICIAL",
+      "meaning": "Explicar que tutela, despacho, sentença e análise de mérito dependem de apreciação competente.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Encaminhamentos”."
     },
     {
-      "term": "Dúvida Operacional",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "OUTROS CANAIS",
+      "meaning": "Orientar o canal oficial disponível para petições, incidentes ou atendimento especializado.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Encaminhamentos”."
     }
   ],
   "scene": {
@@ -43,111 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Quando Encaminhar",
-        "detail": "Na página 102, este bloco corresponde a um aspecto do assunto “Encaminhamentos”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "DÚVIDA OPERACIONAL",
+        "detail": "Consultar servidor responsável quando a tela ou a regra interna não estiver clara."
       },
       {
-        "title": "Finalidade Operacional",
-        "detail": "Na página 102, este bloco corresponde a um aspecto do assunto “Encaminhamentos”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "PEDIDO DE PROVIDÊNCIA",
+        "detail": "Registrar ou direcionar a solicitação por canal formal; não movimentar por iniciativa própria."
       },
       {
-        "title": "Regra De Atuação",
-        "detail": "Na página 102, este bloco corresponde a um aspecto do assunto “Encaminhamentos”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "QUESTÃO JUDICIAL",
+        "detail": "Explicar que tutela, despacho, sentença e análise de mérito dependem de apreciação competente."
       },
       {
-        "title": "Dúvida Operacional",
-        "detail": "Na página 102, este bloco corresponde a um aspecto do assunto “Encaminhamentos”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "OUTROS CANAIS",
+        "detail": "Orientar o canal oficial disponível para petições, incidentes ou atendimento especializado."
       }
     ]
   },
   "observe": [
     {
-      "title": "Quando Encaminhar",
-      "detail": "Localize este tópico na página 102 e diga, com suas palavras, que informação ele traz."
+      "title": "DÚVIDA OPERACIONAL",
+      "detail": "Consultar servidor responsável quando a tela ou a regra interna não estiver clara."
     },
     {
-      "title": "Finalidade Operacional",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "PEDIDO DE PROVIDÊNCIA",
+      "detail": "Registrar ou direcionar a solicitação por canal formal; não movimentar por iniciativa própria."
     },
     {
-      "title": "Regra De Atuação",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "QUESTÃO JUDICIAL",
+      "detail": "Explicar que tutela, despacho, sentença e análise de mérito dependem de apreciação competente."
     },
     {
-      "title": "Dúvida Operacional",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "OUTROS CANAIS",
+      "detail": "Orientar o canal oficial disponível para petições, incidentes ou atendimento especializado."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "DÚVIDA OPERACIONAL",
+      "instruction": "Consultar servidor responsável quando a tela ou a regra interna não estiver clara.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "PEDIDO DE PROVIDÊNCIA",
+      "instruction": "Registrar ou direcionar a solicitação por canal formal; não movimentar por iniciativa própria.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "QUESTÃO JUDICIAL",
+      "instruction": "Explicar que tutela, despacho, sentença e análise de mérito dependem de apreciação competente.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "OUTROS CANAIS",
+      "instruction": "Orientar o canal oficial disponível para petições, incidentes ou atendimento especializado.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Encaminhamentos”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “Encaminhamentos”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Encaminhamentos”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “Encaminhamentos” exige atenção ao seguinte ponto: DÚVIDA OPERACIONAL — Consultar servidor responsável quando a tela ou a regra interna não estiver clara.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "O estagiário não substitui advogado, servidor responsável ou magistrado."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Encaminhamentos”.",
-    "Sei explicar o primeiro aspecto: Quando Encaminhar.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “DÚVIDA OPERACIONAL”.",
+    "Consigo reconhecer quando conferir “PEDIDO DE PROVIDÊNCIA”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p102.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=102",
   "archive": "../arquivo-tecnico/BV-11.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BV-11/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BV-11/fluxo-premium.svg",
   "source_highlights": [
-    "Servidor, chefia, gabinete ou outro canal de atendimento",
-    "Distinguir informação simples de providência que",
-    "Atendimento informativo, humano e sob supervisão de"
+    "DÚVIDA OPERACIONAL: Consultar servidor responsável quando a tela ou a regra interna não estiver clara.",
+    "PEDIDO DE PROVIDÊNCIA: Registrar ou direcionar a solicitação por canal formal; não movimentar por iniciativa própria.",
+    "QUESTÃO JUDICIAL: Explicar que tutela, despacho, sentença e análise de mérito dependem de apreciação competente."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

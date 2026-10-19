@@ -7,35 +7,35 @@
   "page": 65,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Pedido de audiência virtual” e aprender a identificar o agendamento, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda audiências e pauta. Observe o infográfico original e identifique os elementos relacionados a pedido de audiência virtual. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender como reconhecer e conferir “Pedido de audiência virtual” no histórico, sem executar mudanças sem autorização.",
+  "plain": "O infográfico aborda pedido de audiência virtual sob o ponto de vista de leitura do processo. As etapas abaixo resumem a análise documentada, mas precisam de revisão do texto original e da rotina vigente.",
   "terms": [
     {
-      "term": "Pedido de audiência virtual",
-      "meaning": "Primeiro aspecto visual da página 65 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Pedido de audiência virtual” e observe o contexto."
+      "term": "Abra a petição",
+      "meaning": "Entenda se foi solicitada audiência virtual.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 65."
     },
     {
-      "term": "Audiência",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Audiência” com o tema central da aula."
+      "term": "Confira a audiência existente",
+      "meaning": "Verifique data, modalidade, status e documentos relevantes.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 65."
     },
     {
-      "term": "Pauta",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Pauta” na fonte e verifique seu significado."
+      "term": "Registre a pendência",
+      "meaning": "Anote a informação conforme o controle autorizado da unidade.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 65."
     },
     {
-      "term": "Documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhe à decisão competente",
+      "meaning": "A mudança de modalidade não é decidida pelo estagiário.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 65."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Pedido de audiência virtual",
-        "detail": "Na página 65, este bloco corresponde a um aspecto do assunto “Pedido de audiência virtual”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Abra a petição",
+        "detail": "Entenda se foi solicitada audiência virtual."
       },
       {
-        "title": "Audiência",
-        "detail": "Na página 65, este bloco corresponde a um aspecto do assunto “Pedido de audiência virtual”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira a audiência existente",
+        "detail": "Verifique data, modalidade, status e documentos relevantes."
       },
       {
-        "title": "Pauta",
-        "detail": "Na página 65, este bloco corresponde a um aspecto do assunto “Pedido de audiência virtual”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Registre a pendência",
+        "detail": "Anote a informação conforme o controle autorizado da unidade."
       },
       {
-        "title": "Documentos",
-        "detail": "Na página 65, este bloco corresponde a um aspecto do assunto “Pedido de audiência virtual”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhe à decisão competente",
+        "detail": "A mudança de modalidade não é decidida pelo estagiário."
       }
     ]
   },
   "observe": [
     {
-      "title": "Pedido de audiência virtual",
-      "detail": "Localize este tópico na página 65 e diga, com suas palavras, que informação ele traz."
+      "title": "Abra a petição",
+      "detail": "Entenda se foi solicitada audiência virtual."
     },
     {
-      "title": "Audiência",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Confira a audiência existente",
+      "detail": "Verifique data, modalidade, status e documentos relevantes."
     },
     {
-      "title": "Pauta",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Registre a pendência",
+      "detail": "Anote a informação conforme o controle autorizado da unidade."
     },
     {
-      "title": "Documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhe à decisão competente",
+      "detail": "A mudança de modalidade não é decidida pelo estagiário."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Abra a petição",
+      "instruction": "Entenda se foi solicitada audiência virtual.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Confira a audiência existente",
+      "instruction": "Verifique data, modalidade, status e documentos relevantes.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Registre a pendência",
+      "instruction": "Anote a informação conforme o controle autorizado da unidade.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Encaminhe à decisão competente",
+      "instruction": "A mudança de modalidade não é decidida pelo estagiário.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Pedido de audiência virtual”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Ao estudar “Pedido de audiência virtual”, o manual mostra um caminho de análise. Como proceder diante de dúvidas?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Confirmar o registro e a orientação do servidor antes de agir.",
+        "feedback": "Correto: a segurança exige fonte e supervisão.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar automaticamente a movimentação sugerida no desenho.",
+        "feedback": "A imagem não concede autorização.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar uma possível pendência documental.",
+        "feedback": "A pendência precisa ser examinada.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Pedido de audiência virtual”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de conferência: durante “Pedido de audiência virtual”, o histórico aponta um fato e você precisa interpretar sua relevância antes de qualquer encaminhamento.",
+    "question": "Qual é a melhor sequência de aprendizagem?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Primeiro abra a petição, depois confira a audiência existente, conferindo os autos.",
+        "feedback": "Esse é um caminho seguro de estudo.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Pular a leitura e escolher diretamente a próxima tarefa.",
+        "feedback": "Não: a árvore e os documentos precisam de conferência.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Alterar a situação da audiência ou do processo sem autorização.",
+        "feedback": "A atuação depende de perfil e orientação do responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Confundir leitura com autorização",
+      "correct": "O pedido de audiência virtual não implica deferimento ou redesignação automática."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar os documentos e a fase",
+      "correct": "Consultar registros e decisões anteriores antes de concluir."
+    },
+    {
+      "mistake": "Decidir a pauta sem competência",
+      "correct": "Submeter a dúvida ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Pedido de audiência virtual”.",
-    "Sei explicar o primeiro aspecto: Pedido de audiência virtual.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o objetivo de “Pedido de audiência virtual”.",
+    "Consigo reconhecer o ponto de estudo “Abra a petição”.",
+    "Consigo distinguir conferência documental de decisão processual."
   ],
   "source_image": "../assets/thumbs/p065.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=65",
   "archive": "../arquivo-tecnico/P-10.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro explicativo criado por interpretação didática de página com OCR provisório; ainda exige conferência visual e normativa.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/P-10/ilustracao-premium.svg",
   "visual_map": "../assets/learning/P-10/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Abra a petição: Entenda se foi solicitada audiência virtual.",
+    "Confira a audiência existente: Verifique data, modalidade, status e documentos relevantes.",
+    "Registre a pendência: Anote a informação conforme o controle autorizado da unidade."
+  ],
+  "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
+  "authored_batch": "ocr_interpreted_guided"
 }

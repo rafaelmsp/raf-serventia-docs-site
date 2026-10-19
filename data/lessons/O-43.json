@@ -7,35 +7,35 @@
   "page": 48,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Mandado de pagamento no PJe” e aprender a diferenciar situações, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda registro de valores. Observe o infográfico original e identifique os elementos relacionados a mandado de pagamento no pje. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Mandado de pagamento no PJe”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda mandado de pagamento no pje e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Mandado de pagamento no PJe",
-      "meaning": "Primeiro aspecto visual da página 48 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Mandado de pagamento no PJe” e observe o contexto."
+      "term": "Identifique a ordem de pagamento",
+      "meaning": "Leia decisão ou ato que fundamenta o mandado.",
+      "example": "Observe esse ponto no infográfico da página 48, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Determinação",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Determinação” com o tema central da aula."
+      "term": "Confira beneficiário",
+      "meaning": "Verifique dados e documentos necessários à emissão no perfil competente.",
+      "example": "Observe esse ponto no infográfico da página 48, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Resultado",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Resultado” na fonte e verifique seu significado."
+      "term": "Diferencie etapas",
+      "meaning": "Requisição, digitação, assinatura, expedição e efetivação são fases distintas.",
+      "example": "Observe esse ponto no infográfico da página 48, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Valores",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhe o controle",
+      "meaning": "Não libere valores, assine ou prometa pagamento sem confirmação.",
+      "example": "Observe esse ponto no infográfico da página 48, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Mandado de pagamento no PJe",
-        "detail": "Na página 48, este bloco corresponde a um aspecto do assunto “Mandado de pagamento no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identifique a ordem de pagamento",
+        "detail": "Leia decisão ou ato que fundamenta o mandado."
       },
       {
-        "title": "Determinação",
-        "detail": "Na página 48, este bloco corresponde a um aspecto do assunto “Mandado de pagamento no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira beneficiário",
+        "detail": "Verifique dados e documentos necessários à emissão no perfil competente."
       },
       {
-        "title": "Resultado",
-        "detail": "Na página 48, este bloco corresponde a um aspecto do assunto “Mandado de pagamento no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Diferencie etapas",
+        "detail": "Requisição, digitação, assinatura, expedição e efetivação são fases distintas."
       },
       {
-        "title": "Valores",
-        "detail": "Na página 48, este bloco corresponde a um aspecto do assunto “Mandado de pagamento no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhe o controle",
+        "detail": "Não libere valores, assine ou prometa pagamento sem confirmação."
       }
     ]
   },
   "observe": [
     {
-      "title": "Mandado de pagamento no PJe",
-      "detail": "Localize este tópico na página 48 e diga, com suas palavras, que informação ele traz."
+      "title": "Identifique a ordem de pagamento",
+      "detail": "Leia decisão ou ato que fundamenta o mandado."
     },
     {
-      "title": "Determinação",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Confira beneficiário",
+      "detail": "Verifique dados e documentos necessários à emissão no perfil competente."
     },
     {
-      "title": "Resultado",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Diferencie etapas",
+      "detail": "Requisição, digitação, assinatura, expedição e efetivação são fases distintas."
     },
     {
-      "title": "Valores",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhe o controle",
+      "detail": "Não libere valores, assine ou prometa pagamento sem confirmação."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identifique a ordem de pagamento",
+      "instruction": "Leia decisão ou ato que fundamenta o mandado.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Confira beneficiário",
+      "instruction": "Verifique dados e documentos necessários à emissão no perfil competente.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Diferencie etapas",
+      "instruction": "Requisição, digitação, assinatura, expedição e efetivação são fases distintas.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Encaminhe o controle",
+      "instruction": "Não libere valores, assine ou prometa pagamento sem confirmação.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Mandado de pagamento no PJe”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Mandado de pagamento no PJe”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Identifique a ordem de pagamento e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Mandado de pagamento no PJe”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Mandado de pagamento no PJe” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, confira beneficiário, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Mandado solicitado não significa expedido ou pago; valores exigem controle rigoroso."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Mandado de pagamento no PJe”.",
-    "Sei explicar o primeiro aspecto: Mandado de pagamento no PJe.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Mandado de pagamento no PJe”.",
+    "Sei o que conferir em “Identifique a ordem de pagamento”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p048.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=48",
   "archive": "../arquivo-tecnico/O-43.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-43/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-43/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Identifique a ordem de pagamento: Leia decisão ou ato que fundamenta o mandado.",
+    "Confira beneficiário: Verifique dados e documentos necessários à emissão no perfil competente.",
+    "Diferencie etapas: Requisição, digitação, assinatura, expedição e efetivação são fases distintas."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

@@ -7,35 +7,35 @@
   "page": 20,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Mapa dos fluxos de trabalho no PJe” e aprender a compreender etapas, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda organização da rotina. Observe o infográfico original e identifique os elementos relacionados a mapa dos fluxos de trabalho no pje. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Mapa dos fluxos de trabalho no PJe”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda mapa dos fluxos de trabalho no pje e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Mapa dos fluxos de trabalho no PJe",
-      "meaning": "Primeiro aspecto visual da página 20 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Mapa dos fluxos de trabalho no PJe” e observe o contexto."
+      "term": "Abra os autos",
+      "meaning": "Conheça a árvore e a lista cronológica de registros.",
+      "example": "Observe esse ponto no infográfico da página 20, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Localizar",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Localizar” com o tema central da aula."
+      "term": "Leia o ato relevante",
+      "meaning": "Identifique qual decisão ou comunicação explica o estado atual.",
+      "example": "Observe esse ponto no infográfico da página 20, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Examinar",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Examinar” na fonte e verifique seu significado."
+      "term": "Confira ciência, prazo e resposta",
+      "meaning": "Procure registros associados e peças relevantes.",
+      "example": "Observe esse ponto no infográfico da página 20, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Conferir",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Reconheça o limite",
+      "meaning": "A seleção da tarefa segue autorização da serventia, não apenas o mapa.",
+      "example": "Observe esse ponto no infográfico da página 20, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Mapa dos fluxos de trabalho no PJe",
-        "detail": "Na página 20, este bloco corresponde a um aspecto do assunto “Mapa dos fluxos de trabalho no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Abra os autos",
+        "detail": "Conheça a árvore e a lista cronológica de registros."
       },
       {
-        "title": "Localizar",
-        "detail": "Na página 20, este bloco corresponde a um aspecto do assunto “Mapa dos fluxos de trabalho no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia o ato relevante",
+        "detail": "Identifique qual decisão ou comunicação explica o estado atual."
       },
       {
-        "title": "Examinar",
-        "detail": "Na página 20, este bloco corresponde a um aspecto do assunto “Mapa dos fluxos de trabalho no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira ciência, prazo e resposta",
+        "detail": "Procure registros associados e peças relevantes."
       },
       {
-        "title": "Conferir",
-        "detail": "Na página 20, este bloco corresponde a um aspecto do assunto “Mapa dos fluxos de trabalho no PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Reconheça o limite",
+        "detail": "A seleção da tarefa segue autorização da serventia, não apenas o mapa."
       }
     ]
   },
   "observe": [
     {
-      "title": "Mapa dos fluxos de trabalho no PJe",
-      "detail": "Localize este tópico na página 20 e diga, com suas palavras, que informação ele traz."
+      "title": "Abra os autos",
+      "detail": "Conheça a árvore e a lista cronológica de registros."
     },
     {
-      "title": "Localizar",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Leia o ato relevante",
+      "detail": "Identifique qual decisão ou comunicação explica o estado atual."
     },
     {
-      "title": "Examinar",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Confira ciência, prazo e resposta",
+      "detail": "Procure registros associados e peças relevantes."
     },
     {
-      "title": "Conferir",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Reconheça o limite",
+      "detail": "A seleção da tarefa segue autorização da serventia, não apenas o mapa."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Abra os autos",
+      "instruction": "Conheça a árvore e a lista cronológica de registros.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Leia o ato relevante",
+      "instruction": "Identifique qual decisão ou comunicação explica o estado atual.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Confira ciência, prazo e resposta",
+      "instruction": "Procure registros associados e peças relevantes.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Reconheça o limite",
+      "instruction": "A seleção da tarefa segue autorização da serventia, não apenas o mapa.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Mapa dos fluxos de trabalho no PJe”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Mapa dos fluxos de trabalho no PJe”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Abra os autos e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Mapa dos fluxos de trabalho no PJe”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Mapa dos fluxos de trabalho no PJe” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, leia o ato relevante, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "O fluxo didático não substitui a avaliação do servidor nem concede permissões de sistema."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Mapa dos fluxos de trabalho no PJe”.",
-    "Sei explicar o primeiro aspecto: Mapa dos fluxos de trabalho no PJe.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Mapa dos fluxos de trabalho no PJe”.",
+    "Sei o que conferir em “Abra os autos”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p020.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=20",
   "archive": "../arquivo-tecnico/O-15.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-15/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-15/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Abra os autos: Conheça a árvore e a lista cronológica de registros.",
+    "Leia o ato relevante: Identifique qual decisão ou comunicação explica o estado atual.",
+    "Confira ciência, prazo e resposta: Procure registros associados e peças relevantes."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

@@ -7,35 +7,35 @@
   "page": 66,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Acordo antes da audiência” e aprender a identificar o agendamento, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda audiências e pauta. Observe o infográfico original e identifique os elementos relacionados a acordo antes da audiência. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender como reconhecer e conferir “Acordo antes da audiência” no histórico, sem executar mudanças sem autorização.",
+  "plain": "O infográfico aborda acordo antes da audiência sob o ponto de vista de leitura do processo. As etapas abaixo resumem a análise documentada, mas precisam de revisão do texto original e da rotina vigente.",
   "terms": [
     {
-      "term": "Acordo antes da audiência",
-      "meaning": "Primeiro aspecto visual da página 66 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Acordo antes da audiência” e observe o contexto."
+      "term": "Leia o acordo apresentado",
+      "meaning": "Confira a petição e sua presença nos autos.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 66."
     },
     {
-      "term": "Audiência",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Audiência” com o tema central da aula."
+      "term": "Verifique representação",
+      "meaning": "Identifique signatários e documentação necessária.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 66."
     },
     {
-      "term": "Pauta",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Pauta” na fonte e verifique seu significado."
+      "term": "Compare à pauta",
+      "meaning": "Observe se a petição pretende impactar audiência marcada.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 66."
     },
     {
-      "term": "Documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Submeta à análise",
+      "meaning": "O responsável definirá homologação e providência de pauta.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 66."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Acordo antes da audiência",
-        "detail": "Na página 66, este bloco corresponde a um aspecto do assunto “Acordo antes da audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia o acordo apresentado",
+        "detail": "Confira a petição e sua presença nos autos."
       },
       {
-        "title": "Audiência",
-        "detail": "Na página 66, este bloco corresponde a um aspecto do assunto “Acordo antes da audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Verifique representação",
+        "detail": "Identifique signatários e documentação necessária."
       },
       {
-        "title": "Pauta",
-        "detail": "Na página 66, este bloco corresponde a um aspecto do assunto “Acordo antes da audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Compare à pauta",
+        "detail": "Observe se a petição pretende impactar audiência marcada."
       },
       {
-        "title": "Documentos",
-        "detail": "Na página 66, este bloco corresponde a um aspecto do assunto “Acordo antes da audiência”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Submeta à análise",
+        "detail": "O responsável definirá homologação e providência de pauta."
       }
     ]
   },
   "observe": [
     {
-      "title": "Acordo antes da audiência",
-      "detail": "Localize este tópico na página 66 e diga, com suas palavras, que informação ele traz."
+      "title": "Leia o acordo apresentado",
+      "detail": "Confira a petição e sua presença nos autos."
     },
     {
-      "title": "Audiência",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Verifique representação",
+      "detail": "Identifique signatários e documentação necessária."
     },
     {
-      "title": "Pauta",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Compare à pauta",
+      "detail": "Observe se a petição pretende impactar audiência marcada."
     },
     {
-      "title": "Documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Submeta à análise",
+      "detail": "O responsável definirá homologação e providência de pauta."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Leia o acordo apresentado",
+      "instruction": "Confira a petição e sua presença nos autos.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Verifique representação",
+      "instruction": "Identifique signatários e documentação necessária.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Compare à pauta",
+      "instruction": "Observe se a petição pretende impactar audiência marcada.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Submeta à análise",
+      "instruction": "O responsável definirá homologação e providência de pauta.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Acordo antes da audiência”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Ao estudar “Acordo antes da audiência”, o manual mostra um caminho de análise. Como proceder diante de dúvidas?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Confirmar o registro e a orientação do servidor antes de agir.",
+        "feedback": "Correto: a segurança exige fonte e supervisão.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar automaticamente a movimentação sugerida no desenho.",
+        "feedback": "A imagem não concede autorização.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar uma possível pendência documental.",
+        "feedback": "A pendência precisa ser examinada.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Acordo antes da audiência”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de conferência: durante “Acordo antes da audiência”, o histórico aponta um fato e você precisa interpretar sua relevância antes de qualquer encaminhamento.",
+    "question": "Qual é a melhor sequência de aprendizagem?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Primeiro leia o acordo apresentado, depois verifique representação, conferindo os autos.",
+        "feedback": "Esse é um caminho seguro de estudo.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Pular a leitura e escolher diretamente a próxima tarefa.",
+        "feedback": "Não: a árvore e os documentos precisam de conferência.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Alterar a situação da audiência ou do processo sem autorização.",
+        "feedback": "A atuação depende de perfil e orientação do responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Confundir leitura com autorização",
+      "correct": "Acordo juntado não significa cancelamento ou homologação automáticos."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar os documentos e a fase",
+      "correct": "Consultar registros e decisões anteriores antes de concluir."
+    },
+    {
+      "mistake": "Decidir a pauta sem competência",
+      "correct": "Submeter a dúvida ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Acordo antes da audiência”.",
-    "Sei explicar o primeiro aspecto: Acordo antes da audiência.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o objetivo de “Acordo antes da audiência”.",
+    "Consigo reconhecer o ponto de estudo “Leia o acordo apresentado”.",
+    "Consigo distinguir conferência documental de decisão processual."
   ],
   "source_image": "../assets/thumbs/p066.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=66",
   "archive": "../arquivo-tecnico/P-11.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro explicativo criado por interpretação didática de página com OCR provisório; ainda exige conferência visual e normativa.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/P-11/ilustracao-premium.svg",
   "visual_map": "../assets/learning/P-11/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Leia o acordo apresentado: Confira a petição e sua presença nos autos.",
+    "Verifique representação: Identifique signatários e documentação necessária.",
+    "Compare à pauta: Observe se a petição pretende impactar audiência marcada."
+  ],
+  "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
+  "authored_batch": "ocr_interpreted_guided"
 }

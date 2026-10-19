@@ -7,35 +7,35 @@
   "page": 89,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “INTIMAÇÃO E CIÊNCIA PRESENCIAL” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a intimação e ciência presencial. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “INTIMAÇÃO E CIÊNCIA PRESENCIAL”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Comparecimento espontâneo e atos reservados à serventia O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Ato De Comunicação",
-      "meaning": "Primeiro aspecto visual da página 89 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Ato De Comunicação” e observe o contexto."
+      "term": "Identificar a situação",
+      "meaning": "A pessoa comparece para informação, manifestação ou ciência formal de ato processual?",
+      "example": "Na fonte, este tópico integra a conferência do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”."
     },
     {
-      "term": "Intimação E Ciência",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Intimação E Ciência” com o tema central da aula."
+      "term": "Conferir a ordem existente",
+      "meaning": "Verificar se há determinação, providência e perfil competente para intimação presencial.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”."
     },
     {
-      "term": "Presencial",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Presencial” na fonte e verifique seu significado."
+      "term": "Comunicar ao servidor",
+      "meaning": "A realização formal da intimação e respectivo registro são atos da serventia.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Documentar adequadamente",
+      "meaning": "Quando cabível, o servidor registra data, destinatário, ato comunicado e circunstâncias relevantes.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Ato De Comunicação",
-        "detail": "Na página 89, este bloco corresponde a um aspecto do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificar a situação",
+        "detail": "A pessoa comparece para informação, manifestação ou ciência formal de ato processual?"
       },
       {
-        "title": "Intimação E Ciência",
-        "detail": "Na página 89, este bloco corresponde a um aspecto do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Conferir a ordem existente",
+        "detail": "Verificar se há determinação, providência e perfil competente para intimação presencial."
       },
       {
-        "title": "Presencial",
-        "detail": "Na página 89, este bloco corresponde a um aspecto do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Comunicar ao servidor",
+        "detail": "A realização formal da intimação e respectivo registro são atos da serventia."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 89, este bloco corresponde a um aspecto do assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Documentar adequadamente",
+        "detail": "Quando cabível, o servidor registra data, destinatário, ato comunicado e circunstâncias relevantes."
       }
     ]
   },
   "observe": [
     {
-      "title": "Ato De Comunicação",
-      "detail": "Localize este tópico na página 89 e diga, com suas palavras, que informação ele traz."
+      "title": "Identificar a situação",
+      "detail": "A pessoa comparece para informação, manifestação ou ciência formal de ato processual?"
     },
     {
-      "title": "Intimação E Ciência",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Conferir a ordem existente",
+      "detail": "Verificar se há determinação, providência e perfil competente para intimação presencial."
     },
     {
-      "title": "Presencial",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Comunicar ao servidor",
+      "detail": "A realização formal da intimação e respectivo registro são atos da serventia."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Documentar adequadamente",
+      "detail": "Quando cabível, o servidor registra data, destinatário, ato comunicado e circunstâncias relevantes."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identificar a situação",
+      "instruction": "A pessoa comparece para informação, manifestação ou ciência formal de ato processual?",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Conferir a ordem existente",
+      "instruction": "Verificar se há determinação, providência e perfil competente para intimação presencial.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Comunicar ao servidor",
+      "instruction": "A realização formal da intimação e respectivo registro são atos da serventia.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Documentar adequadamente",
+      "instruction": "Quando cabível, o servidor registra data, destinatário, ato comunicado e circunstâncias relevantes.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Rever o andamento",
+      "instruction": "Não presumir início de prazo pela simples orientação verbal; conferir a certidão e o ato processual. Ordem ou ato correto",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “INTIMAÇÃO E CIÊNCIA PRESENCIAL”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “INTIMAÇÃO E CIÊNCIA PRESENCIAL”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “INTIMAÇÃO E CIÊNCIA PRESENCIAL”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “INTIMAÇÃO E CIÊNCIA PRESENCIAL” exige atenção ao seguinte ponto: Identificar a situação — A pessoa comparece para informação, manifestação ou ciência formal de ato processual?",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "A orientação informativa do balcão NÃO substitui certidão, intimação ou ciência processual formal."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “INTIMAÇÃO E CIÊNCIA PRESENCIAL”.",
-    "Sei explicar o primeiro aspecto: Ato De Comunicação.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Identificar a situação”.",
+    "Consigo reconhecer quando conferir “Conferir a ordem existente”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p089.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=89",
   "archive": "../arquivo-tecnico/BF-11.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-11/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-11/fluxo-premium.svg",
   "source_highlights": [
-    "Comparecimento espontâneo e atos reservados à serventia",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro.",
-    "PASSO A PASSO NO BALCÃO"
+    "Identificar a situação: A pessoa comparece para informação, manifestação ou ciência formal de ato processual?",
+    "Conferir a ordem existente: Verificar se há determinação, providência e perfil competente para intimação presencial.",
+    "Comunicar ao servidor: A realização formal da intimação e respectivo registro são atos da serventia."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

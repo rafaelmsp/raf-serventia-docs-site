@@ -7,35 +7,35 @@
   "page": 88,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “COMPARECIMENTO E ASSINATURA” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a comparecimento e assinatura. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “COMPARECIMENTO E ASSINATURA”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Presença em audiência e registro de assistência O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Registro De Presença",
-      "meaning": "Primeiro aspecto visual da página 88 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Registro De Presença” e observe o contexto."
+      "term": "Identificar quem compareceu",
+      "meaning": "Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “COMPARECIMENTO E ASSINATURA”."
     },
     {
-      "term": "Comparecimento E",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Comparecimento E” com o tema central da aula."
+      "term": "Verificar a audiência",
+      "meaning": "Conferir processo, data e sala antes de orientar assinatura ou registro.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “COMPARECIMENTO E ASSINATURA”."
     },
     {
-      "term": "Assinatura",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Assinatura” na fonte e verifique seu significado."
+      "term": "Localizar o controle oficial",
+      "meaning": "Solicitar orientação do servidor sobre lista, ata, registro digital ou folha utilizada na unidade.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “COMPARECIMENTO E ASSINATURA”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Colher assinatura legítima",
+      "meaning": "A própria pessoa assina quando o procedimento exigir; estagiário não assina por terceiro.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “COMPARECIMENTO E ASSINATURA”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Registro De Presença",
-        "detail": "Na página 88, este bloco corresponde a um aspecto do assunto “COMPARECIMENTO E ASSINATURA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificar quem compareceu",
+        "detail": "Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe."
       },
       {
-        "title": "Comparecimento E",
-        "detail": "Na página 88, este bloco corresponde a um aspecto do assunto “COMPARECIMENTO E ASSINATURA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Verificar a audiência",
+        "detail": "Conferir processo, data e sala antes de orientar assinatura ou registro."
       },
       {
-        "title": "Assinatura",
-        "detail": "Na página 88, este bloco corresponde a um aspecto do assunto “COMPARECIMENTO E ASSINATURA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Localizar o controle oficial",
+        "detail": "Solicitar orientação do servidor sobre lista, ata, registro digital ou folha utilizada na unidade."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 88, este bloco corresponde a um aspecto do assunto “COMPARECIMENTO E ASSINATURA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Colher assinatura legítima",
+        "detail": "A própria pessoa assina quando o procedimento exigir; estagiário não assina por terceiro."
       }
     ]
   },
   "observe": [
     {
-      "title": "Registro De Presença",
-      "detail": "Localize este tópico na página 88 e diga, com suas palavras, que informação ele traz."
+      "title": "Identificar quem compareceu",
+      "detail": "Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe."
     },
     {
-      "title": "Comparecimento E",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Verificar a audiência",
+      "detail": "Conferir processo, data e sala antes de orientar assinatura ou registro."
     },
     {
-      "title": "Assinatura",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Localizar o controle oficial",
+      "detail": "Solicitar orientação do servidor sobre lista, ata, registro digital ou folha utilizada na unidade."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Colher assinatura legítima",
+      "detail": "A própria pessoa assina quando o procedimento exigir; estagiário não assina por terceiro."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identificar quem compareceu",
+      "instruction": "Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Verificar a audiência",
+      "instruction": "Conferir processo, data e sala antes de orientar assinatura ou registro.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Localizar o controle oficial",
+      "instruction": "Solicitar orientação do servidor sobre lista, ata, registro digital ou folha utilizada na unidade.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Colher assinatura legítima",
+      "instruction": "A própria pessoa assina quando o procedimento exigir; estagiário não assina por terceiro.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Entregar à equipe responsável",
+      "instruction": "Conferir onde o registro fica arquivado e quem efetua lançamento ou juntada, quando aplicável. Processo e audiência corretos",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “COMPARECIMENTO E ASSINATURA”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “COMPARECIMENTO E ASSINATURA”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “COMPARECIMENTO E ASSINATURA”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “COMPARECIMENTO E ASSINATURA” exige atenção ao seguinte ponto: Identificar quem compareceu — Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "“Assinatura de assistência” é terminologia do treinamento, sem fluxo público confirmado. Não confundir comparecimento com ciência/intimação."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “COMPARECIMENTO E ASSINATURA”.",
-    "Sei explicar o primeiro aspecto: Registro De Presença.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Identificar quem compareceu”.",
+    "Consigo reconhecer quando conferir “Verificar a audiência”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p088.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=88",
   "archive": "../arquivo-tecnico/BF-10.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-10/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-10/fluxo-premium.svg",
   "source_highlights": [
-    "Presença em audiência e registro de assistência",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro.",
-    "PASSO A PASSO NO BALCÃO"
+    "Identificar quem compareceu: Confirmar se é parte, advogado, testemunha, acompanhante ou outro participante, conforme a equipe.",
+    "Verificar a audiência: Conferir processo, data e sala antes de orientar assinatura ou registro.",
+    "Localizar o controle oficial: Solicitar orientação do servidor sobre lista, ata, registro digital ou folha utilizada na unidade."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

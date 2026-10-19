@@ -47,7 +47,10 @@ function understand(){
  evidence.append(E('summary','','O que está escrito na página original?'));
  const content=E('div','source-evidence-body');
  if(Array.isArray(data.source_highlights)&&data.source_highlights.length) {
-   content.append(E('p','edu-muted','Trechos extraídos da camada textual do PDF. Use-os como referência de leitura, não como instruções suficientes para atuar.'));
+   const message=data.source_highlight_status==='camada_textual_pdf'?
+  'Tópicos de leitura organizados com base no texto nativo do PDF, sujeitos a revisão técnica. Confirme na imagem original antes de atuar.':
+  'Síntese didática provisória baseada na imagem e em OCR. NÃO é transcrição literal nem procedimento homologado: confira a página original.';
+ content.append(E('p','edu-muted',message));
    const quotes=E('ul','source-highlight-list');
    data.source_highlights.slice(0,3).forEach(txt=>quotes.append(E('li','',txt)));
    content.append(quotes);

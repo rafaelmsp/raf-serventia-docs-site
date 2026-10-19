@@ -7,35 +7,35 @@
   "page": 23,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Citação, intimação e AR - fluxo operacional” e aprender a identificar destinatários, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda comunicação processual. Observe o infográfico original e identifique os elementos relacionados a citação, intimação e ar - fluxo operacional. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Citação, intimação e AR - fluxo operacional”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda citação, intimação e ar - fluxo operacional e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Citação, intimação e AR - fluxo operacional",
-      "meaning": "Primeiro aspecto visual da página 23 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Citação, intimação e AR - fluxo operacional” e observe o contexto."
+      "term": "Distinga o ato",
+      "meaning": "Citação e intimação possuem finalidades diversas.",
+      "example": "Observe esse ponto no infográfico da página 23, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Comunicação",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Comunicação” com o tema central da aula."
+      "term": "Localize o registro",
+      "meaning": "Encontre evento de comunicação e documento associado.",
+      "example": "Observe esse ponto no infográfico da página 23, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Destinatário",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Destinatário” na fonte e verifique seu significado."
+      "term": "Leia o retorno",
+      "meaning": "AR, certidão ou mandado podem registrar sucesso, ausência ou irregularidade.",
+      "example": "Observe esse ponto no infográfico da página 23, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Comprovação",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Confira consequências",
+      "meaning": "Prazo ou providência seguinte dependem de ciência, regra e orientação.",
+      "example": "Observe esse ponto no infográfico da página 23, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Citação, intimação e AR - fluxo operacional",
-        "detail": "Na página 23, este bloco corresponde a um aspecto do assunto “Citação, intimação e AR - fluxo operacional”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Distinga o ato",
+        "detail": "Citação e intimação possuem finalidades diversas."
       },
       {
-        "title": "Comunicação",
-        "detail": "Na página 23, este bloco corresponde a um aspecto do assunto “Citação, intimação e AR - fluxo operacional”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Localize o registro",
+        "detail": "Encontre evento de comunicação e documento associado."
       },
       {
-        "title": "Destinatário",
-        "detail": "Na página 23, este bloco corresponde a um aspecto do assunto “Citação, intimação e AR - fluxo operacional”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia o retorno",
+        "detail": "AR, certidão ou mandado podem registrar sucesso, ausência ou irregularidade."
       },
       {
-        "title": "Comprovação",
-        "detail": "Na página 23, este bloco corresponde a um aspecto do assunto “Citação, intimação e AR - fluxo operacional”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira consequências",
+        "detail": "Prazo ou providência seguinte dependem de ciência, regra e orientação."
       }
     ]
   },
   "observe": [
     {
-      "title": "Citação, intimação e AR - fluxo operacional",
-      "detail": "Localize este tópico na página 23 e diga, com suas palavras, que informação ele traz."
+      "title": "Distinga o ato",
+      "detail": "Citação e intimação possuem finalidades diversas."
     },
     {
-      "title": "Comunicação",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Localize o registro",
+      "detail": "Encontre evento de comunicação e documento associado."
     },
     {
-      "title": "Destinatário",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Leia o retorno",
+      "detail": "AR, certidão ou mandado podem registrar sucesso, ausência ou irregularidade."
     },
     {
-      "title": "Comprovação",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Confira consequências",
+      "detail": "Prazo ou providência seguinte dependem de ciência, regra e orientação."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Distinga o ato",
+      "instruction": "Citação e intimação possuem finalidades diversas.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Localize o registro",
+      "instruction": "Encontre evento de comunicação e documento associado.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Leia o retorno",
+      "instruction": "AR, certidão ou mandado podem registrar sucesso, ausência ou irregularidade.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Confira consequências",
+      "instruction": "Prazo ou providência seguinte dependem de ciência, regra e orientação.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Citação, intimação e AR - fluxo operacional”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Citação, intimação e AR - fluxo operacional”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Distinga o ato e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Citação, intimação e AR - fluxo operacional”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Citação, intimação e AR - fluxo operacional” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, localize o registro, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "AR juntado não prova, sozinho, validade da comunicação ou início do prazo."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Citação, intimação e AR - fluxo operacional”.",
-    "Sei explicar o primeiro aspecto: Citação, intimação e AR - fluxo operacional.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Citação, intimação e AR - fluxo operacional”.",
+    "Sei o que conferir em “Distinga o ato”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p023.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=23",
   "archive": "../arquivo-tecnico/O-18.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-18/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-18/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Distinga o ato: Citação e intimação possuem finalidades diversas.",
+    "Localize o registro: Encontre evento de comunicação e documento associado.",
+    "Leia o retorno: AR, certidão ou mandado podem registrar sucesso, ausência ou irregularidade."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

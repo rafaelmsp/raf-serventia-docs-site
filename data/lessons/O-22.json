@@ -7,35 +7,35 @@
   "page": 27,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Retificar Autuação” e aprender a identificar restrições, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda representação e acesso. Observe o infográfico original e identifique os elementos relacionados a retificar autuação. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Retificar Autuação”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda retificar autuação e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Retificar Autuação",
-      "meaning": "Primeiro aspecto visual da página 27 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Retificar Autuação” e observe o contexto."
+      "term": "Identifique o erro",
+      "meaning": "Examine dados de autuação como classe, assunto e informações iniciais.",
+      "example": "Observe esse ponto no infográfico da página 27, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Solicitante",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Solicitante” com o tema central da aula."
+      "term": "Compare com os autos",
+      "meaning": "Verifique onde aparece divergência documental.",
+      "example": "Observe esse ponto no infográfico da página 27, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Permissão de acesso",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Permissão de acesso” na fonte e verifique seu significado."
+      "term": "Confirme alcance da correção",
+      "meaning": "Entenda se é dado cadastral ou questão que exige decisão.",
+      "example": "Observe esse ponto no infográfico da página 27, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Consulte o responsável",
+      "meaning": "Retificação efetiva requer orientação e perfil autorizado.",
+      "example": "Observe esse ponto no infográfico da página 27, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Retificar Autuação",
-        "detail": "Na página 27, este bloco corresponde a um aspecto do assunto “Retificar Autuação”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identifique o erro",
+        "detail": "Examine dados de autuação como classe, assunto e informações iniciais."
       },
       {
-        "title": "Solicitante",
-        "detail": "Na página 27, este bloco corresponde a um aspecto do assunto “Retificar Autuação”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Compare com os autos",
+        "detail": "Verifique onde aparece divergência documental."
       },
       {
-        "title": "Permissão de acesso",
-        "detail": "Na página 27, este bloco corresponde a um aspecto do assunto “Retificar Autuação”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confirme alcance da correção",
+        "detail": "Entenda se é dado cadastral ou questão que exige decisão."
       },
       {
-        "title": "Documentos",
-        "detail": "Na página 27, este bloco corresponde a um aspecto do assunto “Retificar Autuação”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Consulte o responsável",
+        "detail": "Retificação efetiva requer orientação e perfil autorizado."
       }
     ]
   },
   "observe": [
     {
-      "title": "Retificar Autuação",
-      "detail": "Localize este tópico na página 27 e diga, com suas palavras, que informação ele traz."
+      "title": "Identifique o erro",
+      "detail": "Examine dados de autuação como classe, assunto e informações iniciais."
     },
     {
-      "title": "Solicitante",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Compare com os autos",
+      "detail": "Verifique onde aparece divergência documental."
     },
     {
-      "title": "Permissão de acesso",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Confirme alcance da correção",
+      "detail": "Entenda se é dado cadastral ou questão que exige decisão."
     },
     {
-      "title": "Documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Consulte o responsável",
+      "detail": "Retificação efetiva requer orientação e perfil autorizado."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identifique o erro",
+      "instruction": "Examine dados de autuação como classe, assunto e informações iniciais.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Compare com os autos",
+      "instruction": "Verifique onde aparece divergência documental.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Confirme alcance da correção",
+      "instruction": "Entenda se é dado cadastral ou questão que exige decisão.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Consulte o responsável",
+      "instruction": "Retificação efetiva requer orientação e perfil autorizado.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Retificar Autuação”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Retificar Autuação”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Identifique o erro e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Retificar Autuação”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Retificar Autuação” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, compare com os autos, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Não alterar classe, assunto ou dados pessoais sem verificar os autos e a competência."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Retificar Autuação”.",
-    "Sei explicar o primeiro aspecto: Retificar Autuação.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Retificar Autuação”.",
+    "Sei o que conferir em “Identifique o erro”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p027.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=27",
   "archive": "../arquivo-tecnico/O-22.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-22/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-22/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Identifique o erro: Examine dados de autuação como classe, assunto e informações iniciais.",
+    "Compare com os autos: Verifique onde aparece divergência documental.",
+    "Confirme alcance da correção: Entenda se é dado cadastral ou questão que exige decisão."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

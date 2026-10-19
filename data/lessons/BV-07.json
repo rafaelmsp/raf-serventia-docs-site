@@ -7,35 +7,35 @@
   "page": 98,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Mensagem de abertura” e aprender a reconhecer etapas da chamada, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento remoto. Observe o infográfico original e identifique os elementos relacionados a mensagem de abertura. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a iniciar o atendimento remoto com cordialidade, verificação de identidade e transparência sobre regras.",
+  "plain": "O manual transcreve mensagem dirigida a advogados e cita o Ato TJ/CGJ 15/2026, mas sua redação consolidada e possíveis exceções precisam ser confirmadas antes de utilizar o texto como regra vigente.",
   "terms": [
     {
-      "term": "Modelo De Abertura Para Advogados",
-      "meaning": "Primeiro aspecto visual da página 98 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Modelo De Abertura Para Advogados” e observe o contexto."
+      "term": "Cumprimente",
+      "meaning": "Realize abertura respeitosa e apresente a natureza informativa do atendimento.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Após Comunicar As Regras",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Após Comunicar As Regras” com o tema central da aula."
+      "term": "Explique as regras documentadas",
+      "meaning": "O manual relata parâmetros de identificação OAB, câmera, tempo e processos; conferir fonte oficial atual.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "1 Confirmar câmera e documento OAB",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “1 Confirmar câmera e documento OAB” na fonte e verifique seu significado."
+      "term": "Confirme identidade",
+      "meaning": "Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "2 Identificar o processo e a demanda",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Pergunte a demanda",
+      "meaning": "Identifique processo e motivo, solicitando somente dados necessários.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Modelo De Abertura Para Advogados",
-        "detail": "Na página 98, este bloco corresponde a um aspecto do assunto “Mensagem de abertura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Cumprimente",
+        "detail": "Realize abertura respeitosa e apresente a natureza informativa do atendimento."
       },
       {
-        "title": "Após Comunicar As Regras",
-        "detail": "Na página 98, este bloco corresponde a um aspecto do assunto “Mensagem de abertura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Explique as regras documentadas",
+        "detail": "O manual relata parâmetros de identificação OAB, câmera, tempo e processos; conferir fonte oficial atual."
       },
       {
-        "title": "1 Confirmar câmera e documento OAB",
-        "detail": "Na página 98, este bloco corresponde a um aspecto do assunto “Mensagem de abertura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confirme identidade",
+        "detail": "Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado."
       },
       {
-        "title": "2 Identificar o processo e a demanda",
-        "detail": "Na página 98, este bloco corresponde a um aspecto do assunto “Mensagem de abertura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Pergunte a demanda",
+        "detail": "Identifique processo e motivo, solicitando somente dados necessários."
       }
     ]
   },
   "observe": [
     {
-      "title": "Modelo De Abertura Para Advogados",
-      "detail": "Localize este tópico na página 98 e diga, com suas palavras, que informação ele traz."
+      "title": "Cumprimente",
+      "detail": "Realize abertura respeitosa e apresente a natureza informativa do atendimento."
     },
     {
-      "title": "Após Comunicar As Regras",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Explique as regras documentadas",
+      "detail": "O manual relata parâmetros de identificação OAB, câmera, tempo e processos; conferir fonte oficial atual."
     },
     {
-      "title": "1 Confirmar câmera e documento OAB",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Confirme identidade",
+      "detail": "Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado."
     },
     {
-      "title": "2 Identificar o processo e a demanda",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Pergunte a demanda",
+      "detail": "Identifique processo e motivo, solicitando somente dados necessários."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Cumprimente",
+      "instruction": "Realize abertura respeitosa e apresente a natureza informativa do atendimento.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Explique as regras documentadas",
+      "instruction": "O manual relata parâmetros de identificação OAB, câmera, tempo e processos; conferir fonte oficial atual.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Confirme identidade",
+      "instruction": "Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Pergunte a demanda",
+      "instruction": "Identifique processo e motivo, solicitando somente dados necessários.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Proteja informações",
+      "instruction": "Se houver segredo, dúvida ou exceção, interrompa a divulgação e consulte o servidor.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Mensagem de abertura”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em “Mensagem de abertura”, o manual sugere uma interpretação, mas a rotina local pode ter mudado. O que fazer?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a norma e o responsável antes do encaminhamento.",
+        "feedback": "Correto. A fonte não basta para validar competência ou vigência.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir a folha histórica sem checar o processo.",
+        "feedback": "Incorreto: falta conferência do caso e da regra atual.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Executar sem supervisão porque consta em infográfico.",
+        "feedback": "Incorreto: ilustração didática não é autorização.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Mensagem de abertura”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: você encontra um documento referente a “Mensagem de abertura”, mas não sabe a providência autorizada.",
+    "question": "Qual conduta é mais segura?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Ler o documento, conferir o contexto e consultar o servidor responsável.",
+        "feedback": "Correto: observação antes de encaminhamento.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Abrir conclusão automaticamente.",
+        "feedback": "A conclusão depende de análise da situação e autorização.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Ignorar o pedido e não comunicar a dúvida.",
+        "feedback": "A pendência deve ser descrita ao responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a fonte sem validar vigência",
+      "correct": "Não tratar mensagem do treinamento como norma consolidada. Confirme a redação atual do ato e exceções; não exigir carteira OAB de cidadãos não advogados."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Transformar um rótulo em ordem",
+      "correct": "Ler os autos e submeter dúvidas à supervisão."
+    },
+    {
+      "mistake": "Ultrapassar o papel do estagiário",
+      "correct": "Confirmar atribuições e encaminhar a decisão ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Mensagem de abertura”.",
-    "Sei explicar o primeiro aspecto: Modelo De Abertura Para Advogados.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo diferenciar os tópicos principais de “Mensagem de abertura”.",
+    "Sei reconhecer quando a matrícula e as atribuições exigem supervisão.",
+    "Não confundo treino e decisão processual."
   ],
   "source_image": "../assets/thumbs/p098.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=98",
   "archive": "../arquivo-tecnico/BV-07.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro autoral a partir do texto nativo do PDF; matrizes e normas internas precisam de conferência atual.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BV-07/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BV-07/fluxo-premium.svg",
   "source_highlights": [
-    "Modelo para atendimento a advogado — transcrição integral",
-    "MODELO DE ABERTURA PARA ADVOGADOS",
-    "Comunicar as regras de forma cordial, padronizada e respeitosa."
+    "Cumprimente: Realize abertura respeitosa e apresente a natureza informativa do atendimento.",
+    "Explique as regras documentadas: O manual relata parâmetros de identificação OAB, câmera, tempo e processos; conferir fonte oficial atual.",
+    "Confirme identidade: Para advogados, conferir identificação conforme norma; para demais cidadãos, adotar procedimento adequado."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_special"
 }

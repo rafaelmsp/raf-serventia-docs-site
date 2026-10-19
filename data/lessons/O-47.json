@@ -7,35 +7,35 @@
   "page": 52,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Triagem para conclusão e encaminhamento” e aprender a reconhecer eventos, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda histórico do processo. Observe o infográfico original e identifique os elementos relacionados a triagem para conclusão e encaminhamento. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Distinguir providência cartorária e questão que exige apreciação judicial, usando a árvore como mapa de análise.",
+  "plain": "A fonte orienta ler contexto, fato novo, requisitos e determinações anteriores antes de considerar conclusão. A decisão final é supervisionada.",
   "terms": [
     {
-      "term": "Módulo Complementar",
-      "meaning": "Primeiro aspecto visual da página 52 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Módulo Complementar” e observe o contexto."
+      "term": "01 — Ler o histórico",
+      "meaning": "Conferir classe, fase, decisão e tarefa atual.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Triagem E Encaminhamento",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Triagem E Encaminhamento” com o tema central da aula."
+      "term": "02 — Identificar o fato novo",
+      "meaning": "Reconhecer petição, contestação, AR, tutela, recurso ou incidente.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Ler O Histórico",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Ler O Histórico” na fonte e verifique seu significado."
+      "term": "03 — Conferir requisitos",
+      "meaning": "Examinar documentos, representação, comunicação e prazos.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Identificar O Fato Novo",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "04 — Verificar ato já determinado",
+      "meaning": "Observar se há ordem clara e perfil de execução autorizado.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     }
   ],
   "scene": {
@@ -43,111 +43,152 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Módulo Complementar",
-        "detail": "Na página 52, este bloco corresponde a um aspecto do assunto “Triagem para conclusão e encaminhamento”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "01 — Ler o histórico",
+        "detail": "Conferir classe, fase, decisão e tarefa atual."
       },
       {
-        "title": "Triagem E Encaminhamento",
-        "detail": "Na página 52, este bloco corresponde a um aspecto do assunto “Triagem para conclusão e encaminhamento”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "02 — Identificar o fato novo",
+        "detail": "Reconhecer petição, contestação, AR, tutela, recurso ou incidente."
       },
       {
-        "title": "Ler O Histórico",
-        "detail": "Na página 52, este bloco corresponde a um aspecto do assunto “Triagem para conclusão e encaminhamento”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "03 — Conferir requisitos",
+        "detail": "Examinar documentos, representação, comunicação e prazos."
       },
       {
-        "title": "Identificar O Fato Novo",
-        "detail": "Na página 52, este bloco corresponde a um aspecto do assunto “Triagem para conclusão e encaminhamento”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "04 — Verificar ato já determinado",
+        "detail": "Observar se há ordem clara e perfil de execução autorizado."
       }
     ]
   },
   "observe": [
     {
-      "title": "Módulo Complementar",
-      "detail": "Localize este tópico na página 52 e diga, com suas palavras, que informação ele traz."
+      "title": "01 — Ler o histórico",
+      "detail": "Conferir classe, fase, decisão e tarefa atual."
     },
     {
-      "title": "Triagem E Encaminhamento",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "02 — Identificar o fato novo",
+      "detail": "Reconhecer petição, contestação, AR, tutela, recurso ou incidente."
     },
     {
-      "title": "Ler O Histórico",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "03 — Conferir requisitos",
+      "detail": "Examinar documentos, representação, comunicação e prazos."
     },
     {
-      "title": "Identificar O Fato Novo",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "04 — Verificar ato já determinado",
+      "detail": "Observar se há ordem clara e perfil de execução autorizado."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "01 — Ler o histórico",
+      "instruction": "Conferir classe, fase, decisão e tarefa atual.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "02 — Identificar o fato novo",
+      "instruction": "Reconhecer petição, contestação, AR, tutela, recurso ou incidente.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "03 — Conferir requisitos",
+      "instruction": "Examinar documentos, representação, comunicação e prazos.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "04 — Verificar ato já determinado",
+      "instruction": "Observar se há ordem clara e perfil de execução autorizado.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "05 — Verificar necessidade de intimação",
+      "instruction": "Identificar lacuna real e rotina válida, sem presumir PAC.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "06 — Avaliar necessidade de decisão",
+      "instruction": "Submeter ao responsável quando a questão exigir apreciação judicial.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "07 — Encaminhar e conferir",
+      "instruction": "Conferir a matriz e o resultado sob a responsabilidade da unidade.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Triagem para conclusão e encaminhamento”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em “Triagem para conclusão e encaminhamento”, o manual sugere uma interpretação, mas a rotina local pode ter mudado. O que fazer?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a norma e o responsável antes do encaminhamento.",
+        "feedback": "Correto. A fonte não basta para validar competência ou vigência.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir a folha histórica sem checar o processo.",
+        "feedback": "Incorreto: falta conferência do caso e da regra atual.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Executar sem supervisão porque consta em infográfico.",
+        "feedback": "Incorreto: ilustração didática não é autorização.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Triagem para conclusão e encaminhamento”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: você encontra um documento referente a “Triagem para conclusão e encaminhamento”, mas não sabe a providência autorizada.",
+    "question": "Qual conduta é mais segura?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Ler o documento, conferir o contexto e consultar o servidor responsável.",
+        "feedback": "Correto: observação antes de encaminhamento.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Abrir conclusão automaticamente.",
+        "feedback": "A conclusão depende de análise da situação e autorização.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Ignorar o pedido e não comunicar a dúvida.",
+        "feedback": "A pendência deve ser descrita ao responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a fonte sem validar vigência",
+      "correct": "A etiqueta e o histórico isolados não determinam conclusão; não usar logins de terceiros ou acessar documentos sigilosos sem permissão."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Transformar um rótulo em ordem",
+      "correct": "Ler os autos e submeter dúvidas à supervisão."
+    },
+    {
+      "mistake": "Ultrapassar o papel do estagiário",
+      "correct": "Confirmar atribuições e encaminhar a decisão ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Triagem para conclusão e encaminhamento”.",
-    "Sei explicar o primeiro aspecto: Módulo Complementar.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo diferenciar os tópicos principais de “Triagem para conclusão e encaminhamento”.",
+    "Sei reconhecer quando a matrícula e as atribuições exigem supervisão.",
+    "Não confundo treino e decisão processual."
   ],
   "source_image": "../assets/thumbs/p052.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=52",
   "archive": "../arquivo-tecnico/O-47.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro autoral a partir do texto nativo do PDF; matrizes e normas internas precisam de conferência atual.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-47/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-47/fluxo-premium.svg",
   "source_highlights": [
-    "Árvore de decisão: providência cartorária ou apreciação judicial?",
-    "Finalidade: orientar a sequência de conferência no PJe, sem substituir a decisão do servidor responsável.",
-    "Classe, fase, última decisão e tarefa atual."
+    "01 — Ler o histórico: Conferir classe, fase, decisão e tarefa atual.",
+    "02 — Identificar o fato novo: Reconhecer petição, contestação, AR, tutela, recurso ou incidente.",
+    "03 — Conferir requisitos: Examinar documentos, representação, comunicação e prazos."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_special"
 }

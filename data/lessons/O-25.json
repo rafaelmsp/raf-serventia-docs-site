@@ -7,35 +7,35 @@
   "page": 30,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Certificação de trânsito em julgado no JEC” e aprender a identificar marcos, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda sequência processual. Observe o infográfico original e identifique os elementos relacionados a certificação de trânsito em julgado no jec. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Certificação de trânsito em julgado no JEC”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda certificação de trânsito em julgado no jec e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Certificação de trânsito em julgado no JEC",
-      "meaning": "Primeiro aspecto visual da página 30 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Certificação de trânsito em julgado no JEC” e observe o contexto."
+      "term": "Localize a sentença",
+      "meaning": "Confira que a decisão está nos autos e a fase correspondente.",
+      "example": "Observe esse ponto no infográfico da página 30, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Marco inicial",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Marco inicial” com o tema central da aula."
+      "term": "Verifique comunicações",
+      "meaning": "Leia registros de intimação pertinentes às partes.",
+      "example": "Observe esse ponto no infográfico da página 30, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Movimentações",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Movimentações” na fonte e verifique seu significado."
+      "term": "Examine prazos e recursos",
+      "meaning": "Confira contagem, manifestações e eventuais pendências.",
+      "example": "Observe esse ponto no infográfico da página 30, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Prazo",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Submeta à certificação",
+      "meaning": "Certificar trânsito em julgado é providência sujeita a conferência e competência.",
+      "example": "Observe esse ponto no infográfico da página 30, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Certificação de trânsito em julgado no JEC",
-        "detail": "Na página 30, este bloco corresponde a um aspecto do assunto “Certificação de trânsito em julgado no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Localize a sentença",
+        "detail": "Confira que a decisão está nos autos e a fase correspondente."
       },
       {
-        "title": "Marco inicial",
-        "detail": "Na página 30, este bloco corresponde a um aspecto do assunto “Certificação de trânsito em julgado no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Verifique comunicações",
+        "detail": "Leia registros de intimação pertinentes às partes."
       },
       {
-        "title": "Movimentações",
-        "detail": "Na página 30, este bloco corresponde a um aspecto do assunto “Certificação de trânsito em julgado no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Examine prazos e recursos",
+        "detail": "Confira contagem, manifestações e eventuais pendências."
       },
       {
-        "title": "Prazo",
-        "detail": "Na página 30, este bloco corresponde a um aspecto do assunto “Certificação de trânsito em julgado no JEC”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Submeta à certificação",
+        "detail": "Certificar trânsito em julgado é providência sujeita a conferência e competência."
       }
     ]
   },
   "observe": [
     {
-      "title": "Certificação de trânsito em julgado no JEC",
-      "detail": "Localize este tópico na página 30 e diga, com suas palavras, que informação ele traz."
+      "title": "Localize a sentença",
+      "detail": "Confira que a decisão está nos autos e a fase correspondente."
     },
     {
-      "title": "Marco inicial",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Verifique comunicações",
+      "detail": "Leia registros de intimação pertinentes às partes."
     },
     {
-      "title": "Movimentações",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Examine prazos e recursos",
+      "detail": "Confira contagem, manifestações e eventuais pendências."
     },
     {
-      "title": "Prazo",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Submeta à certificação",
+      "detail": "Certificar trânsito em julgado é providência sujeita a conferência e competência."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Localize a sentença",
+      "instruction": "Confira que a decisão está nos autos e a fase correspondente.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Verifique comunicações",
+      "instruction": "Leia registros de intimação pertinentes às partes.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Examine prazos e recursos",
+      "instruction": "Confira contagem, manifestações e eventuais pendências.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Submeta à certificação",
+      "instruction": "Certificar trânsito em julgado é providência sujeita a conferência e competência.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Certificação de trânsito em julgado no JEC”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Certificação de trânsito em julgado no JEC”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Localize a sentença e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Certificação de trânsito em julgado no JEC”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Certificação de trânsito em julgado no JEC” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, verifique comunicações, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Não certificar trânsito em julgado sem verificar os recursos, prazos e outras pendências."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Certificação de trânsito em julgado no JEC”.",
-    "Sei explicar o primeiro aspecto: Certificação de trânsito em julgado no JEC.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Certificação de trânsito em julgado no JEC”.",
+    "Sei o que conferir em “Localize a sentença”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p030.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=30",
   "archive": "../arquivo-tecnico/O-25.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-25/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-25/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Localize a sentença: Confira que a decisão está nos autos e a fase correspondente.",
+    "Verifique comunicações: Leia registros de intimação pertinentes às partes.",
+    "Examine prazos e recursos: Confira contagem, manifestações e eventuais pendências."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

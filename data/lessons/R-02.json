@@ -7,35 +7,35 @@
   "page": 74,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Checklist final da leitura” e aprender a interpretar dados, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda indicadores de acompanhamento. Observe o infográfico original e identifique os elementos relacionados a checklist final da leitura. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender como reconhecer e conferir “Checklist final da leitura” no histórico, sem executar mudanças sem autorização.",
+  "plain": "O infográfico aborda checklist final da leitura sob o ponto de vista de leitura do processo. As etapas abaixo resumem a análise documentada, mas precisam de revisão do texto original e da rotina vigente.",
   "terms": [
     {
-      "term": "Checklist final da leitura",
-      "meaning": "Primeiro aspecto visual da página 74 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Checklist final da leitura” e observe o contexto."
+      "term": "Identificação",
+      "meaning": "Reconheça fase, partes e objeto do processo.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 74."
     },
     {
-      "term": "Indicadores",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Indicadores” com o tema central da aula."
+      "term": "Último ato",
+      "meaning": "Localize decisão, comunicação e prazo relacionado.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 74."
     },
     {
-      "term": "Período analisado",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Período analisado” na fonte e verifique seu significado."
+      "term": "Conferência de resposta",
+      "meaning": "Compare manifestação, documentos e cumprimento.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 74."
     },
     {
-      "term": "Proporções",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhamento",
+      "meaning": "Descreva o que aconteceu, o que foi pedido e o que falta.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 74."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Checklist final da leitura",
-        "detail": "Na página 74, este bloco corresponde a um aspecto do assunto “Checklist final da leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificação",
+        "detail": "Reconheça fase, partes e objeto do processo."
       },
       {
-        "title": "Indicadores",
-        "detail": "Na página 74, este bloco corresponde a um aspecto do assunto “Checklist final da leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Último ato",
+        "detail": "Localize decisão, comunicação e prazo relacionado."
       },
       {
-        "title": "Período analisado",
-        "detail": "Na página 74, este bloco corresponde a um aspecto do assunto “Checklist final da leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Conferência de resposta",
+        "detail": "Compare manifestação, documentos e cumprimento."
       },
       {
-        "title": "Proporções",
-        "detail": "Na página 74, este bloco corresponde a um aspecto do assunto “Checklist final da leitura”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhamento",
+        "detail": "Descreva o que aconteceu, o que foi pedido e o que falta."
       }
     ]
   },
   "observe": [
     {
-      "title": "Checklist final da leitura",
-      "detail": "Localize este tópico na página 74 e diga, com suas palavras, que informação ele traz."
+      "title": "Identificação",
+      "detail": "Reconheça fase, partes e objeto do processo."
     },
     {
-      "title": "Indicadores",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Último ato",
+      "detail": "Localize decisão, comunicação e prazo relacionado."
     },
     {
-      "title": "Período analisado",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Conferência de resposta",
+      "detail": "Compare manifestação, documentos e cumprimento."
     },
     {
-      "title": "Proporções",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhamento",
+      "detail": "Descreva o que aconteceu, o que foi pedido e o que falta."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identificação",
+      "instruction": "Reconheça fase, partes e objeto do processo.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Último ato",
+      "instruction": "Localize decisão, comunicação e prazo relacionado.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Conferência de resposta",
+      "instruction": "Compare manifestação, documentos e cumprimento.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Encaminhamento",
+      "instruction": "Descreva o que aconteceu, o que foi pedido e o que falta.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Checklist final da leitura”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Ao estudar “Checklist final da leitura”, o manual mostra um caminho de análise. Como proceder diante de dúvidas?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Confirmar o registro e a orientação do servidor antes de agir.",
+        "feedback": "Correto: a segurança exige fonte e supervisão.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar automaticamente a movimentação sugerida no desenho.",
+        "feedback": "A imagem não concede autorização.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar uma possível pendência documental.",
+        "feedback": "A pendência precisa ser examinada.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Checklist final da leitura”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de conferência: durante “Checklist final da leitura”, o histórico aponta um fato e você precisa interpretar sua relevância antes de qualquer encaminhamento.",
+    "question": "Qual é a melhor sequência de aprendizagem?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Primeiro identificação, depois último ato, conferindo os autos.",
+        "feedback": "Esse é um caminho seguro de estudo.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Pular a leitura e escolher diretamente a próxima tarefa.",
+        "feedback": "Não: a árvore e os documentos precisam de conferência.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Alterar a situação da audiência ou do processo sem autorização.",
+        "feedback": "A atuação depende de perfil e orientação do responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Confundir leitura com autorização",
+      "correct": "O checklist é leitura orientada; a providência precisa observar a autorização da unidade."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar os documentos e a fase",
+      "correct": "Consultar registros e decisões anteriores antes de concluir."
+    },
+    {
+      "mistake": "Decidir a pauta sem competência",
+      "correct": "Submeter a dúvida ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Checklist final da leitura”.",
-    "Sei explicar o primeiro aspecto: Checklist final da leitura.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o objetivo de “Checklist final da leitura”.",
+    "Consigo reconhecer o ponto de estudo “Identificação”.",
+    "Consigo distinguir conferência documental de decisão processual."
   ],
   "source_image": "../assets/thumbs/p074.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=74",
   "archive": "../arquivo-tecnico/R-02.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro explicativo criado por interpretação didática de página com OCR provisório; ainda exige conferência visual e normativa.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/R-02/ilustracao-premium.svg",
   "visual_map": "../assets/learning/R-02/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Identificação: Reconheça fase, partes e objeto do processo.",
+    "Último ato: Localize decisão, comunicação e prazo relacionado.",
+    "Conferência de resposta: Compare manifestação, documentos e cumprimento."
+  ],
+  "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
+  "authored_batch": "ocr_interpreted_guided"
 }

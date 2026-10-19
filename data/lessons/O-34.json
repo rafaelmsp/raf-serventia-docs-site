@@ -7,35 +7,35 @@
   "page": 39,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Expedição de Carta Precatória” e aprender a distinguir peças, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda documentação do processo. Observe o infográfico original e identifique os elementos relacionados a expedição de carta precatória. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Expedição de Carta Precatória”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda expedição de carta precatória e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Expedição de Carta Precatória",
-      "meaning": "Primeiro aspecto visual da página 39 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Expedição de Carta Precatória” e observe o contexto."
+      "term": "Leia a ordem",
+      "meaning": "Verifique se há determinação de expedir carta precatória para outra unidade.",
+      "example": "Observe esse ponto no infográfico da página 39, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Peça/documento",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Peça/documento” com o tema central da aula."
+      "term": "Reconheça o destino",
+      "meaning": "Confira juízo deprecado, diligência e elementos necessários.",
+      "example": "Observe esse ponto no infográfico da página 39, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Conferência",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Conferência” na fonte e verifique seu significado."
+      "term": "Identifique peças",
+      "meaning": "Observe quais documentos acompanham o pedido de cooperação.",
+      "example": "Observe esse ponto no infográfico da página 39, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Informação registrada",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Submeta a expedição",
+      "meaning": "Assinatura, envio e cadastro dependem do perfil e do procedimento vigente.",
+      "example": "Observe esse ponto no infográfico da página 39, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Expedição de Carta Precatória",
-        "detail": "Na página 39, este bloco corresponde a um aspecto do assunto “Expedição de Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia a ordem",
+        "detail": "Verifique se há determinação de expedir carta precatória para outra unidade."
       },
       {
-        "title": "Peça/documento",
-        "detail": "Na página 39, este bloco corresponde a um aspecto do assunto “Expedição de Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Reconheça o destino",
+        "detail": "Confira juízo deprecado, diligência e elementos necessários."
       },
       {
-        "title": "Conferência",
-        "detail": "Na página 39, este bloco corresponde a um aspecto do assunto “Expedição de Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identifique peças",
+        "detail": "Observe quais documentos acompanham o pedido de cooperação."
       },
       {
-        "title": "Informação registrada",
-        "detail": "Na página 39, este bloco corresponde a um aspecto do assunto “Expedição de Carta Precatória”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Submeta a expedição",
+        "detail": "Assinatura, envio e cadastro dependem do perfil e do procedimento vigente."
       }
     ]
   },
   "observe": [
     {
-      "title": "Expedição de Carta Precatória",
-      "detail": "Localize este tópico na página 39 e diga, com suas palavras, que informação ele traz."
+      "title": "Leia a ordem",
+      "detail": "Verifique se há determinação de expedir carta precatória para outra unidade."
     },
     {
-      "title": "Peça/documento",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Reconheça o destino",
+      "detail": "Confira juízo deprecado, diligência e elementos necessários."
     },
     {
-      "title": "Conferência",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Identifique peças",
+      "detail": "Observe quais documentos acompanham o pedido de cooperação."
     },
     {
-      "title": "Informação registrada",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Submeta a expedição",
+      "detail": "Assinatura, envio e cadastro dependem do perfil e do procedimento vigente."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Leia a ordem",
+      "instruction": "Verifique se há determinação de expedir carta precatória para outra unidade.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Reconheça o destino",
+      "instruction": "Confira juízo deprecado, diligência e elementos necessários.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Identifique peças",
+      "instruction": "Observe quais documentos acompanham o pedido de cooperação.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Submeta a expedição",
+      "instruction": "Assinatura, envio e cadastro dependem do perfil e do procedimento vigente.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Expedição de Carta Precatória”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Expedição de Carta Precatória”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Leia a ordem e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Expedição de Carta Precatória”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Expedição de Carta Precatória” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, reconheça o destino, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Não emitir ou assinar carta precatória por iniciativa própria."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Expedição de Carta Precatória”.",
-    "Sei explicar o primeiro aspecto: Expedição de Carta Precatória.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Expedição de Carta Precatória”.",
+    "Sei o que conferir em “Leia a ordem”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p039.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=39",
   "archive": "../arquivo-tecnico/O-34.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-34/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-34/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Leia a ordem: Verifique se há determinação de expedir carta precatória para outra unidade.",
+    "Reconheça o destino: Confira juízo deprecado, diligência e elementos necessários.",
+    "Identifique peças: Observe quais documentos acompanham o pedido de cooperação."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

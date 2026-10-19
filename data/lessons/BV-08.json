@@ -7,35 +7,35 @@
   "page": 99,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Consultar PJe” e aprender a reconhecer etapas da chamada, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento remoto. Observe o infográfico original e identifique os elementos relacionados a consultar pje. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “Consultar PJe”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Leitura da árvore e informações que podem ser prestadas O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Finalidade Operacional",
-      "meaning": "Primeiro aspecto visual da página 99 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Finalidade Operacional” e observe o contexto."
+      "term": "RECEBER IDENTIFICADOR",
+      "meaning": "Pedir número do processo; evitar nome/CPF quando o número for suficiente.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Consultar PJe”."
     },
     {
-      "term": "Regra De Atuação",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Regra De Atuação” com o tema central da aula."
+      "term": "LOCALIZAR NOS AUTOS",
+      "meaning": "Confirmar unidade, classe, fase e último ato relevante em consulta autorizada.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Consultar PJe”."
     },
     {
-      "term": "Status Rotina De Consulta Segurança",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Status Rotina De Consulta Segurança” na fonte e verifique seu significado."
+      "term": "CONFERIR A DEMANDA",
+      "meaning": "Verificar audiência, intimação, juntada ou resultado mencionado pelo solicitante.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Consultar PJe”."
     },
     {
-      "term": "Receber Identificador",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "INFORMAR COM PRECISÃO",
+      "meaning": "Descrever o que consta nos autos, sem prognóstico de decisão ou compromisso de prazo.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Consultar PJe”."
     }
   ],
   "scene": {
@@ -43,111 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Finalidade Operacional",
-        "detail": "Na página 99, este bloco corresponde a um aspecto do assunto “Consultar PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "RECEBER IDENTIFICADOR",
+        "detail": "Pedir número do processo; evitar nome/CPF quando o número for suficiente."
       },
       {
-        "title": "Regra De Atuação",
-        "detail": "Na página 99, este bloco corresponde a um aspecto do assunto “Consultar PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "LOCALIZAR NOS AUTOS",
+        "detail": "Confirmar unidade, classe, fase e último ato relevante em consulta autorizada."
       },
       {
-        "title": "Status Rotina De Consulta Segurança",
-        "detail": "Na página 99, este bloco corresponde a um aspecto do assunto “Consultar PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "CONFERIR A DEMANDA",
+        "detail": "Verificar audiência, intimação, juntada ou resultado mencionado pelo solicitante."
       },
       {
-        "title": "Receber Identificador",
-        "detail": "Na página 99, este bloco corresponde a um aspecto do assunto “Consultar PJe”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "INFORMAR COM PRECISÃO",
+        "detail": "Descrever o que consta nos autos, sem prognóstico de decisão ou compromisso de prazo."
       }
     ]
   },
   "observe": [
     {
-      "title": "Finalidade Operacional",
-      "detail": "Localize este tópico na página 99 e diga, com suas palavras, que informação ele traz."
+      "title": "RECEBER IDENTIFICADOR",
+      "detail": "Pedir número do processo; evitar nome/CPF quando o número for suficiente."
     },
     {
-      "title": "Regra De Atuação",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "LOCALIZAR NOS AUTOS",
+      "detail": "Confirmar unidade, classe, fase e último ato relevante em consulta autorizada."
     },
     {
-      "title": "Status Rotina De Consulta Segurança",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "CONFERIR A DEMANDA",
+      "detail": "Verificar audiência, intimação, juntada ou resultado mencionado pelo solicitante."
     },
     {
-      "title": "Receber Identificador",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "INFORMAR COM PRECISÃO",
+      "detail": "Descrever o que consta nos autos, sem prognóstico de decisão ou compromisso de prazo."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "RECEBER IDENTIFICADOR",
+      "instruction": "Pedir número do processo; evitar nome/CPF quando o número for suficiente.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "LOCALIZAR NOS AUTOS",
+      "instruction": "Confirmar unidade, classe, fase e último ato relevante em consulta autorizada.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "CONFERIR A DEMANDA",
+      "instruction": "Verificar audiência, intimação, juntada ou resultado mencionado pelo solicitante.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "INFORMAR COM PRECISÃO",
+      "instruction": "Descrever o que consta nos autos, sem prognóstico de decisão ou compromisso de prazo.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Consultar PJe”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “Consultar PJe”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Consultar PJe”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “Consultar PJe” exige atenção ao seguinte ponto: RECEBER IDENTIFICADOR — Pedir número do processo; evitar nome/CPF quando o número for suficiente.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "Consultar informações não equivale a certificar, peticionar ou movimentar o processo."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Consultar PJe”.",
-    "Sei explicar o primeiro aspecto: Finalidade Operacional.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “RECEBER IDENTIFICADOR”.",
+    "Consigo reconhecer quando conferir “LOCALIZAR NOS AUTOS”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p099.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=99",
   "archive": "../arquivo-tecnico/BV-08.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BV-08/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BV-08/fluxo-premium.svg",
   "source_highlights": [
-    "Leitura da árvore e informações que podem ser prestadas",
-    "Localizar dados públicos/processuais pertinentes",
-    "sem praticar movimentações não autorizadas."
+    "RECEBER IDENTIFICADOR: Pedir número do processo; evitar nome/CPF quando o número for suficiente.",
+    "LOCALIZAR NOS AUTOS: Confirmar unidade, classe, fase e último ato relevante em consulta autorizada.",
+    "CONFERIR A DEMANDA: Verificar audiência, intimação, juntada ou resultado mencionado pelo solicitante."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

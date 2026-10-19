@@ -7,35 +7,35 @@
   "page": 90,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “PRIORIDADES E LIMITES DE ATUAÇÃO” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a prioridades e limites de atuação. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “PRIORIDADES E LIMITES DE ATUAÇÃO”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "PRIORIDADES E LIMITES DE O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Atendimento Seguro",
-      "meaning": "Primeiro aspecto visual da página 90 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Atendimento Seguro” e observe o contexto."
+      "term": "Garantir acolhimento",
+      "meaning": "Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”."
     },
     {
-      "term": "Prioridades E Limites De",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Prioridades E Limites De” com o tema central da aula."
+      "term": "Proteger informações",
+      "meaning": "Reduzir exposição de dados, especialmente saúde, documentos de identificação e autos sigilosos.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”."
     },
     {
-      "term": "Atuação",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Atuação” na fonte e verifique seu significado."
+      "term": "Respeitar competências",
+      "meaning": "Diferenciar informação, conferência e preparação de atos de decisões e operações reservadas ao servidor.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhar situações incomuns",
+      "meaning": "Urgência, conflito, pessoa vulnerável, problema técnico ou dúvida jurídica devem ser levados ao responsável.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Atendimento Seguro",
-        "detail": "Na página 90, este bloco corresponde a um aspecto do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Garantir acolhimento",
+        "detail": "Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório."
       },
       {
-        "title": "Prioridades E Limites De",
-        "detail": "Na página 90, este bloco corresponde a um aspecto do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Proteger informações",
+        "detail": "Reduzir exposição de dados, especialmente saúde, documentos de identificação e autos sigilosos."
       },
       {
-        "title": "Atuação",
-        "detail": "Na página 90, este bloco corresponde a um aspecto do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Respeitar competências",
+        "detail": "Diferenciar informação, conferência e preparação de atos de decisões e operações reservadas ao servidor."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 90, este bloco corresponde a um aspecto do assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhar situações incomuns",
+        "detail": "Urgência, conflito, pessoa vulnerável, problema técnico ou dúvida jurídica devem ser levados ao responsável."
       }
     ]
   },
   "observe": [
     {
-      "title": "Atendimento Seguro",
-      "detail": "Localize este tópico na página 90 e diga, com suas palavras, que informação ele traz."
+      "title": "Garantir acolhimento",
+      "detail": "Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório."
     },
     {
-      "title": "Prioridades E Limites De",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Proteger informações",
+      "detail": "Reduzir exposição de dados, especialmente saúde, documentos de identificação e autos sigilosos."
     },
     {
-      "title": "Atuação",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Respeitar competências",
+      "detail": "Diferenciar informação, conferência e preparação de atos de decisões e operações reservadas ao servidor."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhar situações incomuns",
+      "detail": "Urgência, conflito, pessoa vulnerável, problema técnico ou dúvida jurídica devem ser levados ao responsável."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Garantir acolhimento",
+      "instruction": "Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Proteger informações",
+      "instruction": "Reduzir exposição de dados, especialmente saúde, documentos de identificação e autos sigilosos.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Respeitar competências",
+      "instruction": "Diferenciar informação, conferência e preparação de atos de decisões e operações reservadas ao servidor.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Encaminhar situações incomuns",
+      "instruction": "Urgência, conflito, pessoa vulnerável, problema técnico ou dúvida jurídica devem ser levados ao responsável.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Finalizar de modo rastreável",
+      "instruction": "Registrar atendimento ou orientação quando houver sistema e autorização; não prometer resultado judicial. Prioridade e acessibilidade",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “PRIORIDADES E LIMITES DE ATUAÇÃO”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “PRIORIDADES E LIMITES DE ATUAÇÃO”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “PRIORIDADES E LIMITES DE ATUAÇÃO”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “PRIORIDADES E LIMITES DE ATUAÇÃO” exige atenção ao seguinte ponto: Garantir acolhimento — Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "A chefia pode designar estagiário para atendimento, sempre sob supervisão de servidor; não usar credenciais de terceiros."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “PRIORIDADES E LIMITES DE ATUAÇÃO”.",
-    "Sei explicar o primeiro aspecto: Atendimento Seguro.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Garantir acolhimento”.",
+    "Consigo reconhecer quando conferir “Proteger informações”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p090.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=90",
   "archive": "../arquivo-tecnico/BF-12.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-12/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-12/fluxo-premium.svg",
   "source_highlights": [
-    "PRIORIDADES E LIMITES DE",
-    "Segurança, acessibilidade, LGPD e encaminhamento",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro."
+    "Garantir acolhimento: Observar prioridades legais, acessibilidade, comunicação clara e tratamento não discriminatório.",
+    "Proteger informações: Reduzir exposição de dados, especialmente saúde, documentos de identificação e autos sigilosos.",
+    "Respeitar competências: Diferenciar informação, conferência e preparação de atos de decisões e operações reservadas ao servidor."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

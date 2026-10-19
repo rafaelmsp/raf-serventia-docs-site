@@ -7,35 +7,35 @@
   "page": 85,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “NADAC / DIGITALIZAÇÃO E JUNTADA” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a nadac / digitalização e juntada. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “NADAC / DIGITALIZAÇÃO E JUNTADA”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "NADAC — DIGITALIZAÇÃO E O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Digitalização",
-      "meaning": "Primeiro aspecto visual da página 85 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Digitalização” e observe o contexto."
+      "term": "Conferir a documentação",
+      "meaning": "Identificar petição, anexos e número processual, quando houver.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”."
     },
     {
-      "term": "Nadac Digitalização E",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Nadac Digitalização E” com o tema central da aula."
+      "term": "Encaminhar ao serviço",
+      "meaning": "Conforme orientação local, direcionar a pessoa à unidade de recebimento/digitalização competente.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”."
     },
     {
-      "term": "Juntada",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Juntada” na fonte e verifique seu significado."
+      "term": "Executar sob atribuição própria",
+      "meaning": "A digitalização e inserção no sistema pertencem ao setor e perfil autorizados; estagiário não assume função alheia.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Verificar a vinculação",
+      "meaning": "Conferir, quando autorizado, se foi gerado protocolo/juntada e se os documentos estão legíveis.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Digitalização",
-        "detail": "Na página 85, este bloco corresponde a um aspecto do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Conferir a documentação",
+        "detail": "Identificar petição, anexos e número processual, quando houver."
       },
       {
-        "title": "Nadac Digitalização E",
-        "detail": "Na página 85, este bloco corresponde a um aspecto do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhar ao serviço",
+        "detail": "Conforme orientação local, direcionar a pessoa à unidade de recebimento/digitalização competente."
       },
       {
-        "title": "Juntada",
-        "detail": "Na página 85, este bloco corresponde a um aspecto do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Executar sob atribuição própria",
+        "detail": "A digitalização e inserção no sistema pertencem ao setor e perfil autorizados; estagiário não assume função alheia."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 85, este bloco corresponde a um aspecto do assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Verificar a vinculação",
+        "detail": "Conferir, quando autorizado, se foi gerado protocolo/juntada e se os documentos estão legíveis."
       }
     ]
   },
   "observe": [
     {
-      "title": "Digitalização",
-      "detail": "Localize este tópico na página 85 e diga, com suas palavras, que informação ele traz."
+      "title": "Conferir a documentação",
+      "detail": "Identificar petição, anexos e número processual, quando houver."
     },
     {
-      "title": "Nadac Digitalização E",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Encaminhar ao serviço",
+      "detail": "Conforme orientação local, direcionar a pessoa à unidade de recebimento/digitalização competente."
     },
     {
-      "title": "Juntada",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Executar sob atribuição própria",
+      "detail": "A digitalização e inserção no sistema pertencem ao setor e perfil autorizados; estagiário não assume função alheia."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Verificar a vinculação",
+      "detail": "Conferir, quando autorizado, se foi gerado protocolo/juntada e se os documentos estão legíveis."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Conferir a documentação",
+      "instruction": "Identificar petição, anexos e número processual, quando houver.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Encaminhar ao serviço",
+      "instruction": "Conforme orientação local, direcionar a pessoa à unidade de recebimento/digitalização competente.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Executar sob atribuição própria",
+      "instruction": "A digitalização e inserção no sistema pertencem ao setor e perfil autorizados; estagiário não assume função alheia.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Verificar a vinculação",
+      "instruction": "Conferir, quando autorizado, se foi gerado protocolo/juntada e se os documentos estão legíveis.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Orientar sobre originais",
+      "instruction": "Seguir a norma específica sobre devolução do documento e eventual comprovante de entrega. Petição e anexos completos",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “NADAC / DIGITALIZAÇÃO E JUNTADA”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “NADAC / DIGITALIZAÇÃO E JUNTADA”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “NADAC / DIGITALIZAÇÃO E JUNTADA”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “NADAC / DIGITALIZAÇÃO E JUNTADA” exige atenção ao seguinte ponto: Conferir a documentação — Identificar petição, anexos e número processual, quando houver.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "O art. 327, II, prevê restituição imediata da peça ao interessado em certas petições intercorrentes. Confirmar o fluxo do setor."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “NADAC / DIGITALIZAÇÃO E JUNTADA”.",
-    "Sei explicar o primeiro aspecto: Digitalização.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Conferir a documentação”.",
+    "Consigo reconhecer quando conferir “Encaminhar ao serviço”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p085.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=85",
   "archive": "../arquivo-tecnico/BF-07.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-07/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-07/fluxo-premium.svg",
   "source_highlights": [
-    "NADAC — DIGITALIZAÇÃO E",
-    "Da entrega física à inserção no processo eletrônico",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro."
+    "Conferir a documentação: Identificar petição, anexos e número processual, quando houver.",
+    "Encaminhar ao serviço: Conforme orientação local, direcionar a pessoa à unidade de recebimento/digitalização competente.",
+    "Executar sob atribuição própria: A digitalização e inserção no sistema pertencem ao setor e perfil autorizados; estagiário não assume função alheia."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

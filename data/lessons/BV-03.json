@@ -7,35 +7,35 @@
   "page": 94,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Abrir aplicativo Balcão” e aprender a reconhecer etapas da chamada, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento remoto. Observe o infográfico original e identifique os elementos relacionados a abrir aplicativo balcão. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “Abrir aplicativo Balcão”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Localizar a interface da fila antes de usar o Teams O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Abrir O Aplicativo Balcão",
-      "meaning": "Primeiro aspecto visual da página 94 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Abrir O Aplicativo Balcão” e observe o contexto."
+      "term": "ABRIR SISTEMA",
+      "meaning": "Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Abrir aplicativo Balcão”."
     },
     {
-      "term": "Finalidade Operacional",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Finalidade Operacional” com o tema central da aula."
+      "term": "CONFERIR UNIDADE",
+      "meaning": "Verificar se a unidade exibida é o 2º JEC de Duque de Caxias.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Abrir aplicativo Balcão”."
     },
     {
-      "term": "Regra De Atuação",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Regra De Atuação” na fonte e verifique seu significado."
+      "term": "VERIFICAR ESTADO",
+      "meaning": "Confirmar que o posto está disponível no aplicativo, conforme escala e orientação.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Abrir aplicativo Balcão”."
     },
     {
-      "term": "Status Rotina Local Relatada",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "AGUARDAR SOLICITAÇÃO",
+      "meaning": "Observar a fila visível sem manipular processos ou abrir reunião desnecessária.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “Abrir aplicativo Balcão”."
     }
   ],
   "scene": {
@@ -43,111 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Abrir O Aplicativo Balcão",
-        "detail": "Na página 94, este bloco corresponde a um aspecto do assunto “Abrir aplicativo Balcão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "ABRIR SISTEMA",
+        "detail": "Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia."
       },
       {
-        "title": "Finalidade Operacional",
-        "detail": "Na página 94, este bloco corresponde a um aspecto do assunto “Abrir aplicativo Balcão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "CONFERIR UNIDADE",
+        "detail": "Verificar se a unidade exibida é o 2º JEC de Duque de Caxias."
       },
       {
-        "title": "Regra De Atuação",
-        "detail": "Na página 94, este bloco corresponde a um aspecto do assunto “Abrir aplicativo Balcão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "VERIFICAR ESTADO",
+        "detail": "Confirmar que o posto está disponível no aplicativo, conforme escala e orientação."
       },
       {
-        "title": "Status Rotina Local Relatada",
-        "detail": "Na página 94, este bloco corresponde a um aspecto do assunto “Abrir aplicativo Balcão”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "AGUARDAR SOLICITAÇÃO",
+        "detail": "Observar a fila visível sem manipular processos ou abrir reunião desnecessária."
       }
     ]
   },
   "observe": [
     {
-      "title": "Abrir O Aplicativo Balcão",
-      "detail": "Localize este tópico na página 94 e diga, com suas palavras, que informação ele traz."
+      "title": "ABRIR SISTEMA",
+      "detail": "Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia."
     },
     {
-      "title": "Finalidade Operacional",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "CONFERIR UNIDADE",
+      "detail": "Verificar se a unidade exibida é o 2º JEC de Duque de Caxias."
     },
     {
-      "title": "Regra De Atuação",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "VERIFICAR ESTADO",
+      "detail": "Confirmar que o posto está disponível no aplicativo, conforme escala e orientação."
     },
     {
-      "title": "Status Rotina Local Relatada",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "AGUARDAR SOLICITAÇÃO",
+      "detail": "Observar a fila visível sem manipular processos ou abrir reunião desnecessária."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "ABRIR SISTEMA",
+      "instruction": "Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "CONFERIR UNIDADE",
+      "instruction": "Verificar se a unidade exibida é o 2º JEC de Duque de Caxias.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "VERIFICAR ESTADO",
+      "instruction": "Confirmar que o posto está disponível no aplicativo, conforme escala e orientação.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "AGUARDAR SOLICITAÇÃO",
+      "instruction": "Observar a fila visível sem manipular processos ou abrir reunião desnecessária.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Abrir aplicativo Balcão”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “Abrir aplicativo Balcão”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Abrir aplicativo Balcão”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “Abrir aplicativo Balcão” exige atenção ao seguinte ponto: ABRIR SISTEMA — Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "Menus, endereço de acesso e rótulos desta tela exigem confirmação no sistema atualmente instalado."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Abrir aplicativo Balcão”.",
-    "Sei explicar o primeiro aspecto: Abrir O Aplicativo Balcão.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “ABRIR SISTEMA”.",
+    "Consigo reconhecer quando conferir “CONFERIR UNIDADE”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p094.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=94",
   "archive": "../arquivo-tecnico/BV-03.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BV-03/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BV-03/fluxo-premium.svg",
   "source_highlights": [
-    "ABRIR O APLICATIVO BALCÃO",
-    "Localizar a interface da fila antes de usar o Teams",
-    "Distinguir a plataforma de fila do ambiente da"
+    "ABRIR SISTEMA: Acessar o aplicativo Balcão pelo canal oficial autorizado pela serventia.",
+    "CONFERIR UNIDADE: Verificar se a unidade exibida é o 2º JEC de Duque de Caxias.",
+    "VERIFICAR ESTADO: Confirmar que o posto está disponível no aplicativo, conforme escala e orientação."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

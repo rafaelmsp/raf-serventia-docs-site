@@ -7,35 +7,35 @@
   "page": 38,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Retorno da Turma Recursal” e aprender a compreender etapas, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda organização da rotina. Observe o infográfico original e identifique os elementos relacionados a retorno da turma recursal. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Aprender a identificar, conferir e explicar as principais situações de “Retorno da Turma Recursal”, com atenção aos limites da atuação supervisionada.",
+  "plain": "O infográfico aborda retorno da turma recursal e situações encontradas nos autos. O roteiro organiza as perguntas mais importantes e aponta os documentos a examinar, sem conferir autorização para executar atos.",
   "terms": [
     {
-      "term": "Retorno da Turma Recursal",
-      "meaning": "Primeiro aspecto visual da página 38 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Retorno da Turma Recursal” e observe o contexto."
+      "term": "Identifique o retorno",
+      "meaning": "Procure acórdão, certidão de baixa ou comunicação da Turma Recursal.",
+      "example": "Observe esse ponto no infográfico da página 38, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Localizar",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Localizar” com o tema central da aula."
+      "term": "Leia o resultado",
+      "meaning": "Entenda se houve manutenção, reforma ou determinação de providência.",
+      "example": "Observe esse ponto no infográfico da página 38, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Examinar",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Examinar” na fonte e verifique seu significado."
+      "term": "Confira as partes intimadas",
+      "meaning": "Verifique registros de ciência e ordens de cumprimento.",
+      "example": "Observe esse ponto no infográfico da página 38, sem inferir efeitos jurídicos só pelo desenho."
     },
     {
-      "term": "Conferir",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Informe a situação",
+      "meaning": "O retorno pode exigir prosseguimento, execução ou arquivamento conforme decisão.",
+      "example": "Observe esse ponto no infográfico da página 38, sem inferir efeitos jurídicos só pelo desenho."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Retorno da Turma Recursal",
-        "detail": "Na página 38, este bloco corresponde a um aspecto do assunto “Retorno da Turma Recursal”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identifique o retorno",
+        "detail": "Procure acórdão, certidão de baixa ou comunicação da Turma Recursal."
       },
       {
-        "title": "Localizar",
-        "detail": "Na página 38, este bloco corresponde a um aspecto do assunto “Retorno da Turma Recursal”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leia o resultado",
+        "detail": "Entenda se houve manutenção, reforma ou determinação de providência."
       },
       {
-        "title": "Examinar",
-        "detail": "Na página 38, este bloco corresponde a um aspecto do assunto “Retorno da Turma Recursal”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira as partes intimadas",
+        "detail": "Verifique registros de ciência e ordens de cumprimento."
       },
       {
-        "title": "Conferir",
-        "detail": "Na página 38, este bloco corresponde a um aspecto do assunto “Retorno da Turma Recursal”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Informe a situação",
+        "detail": "O retorno pode exigir prosseguimento, execução ou arquivamento conforme decisão."
       }
     ]
   },
   "observe": [
     {
-      "title": "Retorno da Turma Recursal",
-      "detail": "Localize este tópico na página 38 e diga, com suas palavras, que informação ele traz."
+      "title": "Identifique o retorno",
+      "detail": "Procure acórdão, certidão de baixa ou comunicação da Turma Recursal."
     },
     {
-      "title": "Localizar",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Leia o resultado",
+      "detail": "Entenda se houve manutenção, reforma ou determinação de providência."
     },
     {
-      "title": "Examinar",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Confira as partes intimadas",
+      "detail": "Verifique registros de ciência e ordens de cumprimento."
     },
     {
-      "title": "Conferir",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Informe a situação",
+      "detail": "O retorno pode exigir prosseguimento, execução ou arquivamento conforme decisão."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identifique o retorno",
+      "instruction": "Procure acórdão, certidão de baixa ou comunicação da Turma Recursal.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Leia o resultado",
+      "instruction": "Entenda se houve manutenção, reforma ou determinação de providência.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Confira as partes intimadas",
+      "instruction": "Verifique registros de ciência e ordens de cumprimento.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    },
+    {
+      "title": "Informe a situação",
+      "instruction": "O retorno pode exigir prosseguimento, execução ou arquivamento conforme decisão.",
+      "why": "A verificação contextualiza o processo; encaminhamento ou ato real dependem de norma atual, decisão e perfil competente."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Retorno da Turma Recursal”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em um processo fictício relativo a “Retorno da Turma Recursal”, o que deve ser feito antes de qualquer providência?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Identifique o retorno e conferir o documento, a regra e a competência.",
+        "feedback": "Correto. A leitura documental precede qualquer ato autorizado.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar imediatamente a função ilustrada, sem consultar a fonte.",
+        "feedback": "A imagem não autoriza a execução de atos.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar documentos ou prazos pertinentes.",
+        "feedback": "Documentos e marcos legais precisam de conferência.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Retorno da Turma Recursal”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: surge no histórico uma questão de “Retorno da Turma Recursal” e o estagiário precisa relatar seu estado ao servidor.",
+    "question": "Qual sequência inicial é mais adequada?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Identificar o registro, leia o resultado, descrever o fato e pedir orientação quando necessário.",
+        "feedback": "Adequado. A análise é uma atividade de conferência, não decisão autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Presumir que o ato já foi totalmente cumprido.",
+        "feedback": "Um registro isolado não prova cumprimento integral.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Encerrar ou alterar a tarefa sem conferir quem determinou o quê.",
+        "feedback": "Isso pode ultrapassar a atribuição do estagiário.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a interpretação sem fonte",
+      "correct": "Não tratar todo acórdão como ordem de arquivamento ou encerramento automático."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar a fase processual",
+      "correct": "Leia as decisões e os documentos anteriores."
+    },
+    {
+      "mistake": "Usar função sem perfil ou ordem",
+      "correct": "Peça orientação e siga a rotina vigente do servidor responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Retorno da Turma Recursal”.",
-    "Sei explicar o primeiro aspecto: Retorno da Turma Recursal.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo explicar o tema “Retorno da Turma Recursal”.",
+    "Sei o que conferir em “Identifique o retorno”.",
+    "Reconheço quando uma providência é reservada ao servidor ou magistrado."
   ],
   "source_image": "../assets/thumbs/p038.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=38",
   "archive": "../arquivo-tecnico/O-33.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro pedagógico provisório reconstruído a partir do infográfico e OCR; conferência técnica e jurídica ainda necessária.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-33/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-33/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Identifique o retorno: Procure acórdão, certidão de baixa ou comunicação da Turma Recursal.",
+    "Leia o resultado: Entenda se houve manutenção, reforma ou determinação de providência.",
+    "Confira as partes intimadas: Verifique registros de ciência e ordens de cumprimento."
+  ],
+  "source_highlight_status": "ocr_interpretacao_a_revisar",
+  "authored_batch": "ocr_topic_review_draft"
 }

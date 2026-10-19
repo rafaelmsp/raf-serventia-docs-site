@@ -7,35 +7,35 @@
   "page": 50,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Matriz dos sete gabinetes” e aprender a ler determinações, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atos judiciais e encaminhamentos. Observe o infográfico original e identifique os elementos relacionados a matriz dos sete gabinetes. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Reconhecer a matriz de sete gabinetes descrita no material de treinamento e seus limites.",
+  "plain": "A fonte organiza etiquetas e atribuições internas por assunto. A etiqueta, isoladamente, NÃO determina conclusão nem substitui a análise do processo.",
   "terms": [
     {
-      "term": "Módulo Complementar",
-      "meaning": "Primeiro aspecto visual da página 50 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Módulo Complementar” e observe o contexto."
+      "term": "Gabinete 1 — Conhecimento",
+      "meaning": "Na matriz de treinamento: feitos em fase de conhecimento, ressalvadas exceções.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Etiqueta",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Etiqueta” com o tema central da aula."
+      "term": "Gabinete 2 — Embargos de declaração",
+      "meaning": "Etiqueta citada para essa classe de manifestação.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Atribuições Descritas No Documento",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Atribuições Descritas No Documento” na fonte e verifique seu significado."
+      "term": "Gabinete 3 — Suspensos",
+      "meaning": "Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Conhecimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Gabinete 4 — Embargos à execução",
+      "meaning": "Etiqueta de referência para embargos à execução.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     }
   ],
   "scene": {
@@ -43,111 +43,152 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Módulo Complementar",
-        "detail": "Na página 50, este bloco corresponde a um aspecto do assunto “Matriz dos sete gabinetes”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Gabinete 1 — Conhecimento",
+        "detail": "Na matriz de treinamento: feitos em fase de conhecimento, ressalvadas exceções."
       },
       {
-        "title": "Etiqueta",
-        "detail": "Na página 50, este bloco corresponde a um aspecto do assunto “Matriz dos sete gabinetes”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Gabinete 2 — Embargos de declaração",
+        "detail": "Etiqueta citada para essa classe de manifestação."
       },
       {
-        "title": "Atribuições Descritas No Documento",
-        "detail": "Na página 50, este bloco corresponde a um aspecto do assunto “Matriz dos sete gabinetes”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Gabinete 3 — Suspensos",
+        "detail": "Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos."
       },
       {
-        "title": "Conhecimento",
-        "detail": "Na página 50, este bloco corresponde a um aspecto do assunto “Matriz dos sete gabinetes”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Gabinete 4 — Embargos à execução",
+        "detail": "Etiqueta de referência para embargos à execução."
       }
     ]
   },
   "observe": [
     {
-      "title": "Módulo Complementar",
-      "detail": "Localize este tópico na página 50 e diga, com suas palavras, que informação ele traz."
+      "title": "Gabinete 1 — Conhecimento",
+      "detail": "Na matriz de treinamento: feitos em fase de conhecimento, ressalvadas exceções."
     },
     {
-      "title": "Etiqueta",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Gabinete 2 — Embargos de declaração",
+      "detail": "Etiqueta citada para essa classe de manifestação."
     },
     {
-      "title": "Atribuições Descritas No Documento",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Gabinete 3 — Suspensos",
+      "detail": "Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos."
     },
     {
-      "title": "Conhecimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Gabinete 4 — Embargos à execução",
+      "detail": "Etiqueta de referência para embargos à execução."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Gabinete 1 — Conhecimento",
+      "instruction": "Na matriz de treinamento: feitos em fase de conhecimento, ressalvadas exceções.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 2 — Embargos de declaração",
+      "instruction": "Etiqueta citada para essa classe de manifestação.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 3 — Suspensos",
+      "instruction": "Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 4 — Embargos à execução",
+      "instruction": "Etiqueta de referência para embargos à execução.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 5 — Cumprimento de sentença",
+      "instruction": "A fonte associa à execução de título judicial.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 6 — Urgências",
+      "instruction": "A fonte associa à tutela pendente e pedidos urgentes.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Gabinete 7 — Título extrajudicial",
+      "instruction": "A fonte associa a execução fundada em título extrajudicial.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Matriz dos sete gabinetes”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em “Matriz dos sete gabinetes”, o manual sugere uma interpretação, mas a rotina local pode ter mudado. O que fazer?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a norma e o responsável antes do encaminhamento.",
+        "feedback": "Correto. A fonte não basta para validar competência ou vigência.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir a folha histórica sem checar o processo.",
+        "feedback": "Incorreto: falta conferência do caso e da regra atual.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Executar sem supervisão porque consta em infográfico.",
+        "feedback": "Incorreto: ilustração didática não é autorização.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Matriz dos sete gabinetes”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: você encontra um documento referente a “Matriz dos sete gabinetes”, mas não sabe a providência autorizada.",
+    "question": "Qual conduta é mais segura?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Ler o documento, conferir o contexto e consultar o servidor responsável.",
+        "feedback": "Correto: observação antes de encaminhamento.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Abrir conclusão automaticamente.",
+        "feedback": "A conclusão depende de análise da situação e autorização.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Ignorar o pedido e não comunicar a dúvida.",
+        "feedback": "A pendência deve ser descrita ao responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a fonte sem validar vigência",
+      "correct": "Matriz obtida de notas de treinamento. Confirmar vigência, alçadas e roteamento atual com a chefia. Etiquetas não autorizam conclusões automáticas."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Transformar um rótulo em ordem",
+      "correct": "Ler os autos e submeter dúvidas à supervisão."
+    },
+    {
+      "mistake": "Ultrapassar o papel do estagiário",
+      "correct": "Confirmar atribuições e encaminhar a decisão ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Matriz dos sete gabinetes”.",
-    "Sei explicar o primeiro aspecto: Módulo Complementar.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo diferenciar os tópicos principais de “Matriz dos sete gabinetes”.",
+    "Sei reconhecer quando a matrícula e as atribuições exigem supervisão.",
+    "Não confundo treino e decisão processual."
   ],
   "source_image": "../assets/thumbs/p050.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=50",
   "archive": "../arquivo-tecnico/O-45.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro autoral a partir do texto nativo do PDF; matrizes e normas internas precisam de conferência atual.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-45/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-45/fluxo-premium.svg",
   "source_highlights": [
-    "Etiquetas e atribuições reproduzidas do material de treinamento",
-    "Critério: selecionar a etiqueta pela natureza, pela fase e pelo pedido; a etiqueta não determina, isoladamente, abertura de",
-    "ATRIBUIÇÕES DESCRITAS NO DOCUMENTO"
+    "Gabinete 1 — Conhecimento: Na matriz de treinamento: feitos em fase de conhecimento, ressalvadas exceções.",
+    "Gabinete 2 — Embargos de declaração: Etiqueta citada para essa classe de manifestação.",
+    "Gabinete 3 — Suspensos: Matéria vinculada à suspensão no material; motivos e vigência devem ser conferidos."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_special"
 }

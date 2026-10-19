@@ -7,35 +7,35 @@
   "page": 83,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “JUNTADA DE DOCUMENTOS” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a juntada de documentos. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “JUNTADA DE DOCUMENTOS”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Petição genérica, anexos e vinculação ao processo O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Inclusão Nos Autos",
-      "meaning": "Primeiro aspecto visual da página 83 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Inclusão Nos Autos” e observe o contexto."
+      "term": "Receber a solicitação",
+      "meaning": "Confirmar que a pessoa quer apresentar documentos em processo já existente.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “JUNTADA DE DOCUMENTOS”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Rota De Atendimento” com o tema central da aula."
+      "term": "Identificar os autos",
+      "meaning": "Conferir o número processual e a relação da pessoa com o feito, respeitando o sigilo.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “JUNTADA DE DOCUMENTOS”."
     },
     {
-      "term": "Passo A Passo No Balcão",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Passo A Passo No Balcão” na fonte e verifique seu significado."
+      "term": "Organizar os anexos",
+      "meaning": "Conferir legibilidade, número de folhas e correspondência entre documentos e pedido.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “JUNTADA DE DOCUMENTOS”."
     },
     {
-      "term": "Checklist De Conferência",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Formalizar a juntada",
+      "meaning": "Usar petição genérica ou procedimento indicado pela serventia, com assinatura quando exigida.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “JUNTADA DE DOCUMENTOS”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Inclusão Nos Autos",
-        "detail": "Na página 83, este bloco corresponde a um aspecto do assunto “JUNTADA DE DOCUMENTOS”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Receber a solicitação",
+        "detail": "Confirmar que a pessoa quer apresentar documentos em processo já existente."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 83, este bloco corresponde a um aspecto do assunto “JUNTADA DE DOCUMENTOS”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificar os autos",
+        "detail": "Conferir o número processual e a relação da pessoa com o feito, respeitando o sigilo."
       },
       {
-        "title": "Passo A Passo No Balcão",
-        "detail": "Na página 83, este bloco corresponde a um aspecto do assunto “JUNTADA DE DOCUMENTOS”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Organizar os anexos",
+        "detail": "Conferir legibilidade, número de folhas e correspondência entre documentos e pedido."
       },
       {
-        "title": "Checklist De Conferência",
-        "detail": "Na página 83, este bloco corresponde a um aspecto do assunto “JUNTADA DE DOCUMENTOS”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Formalizar a juntada",
+        "detail": "Usar petição genérica ou procedimento indicado pela serventia, com assinatura quando exigida."
       }
     ]
   },
   "observe": [
     {
-      "title": "Inclusão Nos Autos",
-      "detail": "Localize este tópico na página 83 e diga, com suas palavras, que informação ele traz."
+      "title": "Receber a solicitação",
+      "detail": "Confirmar que a pessoa quer apresentar documentos em processo já existente."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Identificar os autos",
+      "detail": "Conferir o número processual e a relação da pessoa com o feito, respeitando o sigilo."
     },
     {
-      "title": "Passo A Passo No Balcão",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Organizar os anexos",
+      "detail": "Conferir legibilidade, número de folhas e correspondência entre documentos e pedido."
     },
     {
-      "title": "Checklist De Conferência",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Formalizar a juntada",
+      "detail": "Usar petição genérica ou procedimento indicado pela serventia, com assinatura quando exigida."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Receber a solicitação",
+      "instruction": "Confirmar que a pessoa quer apresentar documentos em processo já existente.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Identificar os autos",
+      "instruction": "Conferir o número processual e a relação da pessoa com o feito, respeitando o sigilo.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Organizar os anexos",
+      "instruction": "Conferir legibilidade, número de folhas e correspondência entre documentos e pedido.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Formalizar a juntada",
+      "instruction": "Usar petição genérica ou procedimento indicado pela serventia, com assinatura quando exigida.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Conferir o encaminhamento",
+      "instruction": "Recebimento cartorário ou NADAC: verificar qual canal está autorizado e se houve juntada. Número do processo correto",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “JUNTADA DE DOCUMENTOS”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “JUNTADA DE DOCUMENTOS”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “JUNTADA DE DOCUMENTOS”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “JUNTADA DE DOCUMENTOS” exige atenção ao seguinte ponto: Receber a solicitação — Confirmar que a pessoa quer apresentar documentos em processo já existente.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "Entregar papel não significa que o documento já conste no PJe. Evitar garantir juntada antes de confirmação."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “JUNTADA DE DOCUMENTOS”.",
-    "Sei explicar o primeiro aspecto: Inclusão Nos Autos.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Receber a solicitação”.",
+    "Consigo reconhecer quando conferir “Identificar os autos”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p083.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=83",
   "archive": "../arquivo-tecnico/BF-05.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-05/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-05/fluxo-premium.svg",
   "source_highlights": [
-    "Petição genérica, anexos e vinculação ao processo",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro.",
-    "PASSO A PASSO NO BALCÃO"
+    "Receber a solicitação: Confirmar que a pessoa quer apresentar documentos em processo já existente.",
+    "Identificar os autos: Conferir o número processual e a relação da pessoa com o feito, respeitando o sigilo.",
+    "Organizar os anexos: Conferir legibilidade, número de folhas e correspondência entre documentos e pedido."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

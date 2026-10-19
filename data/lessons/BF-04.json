@@ -7,35 +7,35 @@
   "page": 82,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “PETIÇÃO / SALVAR E ASSINAR” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a petição / salvar e assinar. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “PETIÇÃO / SALVAR E ASSINAR”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "PETIÇÃO — SALVAR E ASSINAR O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Controle Documental",
-      "meaning": "Primeiro aspecto visual da página 82 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Controle Documental” e observe o contexto."
+      "term": "Concluir o preenchimento",
+      "meaning": "Revisar o texto, o número processual, a identificação da parte e os anexos.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO / SALVAR E ASSINAR”."
     },
     {
-      "term": "Petição Salvar E Assinar",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Petição Salvar E Assinar” com o tema central da aula."
+      "term": "Definir o formato",
+      "meaning": "Observar se a unidade utiliza preenchimento eletrônico, formulário impresso ou outro fluxo autorizado.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO / SALVAR E ASSINAR”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Rota De Atendimento” na fonte e verifique seu significado."
+      "term": "Salvar, se aplicável",
+      "meaning": "Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO / SALVAR E ASSINAR”."
     },
     {
-      "term": "Passo A Passo No Balcão",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Conferir a assinatura",
+      "meaning": "A assinatura deve ser da pessoa legitimada ou de representante habilitado, quando exigida.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO / SALVAR E ASSINAR”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Controle Documental",
-        "detail": "Na página 82, este bloco corresponde a um aspecto do assunto “PETIÇÃO / SALVAR E ASSINAR”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Concluir o preenchimento",
+        "detail": "Revisar o texto, o número processual, a identificação da parte e os anexos."
       },
       {
-        "title": "Petição Salvar E Assinar",
-        "detail": "Na página 82, este bloco corresponde a um aspecto do assunto “PETIÇÃO / SALVAR E ASSINAR”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Definir o formato",
+        "detail": "Observar se a unidade utiliza preenchimento eletrônico, formulário impresso ou outro fluxo autorizado."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 82, este bloco corresponde a um aspecto do assunto “PETIÇÃO / SALVAR E ASSINAR”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Salvar, se aplicável",
+        "detail": "Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal."
       },
       {
-        "title": "Passo A Passo No Balcão",
-        "detail": "Na página 82, este bloco corresponde a um aspecto do assunto “PETIÇÃO / SALVAR E ASSINAR”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Conferir a assinatura",
+        "detail": "A assinatura deve ser da pessoa legitimada ou de representante habilitado, quando exigida."
       }
     ]
   },
   "observe": [
     {
-      "title": "Controle Documental",
-      "detail": "Localize este tópico na página 82 e diga, com suas palavras, que informação ele traz."
+      "title": "Concluir o preenchimento",
+      "detail": "Revisar o texto, o número processual, a identificação da parte e os anexos."
     },
     {
-      "title": "Petição Salvar E Assinar",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Definir o formato",
+      "detail": "Observar se a unidade utiliza preenchimento eletrônico, formulário impresso ou outro fluxo autorizado."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Salvar, se aplicável",
+      "detail": "Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal."
     },
     {
-      "title": "Passo A Passo No Balcão",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Conferir a assinatura",
+      "detail": "A assinatura deve ser da pessoa legitimada ou de representante habilitado, quando exigida."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Concluir o preenchimento",
+      "instruction": "Revisar o texto, o número processual, a identificação da parte e os anexos.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Definir o formato",
+      "instruction": "Observar se a unidade utiliza preenchimento eletrônico, formulário impresso ou outro fluxo autorizado.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Salvar, se aplicável",
+      "instruction": "Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Conferir a assinatura",
+      "instruction": "A assinatura deve ser da pessoa legitimada ou de representante habilitado, quando exigida.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Enviar para protocolo",
+      "instruction": "Não confundir arquivo salvo, folha assinada e juntada efetiva. Confirmar recebimento pelo canal correto. Arquivo final conferido",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “PETIÇÃO / SALVAR E ASSINAR”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “PETIÇÃO / SALVAR E ASSINAR”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “PETIÇÃO / SALVAR E ASSINAR”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “PETIÇÃO / SALVAR E ASSINAR” exige atenção ao seguinte ponto: Concluir o preenchimento — Revisar o texto, o número processual, a identificação da parte e os anexos.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "NÃO há comprovação pública do botão/caminho de “salvar” usado pela unidade. Conferir o passo exato com a chefia."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “PETIÇÃO / SALVAR E ASSINAR”.",
-    "Sei explicar o primeiro aspecto: Controle Documental.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Concluir o preenchimento”.",
+    "Consigo reconhecer quando conferir “Definir o formato”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p082.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=82",
   "archive": "../arquivo-tecnico/BF-04.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-04/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-04/fluxo-premium.svg",
   "source_highlights": [
-    "PETIÇÃO — SALVAR E ASSINAR",
-    "Salvamento, impressão, conferência e assinatura",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro."
+    "Concluir o preenchimento: Revisar o texto, o número processual, a identificação da parte e os anexos.",
+    "Definir o formato: Observar se a unidade utiliza preenchimento eletrônico, formulário impresso ou outro fluxo autorizado.",
+    "Salvar, se aplicável: Salvar em local institucional autorizado; conferir nome e versão do arquivo. Não usar armazenamento pessoal."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }

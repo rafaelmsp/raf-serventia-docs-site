@@ -7,35 +7,35 @@
   "page": 54,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Emenda, aditamento e renúncia” e aprender a compreender etapas, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda organização da rotina. Observe o infográfico original e identifique os elementos relacionados a emenda, aditamento e renúncia. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Diferenciar emenda, aditamento e renúncia de advogado e reconhecer por que os efeitos dependem do caso.",
+  "plain": "As três rotinas aparecem nos apontamentos consolidados do manual, mas não são etiquetas autônomas da matriz dos sete gabinetes.",
   "terms": [
     {
-      "term": "Módulo Complementar",
-      "meaning": "Primeiro aspecto visual da página 54 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Módulo Complementar” e observe o contexto."
+      "term": "Emenda da petição inicial",
+      "meaning": "Localizar determinação, identificar exigência e conferir a resposta documental.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Emenda Da Petição Inicial",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Emenda Da Petição Inicial” com o tema central da aula."
+      "term": "Aditamento ou alteração de pedido",
+      "meaning": "Diferenciar complemento documental de alteração da pretensão e conferir fase e participação da parte contrária.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Aditamento / Alteração Da Pretensão",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Aditamento / Alteração Da Pretensão” na fonte e verifique seu significado."
+      "term": "Renúncia ao mandato",
+      "meaning": "Conferir representação, comunicação e documentos conforme regras aplicáveis.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     },
     {
-      "term": "Renúncia De Advogado Ao Mandato",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Encaminhamento",
+      "meaning": "Examine o último ato, a pendência concreta e a necessidade de análise do servidor competente.",
+      "example": "Conceito apresentado no infográfico; requer conferência com o caso concreto."
     }
   ],
   "scene": {
@@ -43,111 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Módulo Complementar",
-        "detail": "Na página 54, este bloco corresponde a um aspecto do assunto “Emenda, aditamento e renúncia”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Emenda da petição inicial",
+        "detail": "Localizar determinação, identificar exigência e conferir a resposta documental."
       },
       {
-        "title": "Emenda Da Petição Inicial",
-        "detail": "Na página 54, este bloco corresponde a um aspecto do assunto “Emenda, aditamento e renúncia”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Aditamento ou alteração de pedido",
+        "detail": "Diferenciar complemento documental de alteração da pretensão e conferir fase e participação da parte contrária."
       },
       {
-        "title": "Aditamento / Alteração Da Pretensão",
-        "detail": "Na página 54, este bloco corresponde a um aspecto do assunto “Emenda, aditamento e renúncia”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Renúncia ao mandato",
+        "detail": "Conferir representação, comunicação e documentos conforme regras aplicáveis."
       },
       {
-        "title": "Renúncia De Advogado Ao Mandato",
-        "detail": "Na página 54, este bloco corresponde a um aspecto do assunto “Emenda, aditamento e renúncia”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Encaminhamento",
+        "detail": "Examine o último ato, a pendência concreta e a necessidade de análise do servidor competente."
       }
     ]
   },
   "observe": [
     {
-      "title": "Módulo Complementar",
-      "detail": "Localize este tópico na página 54 e diga, com suas palavras, que informação ele traz."
+      "title": "Emenda da petição inicial",
+      "detail": "Localizar determinação, identificar exigência e conferir a resposta documental."
     },
     {
-      "title": "Emenda Da Petição Inicial",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Aditamento ou alteração de pedido",
+      "detail": "Diferenciar complemento documental de alteração da pretensão e conferir fase e participação da parte contrária."
     },
     {
-      "title": "Aditamento / Alteração Da Pretensão",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Renúncia ao mandato",
+      "detail": "Conferir representação, comunicação e documentos conforme regras aplicáveis."
     },
     {
-      "title": "Renúncia De Advogado Ao Mandato",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Encaminhamento",
+      "detail": "Examine o último ato, a pendência concreta e a necessidade de análise do servidor competente."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Emenda da petição inicial",
+      "instruction": "Localizar determinação, identificar exigência e conferir a resposta documental.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Aditamento ou alteração de pedido",
+      "instruction": "Diferenciar complemento documental de alteração da pretensão e conferir fase e participação da parte contrária.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Renúncia ao mandato",
+      "instruction": "Conferir representação, comunicação e documentos conforme regras aplicáveis.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    },
+    {
+      "title": "Encaminhamento",
+      "instruction": "Examine o último ato, a pendência concreta e a necessidade de análise do servidor competente.",
+      "why": "A fonte ajuda na leitura; qualquer ato real depende de perfil próprio, regra vigente e orientação de servidor."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Emenda, aditamento e renúncia”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Em “Emenda, aditamento e renúncia”, o manual sugere uma interpretação, mas a rotina local pode ter mudado. O que fazer?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a norma e o responsável antes do encaminhamento.",
+        "feedback": "Correto. A fonte não basta para validar competência ou vigência.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir a folha histórica sem checar o processo.",
+        "feedback": "Incorreto: falta conferência do caso e da regra atual.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Executar sem supervisão porque consta em infográfico.",
+        "feedback": "Incorreto: ilustração didática não é autorização.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Emenda, aditamento e renúncia”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício: você encontra um documento referente a “Emenda, aditamento e renúncia”, mas não sabe a providência autorizada.",
+    "question": "Qual conduta é mais segura?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Ler o documento, conferir o contexto e consultar o servidor responsável.",
+        "feedback": "Correto: observação antes de encaminhamento.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Abrir conclusão automaticamente.",
+        "feedback": "A conclusão depende de análise da situação e autorização.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Ignorar o pedido e não comunicar a dúvida.",
+        "feedback": "A pendência deve ser descrita ao responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Aplicar a fonte sem validar vigência",
+      "correct": "Não alterar pedidos, excluir patrono ou presumir suspensão automática. O art. 112 do CPC depende de aplicação ao caso e norma vigente."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Transformar um rótulo em ordem",
+      "correct": "Ler os autos e submeter dúvidas à supervisão."
+    },
+    {
+      "mistake": "Ultrapassar o papel do estagiário",
+      "correct": "Confirmar atribuições e encaminhar a decisão ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Emenda, aditamento e renúncia”.",
-    "Sei explicar o primeiro aspecto: Módulo Complementar.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Consigo diferenciar os tópicos principais de “Emenda, aditamento e renúncia”.",
+    "Sei reconhecer quando a matrícula e as atribuições exigem supervisão.",
+    "Não confundo treino e decisão processual."
   ],
   "source_image": "../assets/thumbs/p054.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=54",
   "archive": "../arquivo-tecnico/O-49.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro autoral a partir do texto nativo do PDF; matrizes e normas internas precisam de conferência atual.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/O-49/ilustracao-premium.svg",
   "visual_map": "../assets/learning/O-49/fluxo-premium.svg",
   "source_highlights": [
-    "Roteiros de conferência complementar para as manifestações no PJe",
-    "Nota de origem: estas três rotinas constam dos apontamentos consolidados do projeto; não são etiquetas autônomas na folha dos sete",
-    "EMENDA DA PETIÇÃO INICIAL"
+    "Emenda da petição inicial: Localizar determinação, identificar exigência e conferir a resposta documental.",
+    "Aditamento ou alteração de pedido: Diferenciar complemento documental de alteração da pretensão e conferir fase e participação da parte contrária.",
+    "Renúncia ao mandato: Conferir representação, comunicação e documentos conforme regras aplicáveis."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_special"
 }

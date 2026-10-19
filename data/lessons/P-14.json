@@ -7,35 +7,35 @@
   "page": 69,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "ocr_ptbr_provisorio",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “Diligências de citação e permanência na pauta” e aprender a identificar o agendamento, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda audiências e pauta. Observe o infográfico original e identifique os elementos relacionados a diligências de citação e permanência na pauta. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender como reconhecer e conferir “Diligências de citação e permanência na pauta” no histórico, sem executar mudanças sem autorização.",
+  "plain": "O infográfico aborda diligências de citação e permanência na pauta sob o ponto de vista de leitura do processo. As etapas abaixo resumem a análise documentada, mas precisam de revisão do texto original e da rotina vigente.",
   "terms": [
     {
-      "term": "Diligências de citação e permanência na pauta",
-      "meaning": "Primeiro aspecto visual da página 69 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Diligências de citação e permanência na pauta” e observe o contexto."
+      "term": "Confira todos os meios",
+      "meaning": "Identifique resultados de AR, mandado ou outros expedientes.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 69."
     },
     {
-      "term": "Audiência",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Audiência” com o tema central da aula."
+      "term": "Diferencie retornos",
+      "meaning": "Um resultado negativo não implica que as demais diligências terminaram.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 69."
     },
     {
-      "term": "Pauta",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Pauta” na fonte e verifique seu significado."
+      "term": "Procure diligência pendente",
+      "meaning": "Verifique se outra tentativa ainda aguarda retorno.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 69."
     },
     {
-      "term": "Documentos",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Leve ao servidor",
+      "meaning": "A retirada de pauta ou nova comunicação depende de instrução competente.",
+      "example": "Na aula, encontre esse aspecto no infográfico da página 69."
     }
   ],
   "scene": {
@@ -43,107 +43,137 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Diligências de citação e permanência na pauta",
-        "detail": "Na página 69, este bloco corresponde a um aspecto do assunto “Diligências de citação e permanência na pauta”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Confira todos os meios",
+        "detail": "Identifique resultados de AR, mandado ou outros expedientes."
       },
       {
-        "title": "Audiência",
-        "detail": "Na página 69, este bloco corresponde a um aspecto do assunto “Diligências de citação e permanência na pauta”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Diferencie retornos",
+        "detail": "Um resultado negativo não implica que as demais diligências terminaram."
       },
       {
-        "title": "Pauta",
-        "detail": "Na página 69, este bloco corresponde a um aspecto do assunto “Diligências de citação e permanência na pauta”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Procure diligência pendente",
+        "detail": "Verifique se outra tentativa ainda aguarda retorno."
       },
       {
-        "title": "Documentos",
-        "detail": "Na página 69, este bloco corresponde a um aspecto do assunto “Diligências de citação e permanência na pauta”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Leve ao servidor",
+        "detail": "A retirada de pauta ou nova comunicação depende de instrução competente."
       }
     ]
   },
   "observe": [
     {
-      "title": "Diligências de citação e permanência na pauta",
-      "detail": "Localize este tópico na página 69 e diga, com suas palavras, que informação ele traz."
+      "title": "Confira todos os meios",
+      "detail": "Identifique resultados de AR, mandado ou outros expedientes."
     },
     {
-      "title": "Audiência",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Diferencie retornos",
+      "detail": "Um resultado negativo não implica que as demais diligências terminaram."
     },
     {
-      "title": "Pauta",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Procure diligência pendente",
+      "detail": "Verifique se outra tentativa ainda aguarda retorno."
     },
     {
-      "title": "Documentos",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Leve ao servidor",
+      "detail": "A retirada de pauta ou nova comunicação depende de instrução competente."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Confira todos os meios",
+      "instruction": "Identifique resultados de AR, mandado ou outros expedientes.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Diferencie retornos",
+      "instruction": "Um resultado negativo não implica que as demais diligências terminaram.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Procure diligência pendente",
+      "instruction": "Verifique se outra tentativa ainda aguarda retorno.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    },
+    {
+      "title": "Leve ao servidor",
+      "instruction": "A retirada de pauta ou nova comunicação depende de instrução competente.",
+      "why": "A conferência fornece contexto; executar um ato exige regra atual e supervisão."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “Diligências de citação e permanência na pauta”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "Ao estudar “Diligências de citação e permanência na pauta”, o manual mostra um caminho de análise. Como proceder diante de dúvidas?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Confirmar o registro e a orientação do servidor antes de agir.",
+        "feedback": "Correto: a segurança exige fonte e supervisão.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Executar automaticamente a movimentação sugerida no desenho.",
+        "feedback": "A imagem não concede autorização.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Ignorar uma possível pendência documental.",
+        "feedback": "A pendência precisa ser examinada.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “Diligências de citação e permanência na pauta”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de conferência: durante “Diligências de citação e permanência na pauta”, o histórico aponta um fato e você precisa interpretar sua relevância antes de qualquer encaminhamento.",
+    "question": "Qual é a melhor sequência de aprendizagem?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Primeiro confira todos os meios, depois diferencie retornos, conferindo os autos.",
+        "feedback": "Esse é um caminho seguro de estudo.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Pular a leitura e escolher diretamente a próxima tarefa.",
+        "feedback": "Não: a árvore e os documentos precisam de conferência.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Alterar a situação da audiência ou do processo sem autorização.",
+        "feedback": "A atuação depende de perfil e orientação do responsável.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Confundir leitura com autorização",
+      "correct": "Um único retorno negativo não é razão automática para cancelar ou retirar audiência."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Ignorar os documentos e a fase",
+      "correct": "Consultar registros e decisões anteriores antes de concluir."
+    },
+    {
+      "mistake": "Decidir a pauta sem competência",
+      "correct": "Submeter a dúvida ao responsável."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “Diligências de citação e permanência na pauta”.",
-    "Sei explicar o primeiro aspecto: Diligências de citação e permanência na pauta.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o objetivo de “Diligências de citação e permanência na pauta”.",
+    "Consigo reconhecer o ponto de estudo “Confira todos os meios”.",
+    "Consigo distinguir conferência documental de decisão processual."
   ],
   "source_image": "../assets/thumbs/p069.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=69",
   "archive": "../arquivo-tecnico/P-14.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro explicativo criado por interpretação didática de página com OCR provisório; ainda exige conferência visual e normativa.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/P-14/ilustracao-premium.svg",
   "visual_map": "../assets/learning/P-14/fluxo-premium.svg",
-  "source_highlights": [],
-  "source_highlight_status": "requer_conferencia_visual"
+  "source_highlights": [
+    "Confira todos os meios: Identifique resultados de AR, mandado ou outros expedientes.",
+    "Diferencie retornos: Um resultado negativo não implica que as demais diligências terminaram.",
+    "Procure diligência pendente: Verifique se outra tentativa ainda aguarda retorno."
+  ],
+  "source_highlight_status": "ocr_interpretacao_didatica_a_conferir",
+  "authored_batch": "ocr_interpreted_guided"
 }

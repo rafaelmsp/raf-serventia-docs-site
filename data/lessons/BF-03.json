@@ -7,35 +7,35 @@
   "page": 81,
   "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
   "source_method": "camada_textual_pdf",
-  "state": "needs_source_review",
+  "state": "author_draft",
   "pedagogical_ready": false,
   "technical_approved": false,
   "student_tested": false,
   "estimated_minutes": null,
   "order": null,
   "is_pilot": false,
-  "objective": "Entender como o manual apresenta “PETIÇÃO GENÉRICA / PREENCHIMENTO” e aprender a acolher a demanda, sem executar providências sem autorização.",
-  "plain": "Esta ficha aborda atendimento presencial. Observe o infográfico original e identifique os elementos relacionados a petição genérica / preenchimento. Compare os rótulos à página do manual antes de interpretar qualquer encaminhamento.",
+  "objective": "Compreender o objetivo de “PETIÇÃO GENÉRICA / PREENCHIMENTO”, reconhecer os registros que precisam de conferência e explicar quando pedir apoio ao servidor.",
+  "plain": "Quando utilizar e como conferir o requerimento O material apresenta orientações de conferência. Os comandos e rotinas locais precisam ser verificados com o servidor responsável antes de uso real.",
   "terms": [
     {
-      "term": "Formulário De Pedido",
-      "meaning": "Primeiro aspecto visual da página 81 relacionado ao assunto estudado.",
-      "example": "Identifique no infográfico onde aparece “Formulário De Pedido” e observe o contexto."
+      "term": "Identificar a finalidade",
+      "meaning": "Verificar se há processo existente e qual manifestação a pessoa deseja apresentar.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”."
     },
     {
-      "term": "Petição Genérica",
-      "meaning": "Segundo ponto apresentado no mapa de leitura.",
-      "example": "Compare “Petição Genérica” com o tema central da aula."
+      "term": "Escolher o instrumento",
+      "meaning": "Verificar o modelo de petição genérica autorizado, incluindo o FRM-JEC-006-01 quando vigente.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”."
     },
     {
-      "term": "Preenchimento",
-      "meaning": "Aspecto que exige conferência do documento, da regra e da supervisão.",
-      "example": "Localize “Preenchimento” na fonte e verifique seu significado."
+      "term": "Identificar a parte",
+      "meaning": "Conferir nome, processo, contato necessário e qualidade de quem solicita.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”."
     },
     {
-      "term": "Rota De Atendimento",
-      "meaning": "Último elemento deste mapa conceitual, ainda sem revisão técnica.",
-      "example": "Explique o que você entendeu e consulte o responsável para confirmar."
+      "term": "Registrar o pedido",
+      "meaning": "A manifestação precisa reproduzir a vontade do requerente, sem alterar conteúdo por iniciativa do estagiário.",
+      "example": "Na fonte, este tópico integra a conferência do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”."
     }
   ],
   "scene": {
@@ -43,111 +43,142 @@
     "alt": "Ilustração conceitual, não tela oficial do sistema.",
     "regions": [
       {
-        "title": "Formulário De Pedido",
-        "detail": "Na página 81, este bloco corresponde a um aspecto do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificar a finalidade",
+        "detail": "Verificar se há processo existente e qual manifestação a pessoa deseja apresentar."
       },
       {
-        "title": "Petição Genérica",
-        "detail": "Na página 81, este bloco corresponde a um aspecto do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Escolher o instrumento",
+        "detail": "Verificar o modelo de petição genérica autorizado, incluindo o FRM-JEC-006-01 quando vigente."
       },
       {
-        "title": "Preenchimento",
-        "detail": "Na página 81, este bloco corresponde a um aspecto do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Identificar a parte",
+        "detail": "Conferir nome, processo, contato necessário e qualidade de quem solicita."
       },
       {
-        "title": "Rota De Atendimento",
-        "detail": "Na página 81, este bloco corresponde a um aspecto do assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”. Consulte a imagem de origem e identifique o significado no contexto."
+        "title": "Registrar o pedido",
+        "detail": "A manifestação precisa reproduzir a vontade do requerente, sem alterar conteúdo por iniciativa do estagiário."
       }
     ]
   },
   "observe": [
     {
-      "title": "Formulário De Pedido",
-      "detail": "Localize este tópico na página 81 e diga, com suas palavras, que informação ele traz."
+      "title": "Identificar a finalidade",
+      "detail": "Verificar se há processo existente e qual manifestação a pessoa deseja apresentar."
     },
     {
-      "title": "Petição Genérica",
-      "detail": "Leia a parte correspondente e compare-a ao documento ou situação que está sendo estudada."
+      "title": "Escolher o instrumento",
+      "detail": "Verificar o modelo de petição genérica autorizado, incluindo o FRM-JEC-006-01 quando vigente."
     },
     {
-      "title": "Preenchimento",
-      "detail": "Identifique possíveis dúvidas sobre documentos, regras ou limites da atuação do estagiário."
+      "title": "Identificar a parte",
+      "detail": "Conferir nome, processo, contato necessário e qualidade de quem solicita."
     },
     {
-      "title": "Rota De Atendimento",
-      "detail": "Descreva o que precisa de confirmação antes de qualquer encaminhamento real."
+      "title": "Registrar o pedido",
+      "detail": "A manifestação precisa reproduzir a vontade do requerente, sem alterar conteúdo por iniciativa do estagiário."
     }
   ],
-  "steps": [],
+  "steps": [
+    {
+      "title": "Identificar a finalidade",
+      "instruction": "Verificar se há processo existente e qual manifestação a pessoa deseja apresentar.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Escolher o instrumento",
+      "instruction": "Verificar o modelo de petição genérica autorizado, incluindo o FRM-JEC-006-01 quando vigente.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Identificar a parte",
+      "instruction": "Conferir nome, processo, contato necessário e qualidade de quem solicita.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Registrar o pedido",
+      "instruction": "A manifestação precisa reproduzir a vontade do requerente, sem alterar conteúdo por iniciativa do estagiário.",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    },
+    {
+      "title": "Revisar e encaminhar",
+      "instruction": "Conferir clareza e anexos; seguir o procedimento aprovado para assinatura e protocolo. Processo de destino",
+      "why": "A ordem foi registrada no infográfico. Conferir autorização, perfil de acesso e possíveis exceções com o responsável antes da execução."
+    }
+  ],
   "decision": {
-    "question": "Você precisa explicar “PETIÇÃO GENÉRICA / PREENCHIMENTO”, mas a fonte apresenta uma dúvida de leitura. Como deve proceder?",
+    "question": "No atendimento de “PETIÇÃO GENÉRICA / PREENCHIMENTO”, há dúvida sobre a regra atual ou o perfil permitido. Qual conduta é adequada?",
     "options": [
       {
-        "label": "Identificar a informação certa na imagem original e indicar o que ainda precisa de revisão.",
-        "feedback": "Correto. Separe o que está documentado do que permanece incerto.",
+        "label": "Conferir a fonte e encaminhar a dúvida à supervisão antes de executar.",
+        "feedback": "Correto. O manual não substitui regras atuais e atribuições.",
         "correct": true
       },
       {
-        "label": "Tratar a transcrição provisória como norma vigente.",
-        "feedback": "Isso pode reproduzir erro ou norma desatualizada.",
+        "label": "Seguir o roteiro antigo mesmo sem validação.",
+        "feedback": "Incorreto. A rotina pode ter mudado.",
         "correct": false
       },
       {
-        "label": "Afirmar que já está autorizado a praticar o ato.",
-        "feedback": "A autorização e os perfis dependem da unidade.",
+        "label": "Usar a sessão ou senha de outra pessoa para concluir.",
+        "feedback": "Incorreto. Credenciais são individuais e os atos exigem perfil autorizado.",
         "correct": false
       }
     ]
   },
   "practice": {
-    "scenario": "Exercício fictício de consulta documental: durante o estudo de “PETIÇÃO GENÉRICA / PREENCHIMENTO”, você encontra informação que não consegue confirmar apenas pela transcrição.",
-    "question": "Qual atitude demonstra uma leitura segura?",
+    "scenario": "Exemplo fictício de atendimento: o procedimento “PETIÇÃO GENÉRICA / PREENCHIMENTO” exige atenção ao seguinte ponto: Identificar a finalidade — Verificar se há processo existente e qual manifestação a pessoa deseja apresentar.",
+    "question": "Qual ação preserva a qualidade e os limites do atendimento?",
     "options": [
       {
-        "label": "Abrir o infográfico original, conferir o contexto e consultar a supervisão se necessário.",
-        "feedback": "Correto. A fonte original precisa ser conferida antes de aplicar uma regra.",
+        "label": "Conferir o fato e seguir o encaminhamento autorizado pela unidade.",
+        "feedback": "Adequado: o roteiro é um apoio, não autorização autônoma.",
         "correct": true
       },
       {
-        "label": "Usar o primeiro rótulo extraído automaticamente como instrução processual.",
-        "feedback": "Incorreto: OCR e rótulos não são procedimento validado.",
+        "label": "Afirmar que o resultado judicial já foi garantido.",
+        "feedback": "Não é possível prometer decisão judicial.",
         "correct": false
       },
       {
-        "label": "Inventar a próxima tarefa no sistema com base na aparência do desenho.",
-        "feedback": "Incorreto: nenhuma ilustração concede autorização para agir.",
+        "label": "Omitir a conferência de identidade ou da documentação pertinente.",
+        "feedback": "A verificação e o sigilo continuam importantes.",
         "correct": false
       }
     ]
   },
   "mistakes": [
     {
-      "mistake": "Repetir o OCR como verdade",
-      "correct": "A grafia e a ordem de leitura podem estar erradas."
+      "mistake": "Ignorar alerta da fonte",
+      "correct": "O formulário FRM-JEC-006-01 consta de RAD histórica. Confirmar o modelo atual e quando o balcão pode utilizá-lo."
     },
     {
-      "mistake": "Confundir roteiro didático com ato autorizado",
-      "correct": "As decisões do órgão seguem competências e supervisão."
+      "mistake": "Tratar o tutorial como permissão de acesso",
+      "correct": "Usar apenas perfil próprio e atividades autorizadas."
+    },
+    {
+      "mistake": "Prometer resultado judicial",
+      "correct": "Informar apenas registros e encaminhamentos confirmados."
     }
   ],
   "mastery": [
-    "Consigo identificar na fonte o assunto “PETIÇÃO GENÉRICA / PREENCHIMENTO”.",
-    "Sei explicar o primeiro aspecto: Formulário De Pedido.",
-    "Sei quando consultar o infográfico original e pedir supervisão."
+    "Sei explicar o que significa “Identificar a finalidade”.",
+    "Consigo reconhecer quando conferir “Escolher o instrumento”.",
+    "Sei identificar dúvida que exige orientação do servidor."
   ],
   "source_image": "../assets/thumbs/p081.jpg",
   "pdf": "../docs/manual-fonte.pdf#page=81",
   "archive": "../arquivo-tecnico/BF-03.html",
-  "status_note": "Mapa e cenário individualizados para estudo; sequência operacional ainda precisa de revisão na fonte.",
+  "status_note": "Roteiro de leitura reconstruído da camada textual do PDF. Pendente de revisão normativa e validação local; não autoriza execução.",
   "revised_by": null,
   "revised_at": null,
   "visual_coverage": true,
   "visual_scene": "../assets/learning/BF-03/ilustracao-premium.svg",
   "visual_map": "../assets/learning/BF-03/fluxo-premium.svg",
   "source_highlights": [
-    "Quando utilizar e como conferir o requerimento",
-    "Observe o fato → confira os dados → escolha o encaminhamento → confirme o registro.",
-    "PASSO A PASSO NO BALCÃO"
+    "Identificar a finalidade: Verificar se há processo existente e qual manifestação a pessoa deseja apresentar.",
+    "Escolher o instrumento: Verificar o modelo de petição genérica autorizado, incluindo o FRM-JEC-006-01 quando vigente.",
+    "Identificar a parte: Conferir nome, processo, contato necessário e qualidade de quem solicita."
   ],
-  "source_highlight_status": "camada_textual_pdf"
+  "source_highlight_status": "camada_textual_pdf",
+  "authored_batch": "native_source_bf_bv"
 }
