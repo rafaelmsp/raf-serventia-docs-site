@@ -1,0 +1,174 @@
+{
+  "code": "O-03",
+  "title": "Anatomia da Árvore do Processo",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "color": "#1378B4",
+  "page": 8,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "ocr_ptbr_provisorio",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 1,
+  "is_pilot": true,
+  "objective": "Reconhecer como o histórico de um processo se organiza e explicar por que é necessário ler o documento associado a uma movimentação.",
+  "plain": "Pense no processo como uma árvore: há uma origem, atos que fazem o caso avançar e acontecimentos que levam a novas providências.",
+  "terms": [
+    {
+      "term": "Raízes",
+      "meaning": "Mostram a origem do caso: partes, pedido, documentos iniciais, valor e competência.",
+      "example": "É aqui que buscamos entender de onde veio a demanda."
+    },
+    {
+      "term": "Tronco",
+      "meaning": "Representa atos como despachos, decisões, sentenças e atos ordinatórios.",
+      "example": "Uma decisão deve ser lida antes de concluir qual providência é necessária."
+    },
+    {
+      "term": "Galhos",
+      "meaning": "Reúnem comunicações e manifestações, como citação, intimação, juntada e certidão.",
+      "example": "Uma certidão informa algo ocorrido no processo."
+    },
+    {
+      "term": "Folhas",
+      "meaning": "Representam movimentos, respostas das partes e cumprimentos.",
+      "example": "A juntada de um documento não comprova automaticamente o cumprimento de uma ordem."
+    },
+    {
+      "term": "Frutos",
+      "meaning": "Representam resultado, encaminhamento ou próxima providência.",
+      "example": "Depois de compreender o contexto, identifica-se o que ainda precisa ser analisado."
+    }
+  ],
+  "scene": {
+    "title": "Árvore esquemática do histórico processual",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Origem",
+        "detail": "Confira quais peças iniciaram a história processual."
+      },
+      {
+        "title": "Atos",
+        "detail": "Leia o documento correspondente ao despacho ou à decisão."
+      },
+      {
+        "title": "Comunicações",
+        "detail": "Encontre os documentos de citação, intimação ou certidão."
+      },
+      {
+        "title": "Respostas",
+        "detail": "Verifique se a parte se manifestou e qual documento foi juntado."
+      },
+      {
+        "title": "Próxima providência",
+        "detail": "Se houver dúvida, registre a observação para o servidor responsável."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Primeiro, localize a origem",
+      "detail": "Veja a demanda inicial e identifique os documentos relevantes."
+    },
+    {
+      "title": "Depois, leia a sequência",
+      "detail": "Observe o que ocorreu antes do evento mais recente."
+    },
+    {
+      "title": "Finalmente, abra a peça",
+      "detail": "O nome do evento sozinho não confirma a situação processual."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Observe o histórico",
+      "instruction": "Abra o histórico ou a árvore correspondente no ambiente autorizado, sob supervisão.",
+      "why": "Para não interpretar um evento isolado."
+    },
+    {
+      "title": "Identifique o tipo de registro",
+      "instruction": "Diferencie petição, certidão, ato decisório e comunicação pelo documento.",
+      "why": "Para saber qual informação procurar."
+    },
+    {
+      "title": "Leia o documento e o contexto",
+      "instruction": "Compare a data, o conteúdo da peça e os acontecimentos anteriores.",
+      "why": "Para não presumir cumprimento apenas pelo título."
+    },
+    {
+      "title": "Descreva o que encontrou",
+      "instruction": "Resuma o fato observável sem decidir matéria que depende do servidor.",
+      "why": "Para comunicar uma pendência com precisão."
+    }
+  ],
+  "decision": {
+    "question": "Você vê a indicação de um documento juntado, mas ainda não leu o conteúdo. Pode afirmar que a determinação foi cumprida?",
+    "options": [
+      {
+        "label": "Sim, porque já existe uma juntada.",
+        "feedback": "Ainda não. A juntada mostra que algo foi apresentado, não o cumprimento integral.",
+        "correct": false
+      },
+      {
+        "label": "Não. Preciso ler a peça e conferir o que foi determinado.",
+        "feedback": "Correto. Verifique a peça e o contexto; encaminhe dúvidas ao servidor.",
+        "correct": true
+      },
+      {
+        "label": "Sim, porque o evento aparece por último.",
+        "feedback": "A posição cronológica não comprova o conteúdo da peça.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Exemplo fictício: após uma decisão solicitando documento, aparece no histórico 'Juntada de petição'.",
+    "question": "Qual é a próxima verificação mais útil?",
+    "options": [
+      {
+        "label": "Ler a petição juntada e compará-la à determinação.",
+        "feedback": "Correto: é necessário comparar o documento com a determinação.",
+        "correct": true
+      },
+      {
+        "label": "Marcar automaticamente a pendência como resolvida.",
+        "feedback": "Incorreto: juntada não significa cumprimento integral.",
+        "correct": false
+      },
+      {
+        "label": "Ignorar a decisão anterior.",
+        "feedback": "Incorreto: o contexto da determinação é essencial.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Confundir evento com conteúdo",
+      "correct": "O registro do evento indica movimentação; a informação completa está na peça correspondente."
+    },
+    {
+      "mistake": "Ignorar o histórico",
+      "correct": "A sequência anterior explica a causa da providência."
+    },
+    {
+      "mistake": "Agir sem supervisão",
+      "correct": "Na dúvida sobre efeitos ou encaminhamento, consulte o servidor."
+    }
+  ],
+  "mastery": [
+    "Consigo diferenciar raízes, tronco, galhos, folhas e frutos.",
+    "Sei por que devo abrir o documento vinculado ao evento.",
+    "Reconheço quando preciso consultar o servidor."
+  ],
+  "source_image": "../assets/thumbs/p008.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=8",
+  "archive": "../arquivo-tecnico/O-03.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

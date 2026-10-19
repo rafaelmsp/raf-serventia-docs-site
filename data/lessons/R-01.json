@@ -1,0 +1,169 @@
+{
+  "code": "R-01",
+  "title": "Indicadores da Árvore Processual",
+  "section": "R",
+  "section_name": "Relatórios e controle",
+  "color": "#0D937F",
+  "page": 73,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "ocr_ptbr_provisorio",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 5,
+  "is_pilot": true,
+  "objective": "Compreender indicadores de acompanhamento processual e explicar por que percentuais e quantidades precisam de contexto.",
+  "plain": "Indicadores são números que ajudam a enxergar filas, tempos, pendências e resultados. Eles mostram tendências, não decisões automáticas sobre cada processo.",
+  "terms": [
+    {
+      "term": "Indicador",
+      "meaning": "Medida que ajuda a acompanhar um fenômeno.",
+      "example": "Ex.: quantidade de certidões emitidas."
+    },
+    {
+      "term": "Percentual",
+      "meaning": "Parte de um total apresentada em cem partes.",
+      "example": "É necessário saber qual total foi considerado."
+    },
+    {
+      "term": "Tempo médio",
+      "meaning": "Média de durações observadas.",
+      "example": "Uma média não informa o tempo de cada caso."
+    },
+    {
+      "term": "Semáforo",
+      "meaning": "Classificação visual verde, amarelo e vermelho.",
+      "example": "As cores só fazem sentido com critérios definidos."
+    }
+  ],
+  "scene": {
+    "title": "Painel didático de indicadores",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Tempo médio",
+        "detail": "O infográfico traz 3,5 dias como exemplo ilustrativo."
+      },
+      {
+        "title": "Citação válida",
+        "detail": "Exemplo de percentual de processos com citação."
+      },
+      {
+        "title": "Pendências",
+        "detail": "Número ou proporção de casos que exigem providência."
+      },
+      {
+        "title": "Prazo vencido",
+        "detail": "Quantidade de situações sinalizadas para atenção."
+      },
+      {
+        "title": "Semáforo",
+        "detail": "Critérios precisam ser documentados para cada cor."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Leia o título",
+      "detail": "Descubra o que o indicador realmente mede."
+    },
+    {
+      "title": "Procure unidade e período",
+      "detail": "Percentual, dias e processos são medidas diferentes."
+    },
+    {
+      "title": "Confira o denominador",
+      "detail": "Um percentual sem total e período pode induzir a erro."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Identifique a métrica",
+      "instruction": "Leia nome, unidade e período da medição.",
+      "why": "Para não misturar quantidade com proporção."
+    },
+    {
+      "title": "Confira o total de referência",
+      "instruction": "Pergunte de quantos processos aquele percentual foi calculado.",
+      "why": "Para interpretar corretamente o resultado."
+    },
+    {
+      "title": "Compare com critérios definidos",
+      "instruction": "Verifique se há critérios claros para verde, amarelo e vermelho.",
+      "why": "Para não criar urgência artificial."
+    },
+    {
+      "title": "Comunique a tendência",
+      "instruction": "Relate o que o gráfico mostra, indicando limites e ausência de contexto se for o caso.",
+      "why": "Para evitar inferências indevidas."
+    }
+  ],
+  "decision": {
+    "question": "Um gráfico mostra 87% de citação válida, mas não informa período nem quantidade de processos. A métrica pode ser tomada como resultado atual?",
+    "options": [
+      {
+        "label": "Sim, sempre.",
+        "feedback": "Não. A imagem traz números ilustrativos e faltam dados de contexto.",
+        "correct": false
+      },
+      {
+        "label": "Não. Preciso do período e do universo analisado.",
+        "feedback": "Correto. Percentuais isolados não bastam.",
+        "correct": true
+      },
+      {
+        "label": "Basta a cor verde.",
+        "feedback": "Não. A cor não substitui os critérios e dados.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Exemplo didático fictício: em 20 processos, 15 têm determinada característica.",
+    "question": "Qual fração do conjunto representa essa situação?",
+    "options": [
+      {
+        "label": "25%.",
+        "feedback": "Não. 15 de 20 representam três quartos.",
+        "correct": false
+      },
+      {
+        "label": "75%.",
+        "feedback": "Correto: 15 dividido por 20 equivale a 75%.",
+        "correct": true
+      },
+      {
+        "label": "150%.",
+        "feedback": "Não. A proporção é menor que o total.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Confundir número e porcentagem",
+      "correct": "87% não significa 87 processos."
+    },
+    {
+      "mistake": "Tratar o exemplo como dado real",
+      "correct": "Os números da imagem são didáticos, não estatísticas atuais."
+    },
+    {
+      "mistake": "Ignorar o período",
+      "correct": "Indicadores só são comparáveis com critérios e intervalos compatíveis."
+    }
+  ],
+  "mastery": [
+    "Consigo distinguir quantidade, percentual e média.",
+    "Sei questionar período e universo do indicador.",
+    "Não trato semáforos ou exemplos como decisões automáticas."
+  ],
+  "source_image": "../assets/thumbs/p073.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=73",
+  "archive": "../arquivo-tecnico/R-01.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

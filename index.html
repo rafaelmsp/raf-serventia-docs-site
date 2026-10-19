@@ -1,39 +1,40 @@
-<!doctype html>
-<html lang="pt-BR">
-<head>
+<!doctype html><html lang="pt-BR"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow,noarchive"><meta name="referrer" content="no-referrer">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'">
-<title>RAF Serventia Docs — Catálogo técnico</title>
-<link rel="stylesheet" href="assets/css/documentacao.css"><script src="assets/js/catalogo.js" defer></script>
+<meta name="description" content="RAF Serventia Docs: aulas guiadas para estagiários iniciantes e catálogo de referência do manual.">
+<title>RAF Serventia Docs — Aprender e consultar</title>
+<link rel="stylesheet" href="assets/css/documentacao.css">
+<link rel="stylesheet" href="assets/css/portal-v2.css">
+<script src="assets/js/catalogo.js" defer></script>
 </head><body>
-<a class="skip" href="#main">Pular para o conteúdo</a>
-<header class="head"><a href="index.html" class="logo">◆ <span>RAF <strong>Serventia Docs</strong></span></a>
-<nav class="head-nav" aria-label="Navegação principal"><a href="#catalogo">Catálogo</a><a href="#areas">Áreas</a><a href="fonte-html/index.html">Manual HTML ↗</a></nav>
-<div class="head-actions"><button id="theme" type="button" aria-label="Alternar tema claro ou escuro">◐</button></div>
-</header>
-<main id="main" class="home-main">
-<section class="intro"><div><p class="overline">DOCUMENTAÇÃO TÉCNICA · ACESSO PÚBLICO</p>
-<h1>Encontre o item.<br><em>Abra a página.</em></h1><p class="intro-desc">Consulta por código, assunto e área. Cada procedimento tem sua própria página — sem uma lista interminável.</p></div>
-<div class="intro-meta"><strong>96 <span>itens</span></strong><span>107 páginas na fonte</span><a href="fonte-html/index.html">↗ Ler manual em HTML</a><a href="docs/manual-fonte.pdf" target="_blank" rel="noopener noreferrer">↗ Abrir manual original</a></div></section>
-<div class="notice slim"><strong>Material não oficial — publicação em revisão.</strong> A fonte original classifica o manual como uso restrito. Esta cópia é divulgada a pedido do autor para consulta e revisão e não representa homologação do TJRJ. Algumas páginas utilizam leitura automática de texto; confira a imagem original e a orientação institucional antes de uso operacional.</div>
-<p class="progress-shortcut"><a href="andamento.html" style="display:inline-flex;min-height:44px;align-items:center;color:#126da8;font-weight:800;font-size:12px">↗ Acompanhar progresso real da reconstrução ilustrada</a></p>
-<section class="catalog" id="catalogo" aria-labelledby="catalogTitle">
-<div class="section-title"><div><p class="overline">EXPLORE POR ITEM</p><h2 id="catalogTitle">Catálogo de procedimentos</h2></div><p id="counter" aria-live="polite">Carregando…</p></div>
-<div class="search"><label for="search" class="visually-hidden">Buscar procedimento por código, título ou categoria</label><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="Ex.: O-08, PAC, certidão, audiência…" autocomplete="off"><button id="reset" type="button">Limpar</button></div>
+<a class="skip" href="#main">Pular para conteúdo</a>
+<header class="head"><a class="logo" href="index.html">◆ <span>RAF <strong>Serventia Docs</strong></span></a>
+<nav class="head-nav" aria-label="Principal"><a href="aprender.html">Aprender do zero</a><a href="#catalogo">Consultar</a><a href="andamento-pedagogico.html">Progresso V2</a></nav>
+<div class="head-actions"><button id="theme" aria-label="Alternar contraste e tema" type="button">◐</button></div>
+</header><main id="main" class="home-main">
+<section class="v2-hero">
+<div><p class="v2-kicker">MANUAL ONLINE · APRENDER UM PASSO POR VEZ</p><h1>Seu primeiro dia no PJe começa aqui.</h1>
+<p>Aprenda o que observar, por que conferir e quando pedir supervisão — com imagens, exemplos fictícios e escolhas explicadas. Sem precisar ler uma página enorme.</p>
+<div class="hero-actions"><a href="aprender.html" class="hero-primary">Começar pelo básico →</a><a href="#catalogo" class="hero-secondary">Já conheço: consultar item</a></div></div>
+<div class="hero-stat"><strong>7</strong><span>etapas curtas por lição</span><small>6 aulas piloto · 90 prévias ainda em revisão</small></div>
+</section>
+<div class="status-note"><strong>Documento de apoio não oficial.</strong> A versão pedagógica está em construção e não substitui orientações da serventia. Simulações não são telas oficiais do PJe; os exemplos não usam dados reais. <a href="andamento-pedagogico.html">Ver situação editorial.</a></div>
+<section class="v2-paths" aria-label="Modos de consulta">
+<article class="v2-path"><div class="v2-symbol">01</div><h2>Aprender do zero</h2><p>Trilha guiada com termos explicados, telas simuladas e exercícios comentados. Indicada para quem está começando.</p><a href="aprender.html">Entrar na trilha →</a></article>
+<article class="v2-path"><div class="v2-symbol green">02</div><h2>Consulta rápida</h2><p>Localize pelo código ou assunto. O catálogo mantém as 96 referências e o acesso à documentação técnica anterior.</p><a href="#catalogo">Buscar procedimento →</a></article>
+</section>
+<section id="catalogo" class="catalog" aria-labelledby="catalogTitle">
+<div class="section-title"><div><p class="overline">BIBLIOTECA TÉCNICA</p><h2 id="catalogTitle">Escolha um item para estudar</h2></div><p id="counter" aria-live="polite">Carregando…</p></div>
+<div class="search"><label for="search" class="visually-hidden">Buscar por código ou assunto</label><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="O-03, PAC, audiência, balcão…" autocomplete="off"><button id="reset" type="button">Limpar</button></div>
 <nav id="areas" class="category-bar" aria-label="Filtrar por área">
 <button type="button" data-cat="ALL" class="selected" aria-pressed="true">Todos <span>96</span></button>
-<button type="button" data-cat="O">Operações <span>49</span></button>
-<button type="button" data-cat="P">Pauta <span>16</span></button>
-<button type="button" data-cat="R">Relatórios <span>5</span></button>
-<button type="button" data-cat="BF">Balcão físico <span>12</span></button>
-<button type="button" data-cat="BV">Balcão virtual <span>14</span></button>
-<button type="button" data-cat="FAV">☆ Favoritos</button>
-</nav>
-<div class="items" id="items" aria-live="polite"></div>
-<div class="empty" id="empty" hidden>Nenhum item encontrado. Experimente outro termo ou selecione outra área.</div>
-<div class="pages" id="pages" aria-label="Navegação entre páginas de resultados"></div>
+<button type="button" data-cat="O">Operações <span>49</span></button><button type="button" data-cat="P">Pauta <span>16</span></button>
+<button type="button" data-cat="R">Relatórios <span>5</span></button><button type="button" data-cat="BF">Balcão físico <span>12</span></button>
+<button type="button" data-cat="BV">Balcão virtual <span>14</span></button><button type="button" data-cat="FAV">☆ Favoritos</button>
+</nav><div class="items" id="items" aria-live="polite"></div>
+<div class="empty" id="empty" hidden>Nenhum item encontrado. Altere o termo ou a área.</div>
+<div class="pages" id="pages" aria-label="Páginas do catálogo"></div>
 </section>
-<details class="help"><summary>Como utilizar a documentação?</summary><p>Selecione uma área, pesquise por código ou assunto e abra a ficha em uma página própria. O infográfico de referência e o PDF original podem ser consultados; orientações não verificadas permanecem identificadas como pendentes de revisão.</p></details>
-</main><footer>RAF Serventia Docs · Rafael MS Passos · Edição da fonte: 15/10/2026 · Material não oficial</footer>
-</body></html>
+<section class="source-footer"><h2>Documentação original e rastreabilidade</h2>
+<p>O PDF continua disponível para conferência. As páginas convertidas por OCR não devem ser consideradas instruções processuais validadas.</p>
+<a href="fonte-html/index.html">Manual em HTML por capítulos →</a><a href="docs/manual-fonte.pdf" target="_blank" rel="noopener noreferrer">PDF de referência ↗</a><a href="andamento-pedagogico.html">Acompanhar revisão das aulas →</a></section>
+</main><footer>RAF Serventia Docs · Rafael MS Passos · 2026 · Material não oficial e sujeito a revisão.</footer></body></html>

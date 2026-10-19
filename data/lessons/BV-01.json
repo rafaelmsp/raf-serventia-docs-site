@@ -1,0 +1,169 @@
+{
+  "code": "BV-01",
+  "title": "Base legal e regras",
+  "section": "BV",
+  "section_name": "Balcão virtual",
+  "color": "#3777D6",
+  "page": 92,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "camada_textual_pdf",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 6,
+  "is_pilot": true,
+  "objective": "Diferenciar a base normativa do Balcão Virtual das orientações locais e reconhecer o papel supervisionado do estagiário.",
+  "plain": "O Balcão Virtual permite atendimento remoto à serventia. O manual diferencia normas públicas de rotinas e informações que ainda precisam ser confirmadas.",
+  "terms": [
+    {
+      "term": "Balcão Virtual",
+      "meaning": "Modalidade de atendimento remoto da serventia.",
+      "example": "É atendimento humano e informativo."
+    },
+    {
+      "term": "Norma pública",
+      "meaning": "Regra divulgada oficialmente e sujeita a alterações.",
+      "example": "A fonte menciona a Resolução CNJ nº 372/2021."
+    },
+    {
+      "term": "Rotina local",
+      "meaning": "Organização de atendimento que depende da unidade e dos atos aplicáveis.",
+      "example": "Parâmetros práticos devem ser conferidos em fonte atualizada."
+    },
+    {
+      "term": "Supervisão",
+      "meaning": "Acompanhamento do servidor nas atividades do estagiário.",
+      "example": "Dúvidas e decisões fora da atribuição devem ser encaminhadas."
+    }
+  ],
+  "scene": {
+    "title": "Sala de videoconferência simulada",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Atendente",
+        "detail": "Acolhe a demanda de modo informativo e respeitoso."
+      },
+      {
+        "title": "Câmera",
+        "detail": "Configuração depende das regras atuais do órgão; a imagem é demonstrativa."
+      },
+      {
+        "title": "Identificação",
+        "detail": "A conferência deve ocorrer conforme o serviço e as regras de acesso."
+      },
+      {
+        "title": "Solicitação",
+        "detail": "A pessoa apresenta sua dúvida sem expor desnecessariamente dados de terceiros."
+      },
+      {
+        "title": "Encaminhamento",
+        "detail": "O atendente consulta o servidor quando necessário."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Separe norma e divulgação",
+      "detail": "A fonte cita Resolução CNJ 372/2021 e atos TJ/CGJ."
+    },
+    {
+      "title": "Confirme a regra atual",
+      "detail": "O próprio manual registra ausência do texto consolidado integral de um ato citado."
+    },
+    {
+      "title": "Lembre do limite",
+      "detail": "Atendimento virtual não equivale a protocolo processual."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Receba a demanda",
+      "instruction": "Cumprimente, ouça e esclareça a natureza informativa do atendimento.",
+      "why": "O objetivo é orientar sobre o serviço, não decidir direitos."
+    },
+    {
+      "title": "Confira identificação e acesso",
+      "instruction": "Observe as regras oficiais atuais e a condição de quem solicita a informação.",
+      "why": "Protege o sigilo e os envolvidos."
+    },
+    {
+      "title": "Identifique o pedido",
+      "instruction": "Diferencie consulta informativa de protocolo ou providência processual.",
+      "why": "Evita prometer uma ação não disponibilizada no canal."
+    },
+    {
+      "title": "Peça apoio se necessário",
+      "instruction": "Consulte o servidor responsável quando a solicitação extrapolar a orientação permitida.",
+      "why": "Respeita supervisão e limites normativos."
+    }
+  ],
+  "decision": {
+    "question": "O atendido pede para protocolar uma petição diretamente pela chamada. Como responder?",
+    "options": [
+      {
+        "label": "Dizer que já protocolou.",
+        "feedback": "Incorreto: o atendimento virtual não substitui o protocolo.",
+        "correct": false
+      },
+      {
+        "label": "Explicar a natureza informativa e orientar sobre o canal adequado segundo as regras vigentes.",
+        "feedback": "Correto. O atendente não deve fingir ter executado o ato.",
+        "correct": true
+      },
+      {
+        "label": "Pedir a senha do advogado.",
+        "feedback": "Incorreto: credenciais não devem ser solicitadas.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Atendimento fictício: uma pessoa pergunta se precisa obrigatoriamente ligar a câmera e quantos processos pode consultar. Você conhece apenas uma divulgação secundária.",
+    "question": "Qual conduta é mais segura?",
+    "options": [
+      {
+        "label": "Afirmar que os parâmetros são imutáveis.",
+        "feedback": "Não. O texto consolidado e exceções exigem conferência.",
+        "correct": false
+      },
+      {
+        "label": "Conferir a regra oficial atual antes de orientar e consultar o servidor se necessário.",
+        "feedback": "Correto. A fonte já alerta para a necessidade de confirmação.",
+        "correct": true
+      },
+      {
+        "label": "Inventar um limite.",
+        "feedback": "Não. Não se deve preencher lacunas normativas com suposições.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Tratar divulgação secundária como norma consolidada",
+      "correct": "Confirme o texto oficial e a vigência."
+    },
+    {
+      "mistake": "Confundir atendimento e protocolo",
+      "correct": "A chamada não executa automaticamente atos processuais."
+    },
+    {
+      "mistake": "Solicitar senha ou dados excessivos",
+      "correct": "Jamais recolha credenciais; siga regras de identificação aplicáveis."
+    }
+  ],
+  "mastery": [
+    "Sei o objetivo informativo do Balcão Virtual.",
+    "Distingo regra pública e rotina da unidade.",
+    "Sei quando buscar a norma oficial e a supervisão."
+  ],
+  "source_image": "../assets/thumbs/p092.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=92",
+  "archive": "../arquivo-tecnico/BV-01.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

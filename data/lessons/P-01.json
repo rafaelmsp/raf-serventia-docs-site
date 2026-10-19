@@ -1,0 +1,169 @@
+{
+  "code": "P-01",
+  "title": "Árvore e pauta de audiência",
+  "section": "P",
+  "section_name": "Pauta e audiências",
+  "color": "#7954CE",
+  "page": 56,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "ocr_ptbr_provisorio",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 4,
+  "is_pilot": true,
+  "objective": "Reconhecer quais elementos da árvore do processo precisam ser conferidos antes de analisar a situação de uma audiência em pauta.",
+  "plain": "Uma audiência não deve ser considerada regular apenas por aparecer marcada: é importante conferir a situação processual e comunicar eventuais pendências.",
+  "terms": [
+    {
+      "term": "Pauta",
+      "meaning": "Organização das audiências previstas.",
+      "example": "Estar na pauta não significa necessariamente que todos os requisitos já foram conferidos."
+    },
+    {
+      "term": "AR",
+      "meaning": "Aviso de Recebimento, documento ligado à tentativa de entrega de correspondência.",
+      "example": "O resultado precisa ser interpretado conforme os autos."
+    },
+    {
+      "term": "Citação",
+      "meaning": "Ato de comunicação processual cuja regularidade exige exame do caso.",
+      "example": "Ausência ou irregularidade pode demandar nova análise."
+    },
+    {
+      "term": "Redesignação",
+      "meaning": "Alteração de data de audiência, quando cabível e determinada.",
+      "example": "Não deve ser realizada autonomamente pelo estagiário."
+    }
+  ],
+  "scene": {
+    "title": "Linha do tempo fictícia da audiência",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Data",
+        "detail": "Veja qual audiência está sendo examinada."
+      },
+      {
+        "title": "Citação/AR",
+        "detail": "Confira o documento de comunicação e seu resultado."
+      },
+      {
+        "title": "Prazo",
+        "detail": "Analise a informação de prazo nos autos."
+      },
+      {
+        "title": "Manifestação",
+        "detail": "Verifique a existência de resposta das partes."
+      },
+      {
+        "title": "Pendência",
+        "detail": "Se houver inconsistência, sinalize ao responsável."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Regularidade da comunicação",
+      "detail": "A página de referência destaca citação válida e AR."
+    },
+    {
+      "title": "Prazos e respostas",
+      "detail": "Confira o histórico e as manifestações associadas."
+    },
+    {
+      "title": "Impedimentos documentados",
+      "detail": "Pendência essencial ou determinação superveniente pode exigir análise da unidade."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Identifique a audiência",
+      "instruction": "Localize o processo e o agendamento em ambiente autorizado.",
+      "why": "Para relacionar a pauta aos autos corretos."
+    },
+    {
+      "title": "Consulte a árvore",
+      "instruction": "Confira comunicações, AR, prazos e manifestações.",
+      "why": "Para compreender se existem elementos pendentes."
+    },
+    {
+      "title": "Relacione os registros",
+      "instruction": "Examine documentos essenciais e determinações posteriores.",
+      "why": "Para evitar conclusões a partir da pauta isolada."
+    },
+    {
+      "title": "Informe à supervisão",
+      "instruction": "Descreva eventuais inconsistências; a decisão de manter ou retirar da pauta compete ao responsável.",
+      "why": "Para respeitar os limites da atuação."
+    }
+  ],
+  "decision": {
+    "question": "O processo está na pauta, mas não há confirmação suficiente de citação. O estagiário deve retirar a audiência sozinho?",
+    "options": [
+      {
+        "label": "Sim, imediatamente.",
+        "feedback": "Não. A conferência e o encaminhamento devem seguir a rotina e a supervisão.",
+        "correct": false
+      },
+      {
+        "label": "Não. Precisa sinalizar a situação ao servidor.",
+        "feedback": "Correto. O encaminhamento cabe ao responsável da unidade.",
+        "correct": true
+      },
+      {
+        "label": "Ignorar a inconsistência.",
+        "feedback": "Não. Uma pendência essencial não deve ser ignorada.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Exemplo fictício: audiência agendada, AR com informação inconclusiva e nova petição nos autos.",
+    "question": "Qual o primeiro passo de análise?",
+    "options": [
+      {
+        "label": "Conferir o AR, a petição e eventuais determinações recentes.",
+        "feedback": "Correto. O histórico documentado esclarece a situação.",
+        "correct": true
+      },
+      {
+        "label": "Apagar a audiência da pauta.",
+        "feedback": "Incorreto. O estagiário não decide isso autonomamente.",
+        "correct": false
+      },
+      {
+        "label": "Considerar o AR válido sem ler.",
+        "feedback": "Incorreto. É preciso examinar a peça.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Presumir regularidade pela pauta",
+      "correct": "A presença na pauta não substitui a leitura do processo."
+    },
+    {
+      "mistake": "Ignorar ato posterior",
+      "correct": "Uma determinação nova pode mudar a situação a ser analisada."
+    },
+    {
+      "mistake": "Retirar sem autorização",
+      "correct": "Encaminhe a dúvida e respeite a rotina definida."
+    }
+  ],
+  "mastery": [
+    "Sei identificar os pontos de conferência da pauta.",
+    "Distingo uma pendência documental de uma decisão de cancelamento.",
+    "Sei quando encaminhar o caso ao responsável."
+  ],
+  "source_image": "../assets/thumbs/p056.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=56",
+  "archive": "../arquivo-tecnico/P-01.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

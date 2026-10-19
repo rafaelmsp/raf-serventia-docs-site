@@ -1,0 +1,169 @@
+{
+  "code": "BF-01",
+  "title": "RECEPÇÃO E IDENTIFICAÇÃO",
+  "section": "BF",
+  "section_name": "Balcão físico",
+  "color": "#BA743B",
+  "page": 79,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "camada_textual_pdf",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 2,
+  "is_pilot": true,
+  "objective": "Realizar uma conversa inicial de acolhimento e saber o que conferir antes de encaminhar uma solicitação presencial.",
+  "plain": "O primeiro atendimento começa com ouvir o cidadão, compreender a demanda e verificar o vínculo com o processo, sempre protegendo informações e respeitando a supervisão.",
+  "terms": [
+    {
+      "term": "Parte",
+      "meaning": "Pessoa envolvida no processo.",
+      "example": "A condição de parte deve ser verificada conforme a solicitação."
+    },
+    {
+      "term": "Representante",
+      "meaning": "Pessoa que comparece alegando representar outra.",
+      "example": "O vínculo precisa ser conferido antes de compartilhar informações."
+    },
+    {
+      "term": "Petição",
+      "meaning": "Pedido ou manifestação formal juntada aos autos.",
+      "example": "Informações gerais sobre o canal não são aconselhamento jurídico individual."
+    },
+    {
+      "term": "Sigilo",
+      "meaning": "Restrição ao acesso ou divulgação de determinadas informações.",
+      "example": "Não se deve mostrar dados de terceiros sem autorização."
+    }
+  ],
+  "scene": {
+    "title": "Balcão de atendimento fictício",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Acolhimento",
+        "detail": "Cumprimente e pergunte como pode ajudar, sem antecipar a solução."
+      },
+      {
+        "title": "Demanda",
+        "detail": "Identifique se é consulta, juntada, audiência ou primeiro atendimento."
+      },
+      {
+        "title": "Processo",
+        "detail": "Solicite o número apenas quando disponível e necessário."
+      },
+      {
+        "title": "Vínculo",
+        "detail": "Verifique a condição de parte, representante ou advogado."
+      },
+      {
+        "title": "Encaminhamento",
+        "detail": "Oriente quanto ao serviço adequado, sob supervisão."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Escute antes de decidir",
+      "detail": "Pergunte o motivo da visita em linguagem simples."
+    },
+    {
+      "title": "Peça somente o necessário",
+      "detail": "Evite dados pessoais que não ajudam o atendimento."
+    },
+    {
+      "title": "Proteja o sigilo",
+      "detail": "Não divulgue conteúdo sem verificar se o acesso é permitido."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Receba com respeito",
+      "instruction": "Diga: 'Boa tarde. Como posso ajudar?'",
+      "why": "Dá segurança para explicar a demanda."
+    },
+    {
+      "title": "Identifique a solicitação",
+      "instruction": "Pergunte se há processo e, se necessário, seu número.",
+      "why": "Ajuda a localizar o atendimento sem presumir o pedido."
+    },
+    {
+      "title": "Confira o vínculo e eventuais prioridades",
+      "instruction": "Diferencie parte, representante, advogado e acompanhante, observando acessibilidade.",
+      "why": "Impede divulgação inadequada e orienta prioridades."
+    },
+    {
+      "title": "Encaminhe de forma clara",
+      "instruction": "Explique o próximo canal disponível e encaminhe dúvidas ao servidor.",
+      "why": "Evita prometer resultado ou dar orientação jurídica individual."
+    }
+  ],
+  "decision": {
+    "question": "Uma pessoa diz representar outra, mas você ainda não conseguiu verificar o vínculo. Pode fornecer informações sigilosas?",
+    "options": [
+      {
+        "label": "Sim, basta dizer que é representante.",
+        "feedback": "Incorreto: a condição de representante precisa ser verificada.",
+        "correct": false
+      },
+      {
+        "label": "Não. Devo preservar o sigilo e consultar o servidor.",
+        "feedback": "Correto. O acesso deve respeitar permissões e a rotina da unidade.",
+        "correct": true
+      },
+      {
+        "label": "Sim, desde que fale rapidamente.",
+        "feedback": "Incorreto: velocidade não autoriza divulgação.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Uma pessoa chega dizendo: 'Quero saber o andamento de um processo do meu vizinho'. Não apresenta vínculo com os autos.",
+    "question": "Qual resposta inicial é mais adequada?",
+    "options": [
+      {
+        "label": "Informar todos os documentos.",
+        "feedback": "Incorreto: não foi demonstrada permissão de acesso.",
+        "correct": false
+      },
+      {
+        "label": "Explicar que o acesso depende das regras aplicáveis e encaminhar ao servidor se houver dúvida.",
+        "feedback": "Correto. Atendimento respeitoso e proteção de dados.",
+        "correct": true
+      },
+      {
+        "label": "Repreender a pessoa.",
+        "feedback": "Incorreto: a abordagem deve ser cordial.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Dar aconselhamento jurídico individual",
+      "correct": "O atendimento informativo não substitui orientação de advogado ou defensor."
+    },
+    {
+      "mistake": "Solicitar dados desnecessários",
+      "correct": "Peça apenas o necessário ao atendimento."
+    },
+    {
+      "mistake": "Divulgar autos sem conferir acesso",
+      "correct": "Confirme o vínculo e o sigilo antes de compartilhar."
+    }
+  ],
+  "mastery": [
+    "Consigo acolher e identificar a necessidade.",
+    "Sei verificar representação e sigilo.",
+    "Sei formular encaminhamento sem prometer resultado."
+  ],
+  "source_image": "../assets/thumbs/p079.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=79",
+  "archive": "../arquivo-tecnico/BF-01.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

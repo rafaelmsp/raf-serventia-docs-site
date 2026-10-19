@@ -1,0 +1,24 @@
+{
+  "version": "v2.0-draft",
+  "count": 96,
+  "pilots_authored": 6,
+  "needs_source_review": 90,
+  "approved": 0,
+  "reviewed_with_students": 0,
+  "first_learning_path": [
+    "O-03",
+    "BF-01",
+    "O-08",
+    "P-01",
+    "R-01",
+    "BV-01"
+  ],
+  "chapter_counts": {
+    "O": 49,
+    "P": 16,
+    "R": 5,
+    "BF": 12,
+    "BV": 14
+  },
+  "notes": "Seis roteiros autorais de treinamento inicial; os demais 90 são prévias conceituais sem instrução operacional homologada."
+}

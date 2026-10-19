@@ -1,62 +1,54 @@
-# RAF Serventia Docs — Manual Online UX Premium
-
-Projeto de documentação técnica interativa, baseado no Manual Operacional do Estagiário na Serventia — PJe, de Rafael MS Passos, edição de 15/10/2026.
+# RAF Serventia Docs — Manual pedagógico V2
 
 **Site:** https://rafaelmsp.github.io/raf-serventia-docs-site/
 
-## Nova interface ilustrada (v0.2, editorialmente preliminar)
+O projeto tem duas experiências complementares:
 
-O catálogo tem busca, filtros por área e sete resultados por página. Cada uma das **96 fichas HTML** apresenta cinco abas: Visão geral, Mapa, Etapas, Conferência e Fonte original.
+- **Aprender do zero** — introdução para o primeiro dia e lições de sete etapas com linguagem simples, glossário, SVG ilustrado, regiões clicáveis, observação guiada, passos supervisionados, questões e feedback.
+- **Consulta rápida** — catálogo por código e categoria, com 96 links permanentes, referência técnica anterior e o PDF original.
 
-Foram criadas **96 ilustrações SVG originais** e **96 mapas SVG** ligados a JSON estruturado. O usuário pode selecionar cada nó do mapa para abrir sua explicação, navegar com teclado, ampliar os SVGs em outra aba e marcar checklists locais, com opção de limpeza. O sistema funciona apenas com HTML/CSS/JS, sem integração ao PJe.
+## Estado da V2
 
-As 107 páginas da fonte em HTML e o PDF original permanecem acessíveis pelos links de cada procedimento.
+Há 96 arquivos de lição e 96 ilustrações conceituais novas. Somente seis roteiros foram escritos especificamente como pilotos: O-03 (Árvore do Processo), BF-01 (Recepção e Identificação), O-08 (PAC), P-01 (Pauta), R-01 (Indicadores) e BV-01 (Balcão Virtual). As outras 90 fichas são prévias de estudo; nenhuma apresenta instruções operacionais validadas sem conferência da fonte.
 
-## Exemplos de acesso
+**0 de 96 aulas possuem homologação editorial, técnica ou institucional.** O progresso percentual registrado mede implementação, não competência de estagiários. O material é didático, não oficial, contém exemplos fictícios e não executa atos no PJe.
 
-- Catálogo: https://rafaelmsp.github.io/raf-serventia-docs-site/
-- Anatomia da Árvore: https://rafaelmsp.github.io/raf-serventia-docs-site/itens/O-03.html
-- PAC: https://rafaelmsp.github.io/raf-serventia-docs-site/itens/O-08.html
-- Recepção e Identificação: https://rafaelmsp.github.io/raf-serventia-docs-site/itens/BF-01.html
-- Base legal do Balcão Virtual: https://rafaelmsp.github.io/raf-serventia-docs-site/itens/BV-01.html
-- Manual HTML: https://rafaelmsp.github.io/raf-serventia-docs-site/fonte-html/index.html
-- PDF original: https://rafaelmsp.github.io/raf-serventia-docs-site/docs/manual-fonte.pdf
+## Estrutura principal
 
-## Limites editoriais
+- index.html — duas portas de entrada e catálogo.
+- aprender.html — seis roteiros guiados.
+- introducao.html — glossário e orientação para o primeiro dia.
+- itens/{codigo}.html — sete etapas de cada aula V2, com URL estável.
+- arquivo-tecnico/{codigo}.html — páginas técnicas premium da versão anterior, preservadas para consulta.
+- data/lessons/{codigo}.json — currículo e estado editorial de cada item.
+- assets/learning/{codigo}/simulacao.svg — ilustração SVG original de estudo.
+- assets/js/lesson-engine.js — motor de navegação, hotspots e exercícios com feedback.
+- assets/css/lesson-ux.css — identidade UX com cores por área, cartões, estados e responsividade.
+- data/progresso-pedagogico.json — progresso real da reconstrução V2.
+- andamento-pedagogico.html — painel por fase M00 a M10.
+- docs/LOG_REVISAO_PEDAGOGICA.md — fontes conferidas e pendências.
+- docs/progresso-pedagogico.md — checkpoint e pesos.
+- docs/manual-fonte.pdf — manual original, 107 páginas, 15/10/2026.
 
-**Material não oficial, não homologado pelo TJRJ.** O manual de origem declara uso restrito; a disponibilização pública foi solicitada pelo autor. A publicação não valida a vigência de normas, nem autoriza qualquer ato processual.
+## Reprodução local
 
-**Arquivos visuais produzidos não equivalem a páginas revisadas:** os pilotos O-03, O-08, BF-01 e BV-01 receberam explicações específicas. Os outros mapas são rascunhos de leitura a partir de títulos e trechos da fonte. As 65 fichas dependentes de OCR exigem conferência; não considerar os rótulos automaticamente extraídos como orientação definitiva.
+Na raiz do projeto:
 
-## Arquitetura
+    python -m http.server 8765 --bind 127.0.0.1
 
-- itens: 96 páginas HTML individuais.
-- assets/illustrations: 96 ilustrações SVG específicas.
-- assets/flows: 96 mapas SVG específicos.
-- assets/css/ux-premium.css: design responsivo e impressão.
-- assets/js/ficha-premium.js: abas, detalhes interativos e checklist.
-- data/procedures: fichas JSON, com rastreabilidade e aviso editorial.
-- data/flows: nós e arestas estruturados.
-- data/assets-manifest.json: manifestos de 96 ativos, hashes e texto alternativo.
-- data/editorial-audit.json: estado editorial por código.
-- data/progress.json e docs/progresso-execucao.md: percentuais calculados.
-- scripts/build_illustrated.py: gerador reproduzível.
-- tests: validadores e testes em navegador.
+Acesse http://127.0.0.1:8765/ . Depois:
 
-## Testes
+    python scripts/build_pedagogy.py
+    python scripts/build_pilot_art.py
+    python scripts/build_learning_portal.py
+    python tests/v2-static.py
+    node tests/v2-qa.cjs
+    python scripts/compute_pedagogy_progress.py
 
-A validação estrutural confirmou 96 ilustrações únicas, 96 mapas e zero links locais quebrados nas 205 páginas HTML examinadas. Os seis pilotos passaram em 42 testes interativos, em sete larguras (360, 390, 430, 768, 1024, 1366 e 1920 px). As 96 rotas passaram no teste de abertura a 390 px.
+**Atenção:** regenerar o portal pode reescrever o painel de andamento. Execute o atualizador de progresso após os geradores. Não marcar lições como aprovadas automaticamente.
 
-## Desenvolvimento local
+## Limites de utilização
 
-Na raiz do projeto, execute: python -m http.server 8765 --bind 127.0.0.1
+Manual original identificado como material não oficial e originalmente de uso restrito; divulgação pública foi solicitada pelo autor. Não indica homologação pelo TJRJ. Atividades reais dependem de orientações atuais, atribuições e supervisão de servidor responsável. Capturas ilustradas são simulações esquemáticas; não contêm processos reais. Os números de indicadores são didáticos, e os atos normativos citados no manual exigem verificação de vigência e texto oficial.
 
-Depois acesse http://127.0.0.1:8765/.
-
-Para reconstituir as fichas ilustradas: python scripts/build_illustrated.py
-
-Consulte docs/progresso-execucao.md para o estado real e as pendências. Não declarar 100% até haver revisão e aceitação técnica completa.
-
-## Andamento
-Acompanhe os percentuais e as evid�ncias em https://rafaelmsp.github.io/raf-serventia-docs-site/andamento.html . A pontua��o global n�o representa aprova��o editorial.
-
+Autoria da fonte: Rafael MS Passos, 2026.

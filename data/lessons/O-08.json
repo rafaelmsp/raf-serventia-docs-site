@@ -1,0 +1,174 @@
+{
+  "code": "O-08",
+  "title": "PAC na prática",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "color": "#1378B4",
+  "page": 13,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "ocr_ptbr_provisorio",
+  "state": "author_draft",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": 3,
+  "is_pilot": true,
+  "objective": "Identificar uma pendência documental, compreender as verificações anteriores ao PAC e distinguir cumprimento integral, parcial e ausência de cumprimento.",
+  "plain": "PAC é apresentado no manual como um ciclo para identificar o que falta, comunicar corretamente, aguardar a resposta e conferir se a pendência foi resolvida.",
+  "terms": [
+    {
+      "term": "Pendência",
+      "meaning": "Algo necessário ao andamento do processo que falta, está ilegível ou precisa ser esclarecido.",
+      "example": "Ex.: documento essencial incompleto."
+    },
+    {
+      "term": "Determinação",
+      "meaning": "Ordem ou orientação identificada nos autos que precisa ser considerada na conferência.",
+      "example": "É preciso ler qual foi a providência solicitada."
+    },
+    {
+      "term": "Intimação",
+      "meaning": "Comunicação processual pela qual alguém é cientificado de um ato ou providência.",
+      "example": "Forma, destinatário e prazo exigem conferência da unidade."
+    },
+    {
+      "term": "Cumprimento parcial",
+      "meaning": "Parte do solicitado foi atendida, mas ainda há algo pendente.",
+      "example": "A resposta não deve ser tratada como integralmente resolvida."
+    }
+  ],
+  "scene": {
+    "title": "Painel didático do ciclo do PAC",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Falha identificada",
+        "detail": "Observe qual documento ou informação está faltando."
+      },
+      {
+        "title": "Determinação",
+        "detail": "Confira a providência documentada nos autos."
+      },
+      {
+        "title": "Destinatário",
+        "detail": "Não presuma quem deve cumprir: confira o processo."
+      },
+      {
+        "title": "Prazo",
+        "detail": "Confira qual prazo consta da determinação aplicável."
+      },
+      {
+        "title": "Resposta",
+        "detail": "Compare a manifestação recebida com o solicitado."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "O que falta?",
+      "detail": "Ausência, ilegibilidade, divergência ou erro formal são exemplos mostrados na fonte."
+    },
+    {
+      "title": "Quem deve atender?",
+      "detail": "Confira o destinatário e a determinação antes da comunicação."
+    },
+    {
+      "title": "O que foi apresentado?",
+      "detail": "Leia a resposta antes de classificá-la."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Identifique a falha",
+      "instruction": "Descreva de forma objetiva o documento ou informação faltante.",
+      "why": "Evita comunicações sem clareza."
+    },
+    {
+      "title": "Confira a determinação e o destinatário",
+      "instruction": "Verifique qual providência foi solicitada, quem deve realizá-la e o prazo documentado.",
+      "why": "Evita intimar a pessoa errada."
+    },
+    {
+      "title": "Acompanhe a comunicação com supervisão",
+      "instruction": "A forma do PAC/intimação deve seguir a orientação validada da unidade.",
+      "why": "O estagiário não decide sozinho a modalidade ou expede atos não autorizados."
+    },
+    {
+      "title": "Compare a resposta à exigência",
+      "instruction": "Diferencie atendimento integral, parcial e ausência de cumprimento.",
+      "why": "Juntada não equivale automaticamente a cumprimento."
+    },
+    {
+      "title": "Encaminhe a situação observada",
+      "instruction": "Informe pendências remanescentes ao responsável conforme a rotina supervisionada.",
+      "why": "Permite decidir a próxima providência de modo adequado."
+    }
+  ],
+  "decision": {
+    "question": "A parte juntou apenas um dos dois documentos solicitados. Isso significa cumprimento integral?",
+    "options": [
+      {
+        "label": "Sim, porque houve juntada.",
+        "feedback": "Não. É preciso comparar tudo o que foi exigido com o que foi apresentado.",
+        "correct": false
+      },
+      {
+        "label": "Não. Há indicação de cumprimento parcial a conferir.",
+        "feedback": "Correto. Registre a observação e consulte o servidor quanto à providência.",
+        "correct": true
+      },
+      {
+        "label": "Não preciso examinar os documentos.",
+        "feedback": "Incorreto: a conferência documental é essencial.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Exemplo fictício: a determinação solicita comprovante legível e documento de identificação. Chega apenas um comprovante legível.",
+    "question": "Qual interpretação inicial é mais adequada?",
+    "options": [
+      {
+        "label": "A exigência inteira foi cumprida.",
+        "feedback": "Ainda falta verificar o documento de identificação.",
+        "correct": false
+      },
+      {
+        "label": "A resposta parece parcial; devo comparar e informar a pendência.",
+        "feedback": "Correto. Conferência e supervisão antecedem nova providência.",
+        "correct": true
+      },
+      {
+        "label": "Posso criar nova intimação automaticamente.",
+        "feedback": "Incorreto: atos processuais devem respeitar atribuições e supervisão.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Intimar a pessoa errada",
+      "correct": "Conferir destinatário e determinação é indispensável."
+    },
+    {
+      "mistake": "Não checar o prazo",
+      "correct": "O prazo deve ser verificado conforme a determinação e a regra aplicável."
+    },
+    {
+      "mistake": "Confundir juntada e cumprimento",
+      "correct": "Leia o conteúdo do que foi anexado antes de concluir."
+    }
+  ],
+  "mastery": [
+    "Sei identificar uma pendência e explicar por que ela importa.",
+    "Sei quais verificações precedem uma comunicação.",
+    "Distingo resposta parcial de cumprimento integral."
+  ],
+  "source_image": "../assets/thumbs/p013.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=13",
+  "archive": "../arquivo-tecnico/O-08.html",
+  "status_note": "Lição piloto autoral baseada no manual; pendente de revisão técnica e teste com aprendizes.",
+  "revised_by": null,
+  "revised_at": null
+}

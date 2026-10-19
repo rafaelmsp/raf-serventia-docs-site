@@ -1,0 +1,103 @@
+{
+  "version": "v2.0-draft",
+  "published": false,
+  "phases": [
+    {
+      "id": "M00",
+      "name": "Auditoria da fonte",
+      "weight": 7,
+      "credited": 7,
+      "evidence": "96 códigos e 107 páginas identificados; revisão normativa individual pendente"
+    },
+    {
+      "id": "M01",
+      "name": "Motor das aulas e UX",
+      "weight": 12,
+      "credited": 12,
+      "evidence": "Sete etapas, duas portas de entrada, exercícios e retomada local; testes finais pendentes"
+    },
+    {
+      "id": "M02",
+      "name": "Ilustrações explicativas",
+      "weight": 12,
+      "credited": 6,
+      "evidence": "96 esquemas conceituais gerados, seis com roteiro autoral; revisão visual individual pendente"
+    },
+    {
+      "id": "M03",
+      "name": "Seis pilotos",
+      "weight": 15,
+      "credited": 6,
+      "evidence": "Seis roteiros autorais inseridos; testes com estagiários iniciantes e revisão técnica pendentes"
+    },
+    {
+      "id": "M04",
+      "name": "Operações (49)",
+      "weight": 20,
+      "credited": 0,
+      "evidence": "0 lições com aprovação pedagógica e técnica"
+    },
+    {
+      "id": "M05",
+      "name": "Pauta (16)",
+      "weight": 8,
+      "credited": 0,
+      "evidence": "0 lições com aprovação pedagógica e técnica"
+    },
+    {
+      "id": "M06",
+      "name": "Relatórios (5)",
+      "weight": 4,
+      "credited": 0,
+      "evidence": "0 lições com aprovação pedagógica e técnica"
+    },
+    {
+      "id": "M07",
+      "name": "Balcão físico (12)",
+      "weight": 5,
+      "credited": 0,
+      "evidence": "0 lições com aprovação pedagógica e técnica"
+    },
+    {
+      "id": "M08",
+      "name": "Balcão virtual (14)",
+      "weight": 5,
+      "credited": 0,
+      "evidence": "0 lições com aprovação pedagógica e técnica"
+    },
+    {
+      "id": "M09",
+      "name": "Usabilidade e acessibilidade",
+      "weight": 7,
+      "credited": 2,
+      "evidence": "Não há teste real com aprendizes ainda"
+    },
+    {
+      "id": "M10",
+      "name": "Deploy V2",
+      "weight": 5,
+      "credited": 0,
+      "evidence": "A versão V2 ainda não teve publicação confirmada"
+    }
+  ],
+  "percent": 33,
+  "approved_lessons": 0,
+  "authored_pilots": 6,
+  "unreviewed_previews": 90,
+  "source_pages": 107,
+  "modified_at": "2026-10-19T04:10:52.286268+00:00",
+  "blockers": [
+    "Revisão técnica e normativa das seis aulas piloto",
+    "Correção e revisão editorial das outras 90 fichas",
+    "Teste de compreensão com estagiários iniciantes",
+    "Revisão de acessibilidade com tecnologias assistivas"
+  ],
+  "not_equivalent_to": "Progresso técnico V1 de 53,5% não integra a métrica de conclusão pedagógica.",
+  "qa": {
+    "pilot_cases": 36,
+    "expected": 36,
+    "routes": 96,
+    "defects": 0,
+    "static": true
+  }
+}

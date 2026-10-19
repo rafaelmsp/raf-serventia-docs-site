@@ -1,0 +1,135 @@
+{
+  "code": "O-18",
+  "title": "Citação, intimação e AR - fluxo operacional",
+  "section": "O",
+  "section_name": "Operações no PJe",
+  "color": "#1378B4",
+  "page": 23,
+  "source": "Manual Operacional do Estagiário na Serventia — PJe (15/10/2026)",
+  "source_method": "ocr_ptbr_provisorio",
+  "state": "needs_source_review",
+  "pedagogical_ready": false,
+  "technical_approved": false,
+  "student_tested": false,
+  "estimated_minutes": null,
+  "order": null,
+  "is_pilot": false,
+  "objective": "Reconhecer o tema desta página e identificar quais informações precisam ser confirmadas na fonte antes de qualquer atuação.",
+  "plain": "O manual apresenta o assunto “Citação, intimação e AR - fluxo operacional” na página 23. Esta lição ainda depende de revisão da fonte para explicar cada procedimento com segurança.",
+  "terms": [
+    {
+      "term": "Tema da ficha",
+      "meaning": "É o assunto identificado no índice do manual.",
+      "example": "Consulte a imagem da página 23 para compreender os elementos apresentados."
+    },
+    {
+      "term": "Conferência documental",
+      "meaning": "Leitura da fonte e dos documentos relevantes antes de interpretar uma situação.",
+      "example": "Não conclua a situação a partir do título de um evento."
+    },
+    {
+      "term": "Supervisão",
+      "meaning": "Acompanhamento das atividades por servidor habilitado.",
+      "example": "Em caso de dúvida, explique o que observou e pergunte ao responsável."
+    }
+  ],
+  "scene": {
+    "title": "Mapa de leitura provisório — Citação, intimação e AR - fluxo operacional",
+    "alt": "Ilustração conceitual, não tela oficial do sistema.",
+    "regions": [
+      {
+        "title": "Tema principal",
+        "detail": "Identifique o título do infográfico."
+      },
+      {
+        "title": "Fonte original",
+        "detail": "Abra a página 23 do manual."
+      },
+      {
+        "title": "Palavras novas",
+        "detail": "Anote os termos cujo significado ainda precisa compreender."
+      },
+      {
+        "title": "Dúvidas",
+        "detail": "Marque trechos ilegíveis ou que dependam de decisão do servidor."
+      }
+    ]
+  },
+  "observe": [
+    {
+      "title": "Leia o título do infográfico",
+      "detail": "Diga com suas palavras qual assunto está sendo apresentado."
+    },
+    {
+      "title": "Encontre uma explicação visual",
+      "detail": "Procure exemplos, números e setas que precisem de conferência."
+    },
+    {
+      "title": "Não use como roteiro validado",
+      "detail": "Se a imagem não sustenta a ação, não invente instruções."
+    }
+  ],
+  "steps": [],
+  "decision": {
+    "question": "Você encontrou um trecho que parece incompleto ou distorcido no texto transcrito. O que fazer?",
+    "options": [
+      {
+        "label": "Seguir o texto sem conferir.",
+        "feedback": "Não. Uma transcrição pode ter erro.",
+        "correct": false
+      },
+      {
+        "label": "Abrir a imagem original e consultar a supervisão quando necessário.",
+        "feedback": "Correto. Esta ficha está em revisão.",
+        "correct": true
+      },
+      {
+        "label": "Criar a regra que parecer mais lógica.",
+        "feedback": "Não. Regras não podem ser inventadas.",
+        "correct": false
+      }
+    ]
+  },
+  "practice": {
+    "scenario": "Exercício de leitura da fonte, não de execução de atos: você encontra uma palavra ilegível em uma transcrição automática.",
+    "question": "Qual atitude preserva a fidelidade ao manual?",
+    "options": [
+      {
+        "label": "Conferir a página original antes de explicar ou aplicar.",
+        "feedback": "Correto. Uma transcrição incerta não é fonte suficiente.",
+        "correct": true
+      },
+      {
+        "label": "Copiar e executar mesmo com dúvida.",
+        "feedback": "Incorreto: exige conferência.",
+        "correct": false
+      },
+      {
+        "label": "Supor um botão do sistema que não aparece na fonte.",
+        "feedback": "Não invente controles ou fluxos.",
+        "correct": false
+      }
+    ]
+  },
+  "mistakes": [
+    {
+      "mistake": "Repetir o OCR como verdade",
+      "correct": "A grafia e a ordem de leitura podem estar erradas."
+    },
+    {
+      "mistake": "Confundir roteiro didático com ato autorizado",
+      "correct": "As decisões do órgão seguem competências e supervisão."
+    }
+  ],
+  "mastery": [
+    "Consigo localizar a página original.",
+    "Identifico o que preciso perguntar ao servidor.",
+    "Não confundo transcrição provisória e instrução validada."
+  ],
+  "source_image": "../assets/thumbs/p023.jpg",
+  "pdf": "../docs/manual-fonte.pdf#page=23",
+  "archive": "../arquivo-tecnico/O-18.html",
+  "status_note": "Prévia de estudo: explicação operacional desta ficha ainda não revisada.",
+  "revised_by": null,
+  "revised_at": null
+}
